@@ -1,6 +1,6 @@
 # Darklands 简体中文语言包（zh-Hans）
 
-> A Simplified Chinese (zh-Hans) language pack for **Darklands Restoration Project 1.1+**.
+> A Simplified Chinese (zh-Hans) language pack for **Darklands Restoration Project 1.1.3+**.
 > 本仓库只含语言包，**不含任何游戏文件**；它替换文字，不改变引擎，也不改变玩法。
 
 ---
@@ -23,7 +23,7 @@
 
 | 需要 | 说明 |
 | --- | --- |
-| Darklands Restoration Project **1.1 或更高** | 语言包机制是 1.1 才有的：<https://github.com/Arkana-Mechanika-Studios/darklands-restoration/releases/latest> |
+| Darklands Restoration Project **1.1.3 或更高** | 语言包机制是 1.1 才有的；1.1.3 起描述类文本也进模板：<https://github.com/Arkana-Mechanika-Studios/darklands-restoration/releases/latest> |
 | 你自己的 **Darklands 英文版**（483.07） | 例如 GOG 或 Steam 版。**本仓库不含游戏本体**，也不会提供 |
 
 本包不含游戏文件、不含存档、不含任何来自原版的数据拷贝；所有中文都写在 `.ftl` 文本里。
@@ -75,7 +75,18 @@ darklands-zh/
 
 ---
 
-## 翻译表
+## 字体设置
+
+| 槽位 | 用途 | 字体 / size |
+| --- | --- | --- |
+| slot 1 | 侧窗、屏幕页、菜单、队伍面板 | Fusion Pixel 8px / 8 |
+| slot 2 | 部分界面行 | Fusion Pixel 8px / 8 |
+| slot 3 | 卡片窗口（正文、选项） | Fusion Pixel 10px / 10 |
+
+两者都是原生网格尺寸，字形锐利不发虚。因为中文一字占一个 em 方，8px 下两个字宽 16px，
+比原版拉丁文略宽；人物详情等窄列会显得挤。上游已确认该问题计划在 1.2 处理
+（每槽行高 / 整列移动），见「已知缺口」。
+
 
 `translations_zh.tsv` 形式的「英文串 → 中文」对照表在本项目的姊妹仓库里，语言包就是从它转换而来的。
 语言包里的 `.ftl` 用的是上游的 id（`exe:DS:XXXX`、`msg:$FILE#n`、`lst:item/n.name` …），
@@ -85,19 +96,20 @@ darklands-zh/
 
 ## 已知缺口
 
-以下两类问题**出在上游引擎，不是本包能解决的**，已在 GitHub 向上游说明：
+上游已在 1.1.3 修复的：圣徒 / 配方 / 城市描述（`snt:saint/n.desc`、`alc:n.desc`、`dsc:n.desc`）
+现已进入 `tables.ftl`，祈祷界面、炼金书、配方页与城市卡都从语言包读取。本包已灌入中文。
 
-1. **数据文件里的长描述没有进入翻译模板。**
-   圣徒描述（`DARKLAND.SNT`）、炼金配方描述（`DARKLAND.ALC`）等在
-   `SaintPrayerScreen.cs:380`、`AlchemyScreen.cs:144`/`:242` 处被直接读取原始字节绘制，
-   不经过 `ui.Words(id)`，因此语言包无 id 可用。目前这些位置仍是英文。
+仍然存在的问题：
 
-2. **像素网格对齐的中文字体与固定的槽位高度冲突。**
-   上游三个槽位的原生高度是 7 / 8 / 9 px，而中文一字占一个 em 方。Fusion Pixel 的原生网格是
-   8px / 10px，按 7px 渲染会把字形缩放到非整数网格。人物详情面板等窄列会出现折行或挤压。
-   `interface/layout.json` 能缓解个别位置，但无法解决多个文本共用窄面板的情形。
+**像素网格对齐的中文字体与固定的槽位高度冲突。** 上游三个槽位的原生高度是 7 / 8 / 9 px，
+而中文一字占一个 em 方。Fusion Pixel 的原生网格是 8px / 10px，按 7px 渲染会把字形缩放到非整数网格。
+人物详情面板等窄列会出现折行或挤压。上游表示该问题计划在 1.2 处理（每槽行高、整列移动），
+当前临时方案是 slot 1 = 7 px + 必要处 `lines: 2`（见 `interface/layout.json`）。
 
-此外，地名与城市字段（`loc:` / `cty:`）暂保留原文（多为专有名词），敌人名（`enm:`）暂未翻译。
+此外：
+
+- 城市描述（`dsc:`）的中文尚未翻译——原翻译表里没有这些英文串，需要新译；
+- 地名与城市字段（`loc:` / `cty:`）暂保留原文（多为专有名词），敌人名（`enm:`）暂未翻译。
 
 ---
 
