@@ -1,0 +1,3 @@
+# The pack is read as UTF-8 text by the game on every platform; keep LF in the repository.
+* text=auto eol=lf
+*.ttf binary
