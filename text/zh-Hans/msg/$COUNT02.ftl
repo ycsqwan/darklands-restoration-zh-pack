@@ -1,0 +1,56 @@
+# Chinese translation, generated from the project's translation table.
+
+msg-count02-0 = 
+    高塔在阴云下仅余窗间偶露的微光。与此同时，你决定……<br><opt>...<indent>用$Money1贿赂守卫，让他放你入内。<br><opt>...<indent>让$ChosenOneName攀墙，抛下绳索，余者随之而上。<br><opt>...<indent>让众人凭自身本领攀墙。<br><opt-saints>...<indent>pray for saintly aid to surmount the walls. <br><opt-items>...<indent>以炼金术强行开启入口。<br><opt>5<br><opt>6<br><opt>...<indent>离此，赴他方。<br>
+msg-count02-1 = 
+    吼道：“自个儿玩去吧。”守卫抓起那枚银币（价值数月的薪水），飞快地奔向林中。你们悄然潜入其中。
+msg-count02-2 = 
+    卫兵怒斥：“敌袭城门！”堡垒惊醒之际，你疾速遁入密林，以免被识破。天明之后，悄然商议对策。
+msg-count02-3 = 
+    $ChosenOneName稳而慎地攀越外墙石块，放下绳索，余众随之而上。悄然潜入主堡基座最幽暗处，$ChosenOneName复攀，再掷绳索。<br><p>
+    终于，众人齐集于一处岩架，拔剑潜入城堡。
+msg-count02-4 = 
+    你们皆顺利攀上外墙与塔楼。喘息稍歇，拔剑潜入沉睡之城堡。
+msg-count02-5 = 
+    不幸的是，攀爬城墙比你预想的更加艰难。你坠落时的巨响惊动了守卫。警报在塔内响起，你一瘸一拐地消失在黑暗中。
+msg-count02-6 = 
+    In the shadow of the wall, $ChosenOneName utters a quiet prayer to St. Reinold. <br><p>
+    突然，攀爬城墙变得轻而易举。粗糙石壁宛如简易梯阶。你迅速越过外墙，沿塔楼侧壁而上。至一处高台，众人拔剑，踏入其中。
+msg-count02-7 = 
+    在城墙阴影下，$ChosenOneName低声向圣齐塔祈祷。<br><p>
+    几秒后，一名厨房女仆来到你身旁，轻拍$ChosenOneName的肩膀。<br><p>
+    “你们正是我们祈祷的答案，”她低语道，“一小时后我会把那扇隐秘的小门留开，以便你们行上帝之工。”<br><p>
+    她为你指引那扇巧妙隐藏的门。你静候片刻，一小时后，门悄然开启。你悄然潜入塔楼。
+msg-count02-8 = 
+    静静地，$ChosenOneName低声祈祷。<br><p>
+    突然，众人失重。脚下虚空，狂风扑面。尔后，众人被安置于塔侧高处的小平台。$ChosenOneName微笑施恩，众人拔剑，步入其中。
+msg-count02-9 = 
+    静静地，$ChosenOneName 念诵祷词。又念了一遍，再念一遍。毫无动静。<br><p>
+    可惜，你 摇了摇 你的 的头。“今夜，我们的祈祷未获回应。”
+msg-count02-10 = 
+    谨慎前行，$ChosenOneName 悄悄潜至城门，将 你的 药剂洒于铰链与门闩之上。片刻嘶鸣后，你 将大门缓缓放落于地。你拔出双刃，悄然潜入。
+msg-count02-11 = 
+    $ChosenOneName小心翼翼地试图潜近正门。不幸的是，你失足摔倒，药剂倾泻于地，无害散去。<br><p>
+    “入侵者，城门！”守卒于垛口高呼。<br><p>
+    你扶着$ChosenOneName一瘸一拐地回到附近树林的黑暗之中。城堡已被彻底警觉，如今难以接近。你们在余下的夜晚里商议天明之后的对策。
+msg-count02-12 = 
+    将药剂小心置于恰当地点，$ChosenOneName点燃引线，随即伏身墙后。<br><p>
+    一声巨响，门扉碎片四散。警铃乍鸣，汝冲入烟雾弥漫之塔楼正厅。
+msg-count02-13 = 
+    $ChosenOneName 瞄准精准，将药水掷向储藏棚的茅草屋顶。顷刻间，火焰冲天而起。<br><p>
+    顷刻间一片混乱，消防员四散奔走。你混入人群，匆匆穿过敞开的大门。然而当你踏入塔楼时，守卫发现了你。<br><p>
+    “内贼！”他们喊着准备兵器。
+msg-count02-14 = 
+    突然，城堡主君手持利剑，质问：“旅人啊，为何侵扰于我？汝与我无仇，我亦与汝无怨。”他攥紧颈间十字架。“以圣热纳维耶夫之名，收起兵刃。”<br><p>
+    You cannot resist his orders. Blades are sheathed and you stand there, feeling sheepish. <br><p>
+    “军曹，押送此迷途之魂至边境，”领主 command。如被魇术，汝顺从军曹。终悟：领主祈圣热内维耶夫，竟成此奇效。
+msg-count02-15 = 
+    城堡之主鲜血淋漓，命丧尔足下，其悍卒或亡或遁。旭日初升，感恩之农夫称尔为救星，并纵火焚堡，以报昔日迫害之仇。<br><p>
+    你短暂沐浴于荣誉与正义之名下的盛誉之中。随后祝贫苦农夫好运，继续前行。
+msg-count02-16 = 
+    因你的袭击而怒不可遏，领主将你所有财物尽数剥夺。<br><p>
+    “先抽打他们，再把他们吊在城垛上，”他咆哮道，“不管活的还是死的，我都无所谓。”<br><p>
+    Painfully you swing there for hours, bleeding. Finally, a stablehand takes pity and cuts you down while the guard is off relieving himself. <br><p>
+    “你已经尽力了，”你的恩人低声说道，“我们为此敬重你。”你向他致谢后，踉跄着钻进了灌木丛。<br><br>
+msg-count02-17 = 
+    气喘吁吁，你终于在抵达森林时停下脚步。追击的卫兵已在幽暗中迷失。你缓缓、静静地向林中深处行去，以求在黎明前获得安全。

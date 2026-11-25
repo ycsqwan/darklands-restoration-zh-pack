@@ -1,0 +1,50 @@
+# Chinese translation, generated from the project's translation table.
+
+msg-fugge00-0 = 
+    在德国最大的银行——富格尔家族的办公室里，你与一位高级职员商谈正事，并……<br><p><opt>...<indent>兑现信用状，得$Money1。将以真金支付，扣除银行手续费。<br><p><opt>...<indent>请求一张信用状，可将沉重的金币兑换成富格尔银行的票据。<br><p><opt>...<indent>请求会晤，商议其特务。<br><p><opt>...<indent>坚持要见主人，商议你的报酬。<br><p><opt>...<indent>请求拜见主人，商议政事。<br><opt>...<indent>未使用。<br><p><opt>...<indent>返回集市。<br><p><opt>...<indent>从侧门溜入后巷。
+msg-fugge00-1 = 
+    资深文吏引荐汝与$PlaceName之主账房$NamedOneName相见，彼热情相迎，友善如故。<br><p>
+    “各位大人，你们的名声早已传扬四方，”$NamedOneName开口道，“我希望你们能帮我一件要事。”<br><p>
+    $ChosenOneName礼貌颔首。<br><p>
+    "But first, let me show you this modest purse." A small strongbox is opened, displaying $Money1, a princely sum. <br><p>
+    随后匣子合上并锁好。“如今，容我说明困境……”
+msg-fugge00-2 = 
+    在德国最大的银行——富格尔家族的办公室里，卫兵紧握武器，仔细打量着你。不久，一名低级职员嗅了嗅鼻子，问你有何贵干，而你的来意是……<br><p><opt>...<indent>凭信用状兑换$Money1。你将获得真币，但需扣除银行手续费。<br><p><opt>...<indent>请求一张信用状，可将沉重的金币兑换成富格尔银行的票据。<br><opt>...<indent>禁止讨论。<br><opt>...<indent>要求见主人，商议酬劳。<br><p><opt>...<indent>讨论政治议题。<br><opt>...<indent>未使用。<br><p><opt>...<indent>返回集市。<br><p><opt>...<indent>从侧门溜入后巷。
+msg-fugge00-3 = 
+    当他于银行专用纸笺上书写便笺时，柜员复述关于信用状（银行票据）的旧例。他指出此券可在任何富格银行兑取现金，手续费甚微。美第奇银行亦可兑付富格票据，然他谨慎说明：有时拒收，且收费更高。<br><p>
+    你集资，付与书吏足额钱币，以购价值……之文书。
+msg-fugge00-4 = 
+    资深文吏引荐汝与$PlaceName之主账房$NamedOneName相见，彼热情相迎，友善如故。<br><p>
+    “各位大人，你们的名声早已传扬四方，”$NamedOneName开口道，“我希望你们能帮我一件要事。”<br><p>
+    $ChosenOneName礼貌颔首。<br><p>
+    “且慢，先观此物。”包裹徐展，现$NamedTwoName。汝惊呼，知此品价值至少$Money1。旋即复裹。<br><p>
+    “此物或可归汝。容我道明困境……”
+msg-fugge00-5 = 
+    办公室文吏一挥手，卫兵即围住汝等。未及抗议或拔剑，已被驱逐出室。<br><p>
+    卫兵下士探身门外，嘶声道：“尔等贱民，岂配踏入此银库？速退！”<br>
+msg-fugge00-6 = 
+    你注视着店员查验纸条，时间悄然流逝。终于，他将纸条递给另一名店员，后者更仔细地端详笔迹。又交予第三人，将其置于灯光下检视。随后，原店员消失于内室。时光再逝，他携一沉重的钱袋归来。坐定后，从钱袋中数出全额，$Money1。<br><p>
+    Then he deducts $Money2 from the pile. "This is the service charge," he explains. "Thank you for your patronage." <br>
+msg-fugge00-7 = 
+    终被引入首席银行家之办公室。<br><p>
+    “不错，确有铁证证明汝已完满履行使命。因此，吾义不容辞，当付此酬。”<br><p>
+    小箱子出现，$Money1被仔细数出。<br><p>
+    “坦率地说，”他说道，“与此财别离令我痛心。然而，若非尔等英勇，吾等境况更甚。”随即一笑，“吾当告知诸分号，尔等信义无亏。彼等亦或有意延聘尔等。”
+msg-fugge00-8 = 
+    终被引入首席银行家之办公室。<br><p>
+    “不错，确有铁证证明汝已完满履行使命。因此，吾义不容辞，当付此酬。”<br>
+    包裹现身，$NamedTwoName被拆开，呈于汝前。<br><p>
+    “坦率地说，”他说道，“与此别离令我痛心。然而，若非尔等英勇，吾等境况更甚。”随即一笑，“吾当告知诸弗格商号，尔等信义无亏。彼等亦或有意延聘尔等。”
+msg-fugge00-9 = 
+    银行主人自后堂而出，立于其账房与卫士之间。<br><p>
+    "My friends, there is no proof that you have fulfilled your commission. Don't bother me further until you have!" <br><p>
+    主人随即隐入内室，卫士则匆匆将你驱出。
+msg-fugge00-10 = 
+    书记官鼻哼一声，示意你出门。“抱歉，$NamedOneName今日无暇。实则整周皆忙。”<br><p>
+    显然，你缺乏足够的魅力或声誉来打动富格家族。
+msg-fugge00-11 = 
+    你静候书记官查问。他复返道：“若稍候，$NamedOneName不久便可抽身。”<br><p>
+    你久候，终见书记官引你至$NamedOneName——本城富格银行经理——那间陈设考究的办公室。
+msg-fugge00-12 = 
+    书记官笑道：“我们纵谈一日，也难有定论。我事务繁忙，上司更忙。若欲游说，不妨找个不那么忙的人。”<br><p>
+    他的手势毋庸置疑。卫兵迅速而利落地将你护送出门。

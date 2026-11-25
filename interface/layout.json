@@ -1,0 +1,23 @@
+{
+  "screens": {
+    "BarterScreen": {
+      "exe:DS:2F71": { "width": 247, "lines": 2 },
+      "exe:DS:2FD5": { "width": 247, "lines": 2 },
+      "exe:DS:307F": { "width": 247, "lines": 2 },
+      "exe:DS:30E3": { "width": 242, "lines": 2 },
+      "exe:DS:3172": { "width": 247, "lines": 2 },
+      "exe:DS:31A2": { "width": 247, "lines": 2 }
+    },
+    "LoadGameScreen": {
+      "exe:DS:4815": { "width": 122, "lines": 2 }
+    },
+    "CharacterSheetScreen": {
+      "exe:DS:2DEC": { "width": 24 },
+      "exe:DS:2DF0": { "width": 24 }
+    },
+    "AlchemyScreen": {
+      "exe:DS:33E2": { "width": 128 },
+      "exe:DS:332F": { "width": 128 }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+# Chinese translation, generated from the project's translation table.
+
+msg-raubi01-0 = 
+    微笑着，$NamedOneName向你伸出手以表谢意。“我感谢你及时铲除了$NamedTwoName的暴行。$PlaceName与我将永志不忘这份援助。你是位良友。”<br><p>
+    当你离去，路人对你微笑颔首。市民的热忱令你欣慰。
+msg-raubi01-1 = 
+    深鞠躬并连声道谢，$NamedOneName 说道：“永世感谢阁下的援手。吾村将永远铭记于心。如今我须返归本职，继续担任施尔茨。”<br><p>
+    于是，他离开了你们的队伍。
+msg-raubi01-2 = 
+    高兴地，$NamedOneName对你说：“终于，$NamedTwoName的势力被摧毁了。整个$PlaceName都将知晓你的功绩；你的事迹将被铭记。”<br>
+msg-raubi01-3 = 
+    当他见到你们时，$NamedOneName微笑颔首。<br><p>
+    “今时道路畅通无阻，$NamedTwoName既不再封锁。吾将铭记尔等壮举，不仅于此地，更将广传天下。”<br><p>
+    "虽正义乃其自身之酬，然吾等商人亦重契约与赏赐。汝之所得，实至名归。"<br>
+msg-raubi01-4 = 
+    当你仔细收拾所得，酬劳$NamedOneName欢声笑语，喋喋不休。<br><p>
+    “炼金与草药之术，今得于$PlaceName再兴。诸位之名，将永载史册。”
+msg-raubi01-5 = 
+    主账房依旧微笑，其状诡异而阴森。<br><p>
+    “多年祈盼，终至今日，$NamedTwoName终于覆灭。他不仅是近年最恶之劫匪骑士，更是害残我独子的暴徒！”<br><p>
+    他敛神片刻：“然则今我之仇已报。此事我将铭记，并常加述说。世间确有公义！”
+msg-raubi01-6 = 
+    When you arrive at the Hanseatic League's offices, your friend leaves you, his job done. His master, $NamedOneName, thanks you personally. "You have greatly assisted the League with the downfall of $NamedTwoName. All of our cities shall know of this." He hands you a purse of money. <br><p>
+    外面，你清点所得。汉萨商人赠你$Money1，数目可观。
+msg-raubi01-7 = 
+    汉萨代表$NamedOneName亲致谢意：“汝助同盟诛灭$NamedTwoName，功不可没。吾盟诸城皆知此事。”言罢递银囊一枚。<br><p>
+    离开后，你清点银两。汉萨商人给了你$Money1！一笔可观的数目。
+msg-raubi01-8 = 
+    带着神秘的微笑，$NamedOneName说道：“如今$NamedTwoName已毁，我们的计划将更加顺利地推进。我们怀念那些助力我们谋划之人。”<br><p>
+    随后$NamedOneName靠回椅背，继续说道：“然则，最为紧要者，莫过于铲除此类恶行，使纯净之光与理性之香普照此地，令众生皆得福祉。”<br><p>
+    在意大利人尚未开始长篇大论地谈论哲学之前，你有礼而迅速地告辞了。
+msg-raubi01-9 = 
+    突然，鬼影颤动，似要消散。它欢欣尖叫：“终于！我的苦难终告终结！$NamedTwoName已为其罪孽付出代价，我得以解脱。解脱！”<br><p>
+    一道闪光闪过，幽灵消逝，或升天堂，或堕地狱。你已解脱其束缚，使其脱离尘世。
+msg-raubi01-10 = 
+    村落新任村长已就！幸甚，其性情与旧任相仿。他频频鞠躬致谢，言道：“永感君恩。吾村永铭君德。”
+msg-raubi01-11 = 
+    主账房依旧微笑，其状诡异而阴森。<br><p>
+    “多年祈盼，终至今日，$NamedTwoName终于覆灭。他不仅是近年最恶之劫匪骑士，还玷污了我妻之妹，她至今仍在尼姑庵中苦苦疗伤。”<br><p>
+    他敛神片刻：“然则今我之仇已报，彼亦然。或许此讯能助其康复：世间确有公义！”
+msg-raubi01-12 = 
+    你的恩主$NamedOneName对$NamedTwoName之覆灭欣喜不已。<br><p>
+    “惨烈之死乃疗愈往昔罪孽之良药。”他咯咯笑道，“你不以为然吗？”他喋喋不休，得意于仇敌之覆灭。你礼貌地接过赏金，悄然离去。

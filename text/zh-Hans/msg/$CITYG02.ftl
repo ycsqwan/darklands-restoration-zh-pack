@@ -1,0 +1,43 @@
+# Chinese translation, generated from the project's translation table.
+
+msg-cityg02-0 = 
+    Scowling guards carefully inspect everyone entering $PlaceName. Casual visitors and wayfarers are turned away, while wagons bringing supplies are eagerly waved through. <br><p>
+    你决定去...<br><p><opt>...<indent>从容穿门而入，如主人般自在。<br><p><opt>...<indent>凭机智与风度，结交守卫。<br><p><opt>...<indent>支付农夫$Money1，使其容你匿于草垛之中。<br><p><opt-items>...<indent>use an alchemical distraction to allow you to slip inside. <br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt-battle>...<indent>draw weapons and attack the guards! <br><p><opt>...<indent>退后一步，重新权衡对策。<br>
+msg-cityg02-1 = 
+    The sergeant of the guard suddenly recognizes you and unexpectedly grins. "Guten tag, friends! I and my men welcome you to fair $PlaceName." he shouts, and eagerly beckons you into the city.{" "}
+msg-cityg02-2 = 
+    你漫不经心地踱步至城门前，而守卫们正忙着查验一车吱吱作响的猪只。不幸的是，一名守卫在关键时刻抬头望来。弩箭齐射，刀剑出鞘。军曹低吼道：“站住！”你尴尬地停下脚步。“$PlaceName已陷于战乱，”他嘶声道，“我们无需再添无用之口。滚开！”
+msg-cityg02-3 = 
+    The guards scowl at you and painstakingly question you for what seems like forever. In the end, unable to find any reason to exclude you, they grudgingly let you inside. <br>
+msg-cityg02-4 = 
+    一位友善却吝啬的农夫同意以报酬将你偷运进$PlaceName……他把你藏在干草堆下，你便随车进城。守卫奉命允许物资入城，仅作粗略检查便挥手放行。进城后，你从干草中钻出，滚落到街道上。你已潜入城内！
+msg-cityg02-5 = 
+    正当你忙得不可开交时，试图从卫兵身旁悄然溜过，却被他们察觉。一柄戟闪电般横于你面前。卫兵低吼道：“站住！通行税呢？”你讪讪一笑。“要么缴税，要么滚蛋！”卫兵厉声喝道。
+msg-cityg02-6 = 
+    慢慢地，一股恶臭弥漫了城门区域。排队的人们惊慌失措地后退，而守卫也开始干呕咳嗽。几秒后，他们和周围的旁观者一起倒在地上，痛苦不堪。屏住呼吸，众人冲过空无一人的城门，进入$PlaceName。
+msg-cityg02-7 = 
+    当那只看似无害的瓶子凌空飞来时，你闭目避让。只听一声轻响与一道亮光。<br><p>
+    “吾盲矣！”一卫士尖叫，余众哀号哭泣。汝趁乱疾驰，甫越门户，便闻：“嘿——城门有巫术！鸣警！”然为时已晚，汝已沿巷疾入城中。
+msg-cityg02-8 = 
+    随着一声巨响，一股刺鼻的黑烟弥漫于城门区域。人们惊叫着四散奔逃，卫兵在浓雾中盲目挥舞。你趁机从摸索的卫兵身旁溜过，迅速进入城内。身后传来“备战！巫师来袭！”的呼喊声。
+msg-cityg02-9 = 
+    当药剂在传送门中爆炸时，一片混乱。卫兵与众人相撞，咒骂着倒下。你徒劳地试图挤过人群，却因不够敏捷而未能及时穿过，卫兵已恢复秩序。
+msg-cityg02-10 = 
+    周围的人纷纷驻足凝视，只见$ChosenOneName高举你的双臂，向圣卢特加迪斯呼喊。一道耀眼的光芒笼罩众人，喧闹的城门前顿时一片肃静。你缓缓升空，守卫们目瞪口呆，只见你轻盈地越过垛口，稳稳落在城街上。众人惊呼不已，甚至有人跪倒在地，虔诚祈祷，而你则从容离去。
+msg-cityg02-11 = 
+    众人驻足凝视，$ChosenOneName高声吟唱赞美圣米尔伯加的圣歌。你一声大喝，将十字架紧紧按在你的胸前。人群顿时寂静，一道光芒笼罩你们一行。你们缓缓升空，轻盈地越过城墙，稳稳降落在城中街道上。围观者与守卫先是惊愕不已，继而渐渐退散，显然对你们的力量心生畏惧。
+msg-cityg02-12 = 
+    勇敢地挺身而出，$ChosenOneName 跪地祈祷，吟唱圣歌，甚至匍匐于尘埃，却毫无所获。你的 的祈求未得回应。与此同时，农夫与旅人不安地绕过这小小的一幕。有人低声向圣维图斯祈祷，以为你被附身或遭诅咒。最终你只得放弃，稍作休憩，重新思量对策……
+msg-cityg02-13 = 
+    你冲入门内，入城街前，援兵未至。商贾百姓四散奔逃。
+msg-cityg02-14 = 
+    胜利之卫不分昏迷与死亡，只剥去尸体明显可用之物，弃于邻林。
+msg-cityg02-15 = 
+    血脉在耳中奔涌，你疾步冲入城中。你转过一个街角，跑进一条小巷。身后，守门的军士发出新的命令。<br><p>
+    “放他们走吧，弟兄们，我们的职责在城门。日常巡逻自会处置他们！”
+msg-cityg02-16 = 
+    退离城门时，耳畔仍回荡着卫兵的嘲讽之声。<br><p>
+    “兔奔兔奔！汝非吾敌！”
+msg-cityg02-17 = 
+    当你放下武器投降时，战斗便告结束。卫兵没收了你的武器及一切显而易见的贵重物品。数分钟后，一队巡街兵至，持矛押送你入地牢。巡逻队长对你嗤之以鼻。<br><p>
+    "尔等鼠辈，可与汝等族人同腐数日，待法官有暇再定汝等之刑！"

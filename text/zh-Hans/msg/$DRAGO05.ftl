@@ -1,0 +1,55 @@
+# Chinese translation, generated from the project's translation table.
+
+msg-drago05-0 = 
+    徜徉于废墟之中，你遇一骑士，甲胄鲜明，率众兵而行。“且慢！”他喝道，“汝意欲何为？”<br><p>
+    $ChosenOneName温和地回答道：“我们欲终结这恐怖。谁会反对呢？”<br><p>
+    骑士怒目而视：“尔等可知，吾$NamedOneName将亲斩恶兽$NamedTwoName。滚开！一切荣耀皆属吾！”<br><p>
+    你 ...<br><p><p><opt>...<indent>ZQPIPE: {"{"}{"{"}N{"}"}{"}"} 笑他一番，然后各奔前程。<br><opt><br><p><opt>...<indent>拔刃出击！<br><p><opt>...<indent>有礼地告辞，继续前行。
+msg-drago05-1 = 
+    你遇不幸骑士$NamedOneName，浑身浴血。其麾下将士皆亡，惨遭巨力撕裂。<br><p>
+    你为其包扎伤口，他开口道：“诚然，我未曾料到有何妖魔能强横至此，足以抗衡虔诚骑士。烈火灼我，毒雾窒息，铁甲鳞片折断我刃。”他紧握汝袖。“诸位善士，”他哀求，“切莫无良法对抗。此魔过于凶险，非凡人所能敌。”<br><p>
+    当你确信他已脱离生命危险时，便继续前行。
+msg-drago05-2 = 
+    令你惊讶的是，你见$NamedOneName已然痊愈。<br><p>
+    $ChosenOneName 说道：“幸会，$NamedOneName。汝仍欲寻求屠戮$NamedTwoName之荣光乎？”<br><p>
+    他面露愧色：“我之傲气尽失。恶龙屠戮吾友。今我贫无所依。唉，$NamedThreeName诱我犯下此等恶行。或许我将在复仇途中殒命，以此了却心中苦痛。”<br><p>
+    你 ...<br><p><p><opt>...<indent>询问关于$NamedThreeName的事。<br><opt><br><opt><br><p><opt>...<indent>漫不经心，置之不理。
+msg-drago05-3 = 
+    号啕咒骂着，一位双眼狂乱的圣人踉跄行过满目疮痍的乡野。他高呼：“吾乃$NamedThreeName。汝等效忠何方？”<br><p>
+    $ChosenOneName 谨慎地说道：“汝意欲何为？”<br><p>
+    他答曰：“众生皆侍天庭或地狱，别无中间之道。吾孜孜以求，欲使世人归于真理。今地狱之子既获自由，众人皆当明鉴。”<br><p>
+    你 ...<br><p><p><opt>...<indent>再与之交谈。<br><opt>...<indent>隐藏<br><p><opt>...<indent>拔刃出击！<br><p><opt>...<indent>转身离开他，离去。
+msg-drago05-4 = 
+    前方，$NamedOneName 与你相遇。“幸会！”他说，“既是我放出了那条巨龙，便当亲手终结它的暴政。如此方能求得宽恕。”<br><p>
+    你 ...<br><p><p><opt>...<indent>询问他关于龙的事。<br><p><opt>...<indent>邀请他加入你的队伍。<br><p><opt>...<indent>拔刃出击！<br><p><opt>...<indent>忽视他的呓语，离去。
+msg-drago05-5 = 
+    一具披甲男尸近旁横卧。你认出那是你的故交，$NamedOneName。可怜之人！他终与恶龙再战一场，然如其所料，未能胜出。
+msg-drago05-6 = 
+    他咬牙切齿地朝你喊道：“远离$NamedTwoName！若非我，那条龙岂会苏醒？这荣耀应归于我！”<br><p>
+    你回味他临别之言。
+msg-drago05-7 = 
+    他颇为羞赧地述说：“自幼便听闻关于$NamedTwoName的传说，沉睡于蠕虫山下，注定在末日号角吹响之时苏醒，加入歌革与玛各的军阵。”<br><p>
+    "One day a priest, $NamedThreeName, came. He believed the old stories. He said 'twas Heaven's will that we unleash the dragon. Such proof of Satanic power would bring the people to repentance. <br><p>
+    “吾惟思屠龙之功名。为助狂僧，吾掘虫丘之隧。$NamedThreeName 入内，吾携弓手守候于外。”
+msg-drago05-8 = 
+    $NamedOneName大人继续说道：“一声巨响，山顶被炸飞；那怪物腾空而起。我军的箭矢击打在其铁甲之上，叮当作响。”<br><p>
+    “吾发誓，未曾料巨怪能致如此灾祸。吾悔昔日自负，愿以善行赎罪。”<br><p>
+    “欲战巨龙，需备超常武器、威力十足之药剂（毒与火几无用），并祈求圣佑。慈善、埃拉斯谟、潘达列昂、波利卡尔普之庇护可御火焰。若有防火药剂，亦宜施用。”
+msg-drago05-9 = 
+    牧师$NamedThreeName喃喃道：“我已毁其地狱之巢，迫使其入吾界。今我等幸存者，共历末世之沧桑！吾圣十字植于妖魔之穴，遂窃其力以佑天国！吾掌万能！”<br><p>
+    他继续道：“慈善、伊拉斯谟、潘塔列昂、波利卡普！唯有此诸圣，加之防火墙之炼金术，方能抵御龙焰之炽热。孰能如我般熟知乎？”<br><p>
+    他高举双臂，一道光芒乍现。似有神力护其周身。然天道岂容无辜遭屠？
+msg-drago05-10 = 
+    战事已毕，你凯旋。好战的骑士$NamedOneName跪伏于你膝前，鲜血淋漓，气息微弱。$ChosenOneName劝诫道：“当巨龙肆虐、无辜百姓沦为猎物之时，人类相残实属不义。吾等之敌乃怪物，而非彼此。”<br><p>
+    “免去说教吧，”$NamedOneName道，“然汝言亦有理。我再不与汝相抗。”
+msg-drago05-11 = 
+    你继续前行。身后，$NamedOneName爵士呻吟着，他的爪牙正在为他包扎伤口。他不会再急于与你交锋了。
+msg-drago05-12 = 
+    被$NamedOneName爵士及其部下驱逐，你愤然逃窜。今日败北。事实上，你想到，若连龙都胜过骑士，你又岂能与之抗衡！
+msg-drago05-13 = 
+    Sir $NamedOneName's men take you captive. The arrogant knight curses. "Miscreants! You'll regret this day a long time." <br><p>
+    He turns to his men. "Take the prisoners away. The magistrate should deal with them, not us." <br><p>
+    抢劫了你之后，那些士兵粗暴地把你押送到最近的城市，在那里你被毫不客气地扔进了地牢。
+msg-drago05-14 = 
+    怒吼着，$NamedThreeName 以滔天的魔火将你逼退。他嘶哑地喊道：“凡人皆不能伤我，因我圣十字汲取龙穴之力！故而地狱之威反为天恩所用！”<br><p>
+    他疯狂挥舞双臂，施展出更多法术，随即在一片刺目的硫磺烟雾中消失。你惊恐不已。一个疯子怎会有如此神力？

@@ -1,0 +1,32 @@
+# Chinese translation, generated from the project's translation table.
+
+msg-raubi04-0 = 
+    悄悄穿过$NamedOneName堡垒的黑暗走廊，前方传来人声。你决定……<br><p><p><opt>...<indent>找到劫匪骑士，劝其投降。<br><p><opt>...<indent>纵火焚烧城堡，随后自低窗潜出。<br><p><opt-battle>...<indent>抽出武器，闯过城堡。<br><p><opt>...<indent>悄然自低窗攀出，逃出生天。
+msg-raubi04-1 = 
+    Working quickly, $ChosenOneName lays tinder against a wooden interior wall. Using flint and steel, $he starts a fire. Then you let yourselves out of a window with all haste. <br><p>
+    当你在外窥视，城堡一窗骤燃灯火。火势愈炽，终致整座城堡烈焰滔天！沙哑惨呼迭起，忽见城门大开，$NamedOneName亲率数人咳嗽踉跄而出。见汝，怒喝：“汝毁吾家业，然地狱先迎汝！”即刻扑杀。
+msg-raubi04-2 = 
+    Painstakingly setting tinder against a wooden interior wall, $ChosenOneName starts it burning with $his flint and steel. Then you let yourselves out of a window with all haste. <br><p>
+    当你观望，城堡一窗火光乍现。室内人声鼎沸，似在奋力灭火。或可再添几把火，助其延烧，抑或趁乱再度入塔。
+msg-raubi04-3 = 
+    你 尽快行动，$ChosenOneName 在木制内墙上点燃一小堆火。随后你从窗户逃出。你等待再等待，但堡垒内并无异状。要么有人发现了你的火，要么火在点燃墙壁之前就熄灭了。
+msg-raubi04-4 = 
+    黑暗无窗的走廊在你面前延伸，你悄然潜行于强盗骑士的巢穴之中。突然，一群全副武装的士兵从前方的门中涌出，醉醺醺地谈笑着。你试图跃入阴影，但为时已晚。他们已发现你，瞬间清醒过来。<br><p>
+    “剖腹之，儿郎们！”为首者狞笑，众人遂扑上。<br>
+msg-raubi04-5 = 
+    悄然潜入塔楼，你寻得$NamedOneName的居室，推门而入。那名强盗骑士与其副手惊愕抬头。$ChosenOneName上前一步，刀锋抵住老贼咽喉。<br><p>
+    "We have come for you." says $ChosenOneName. The robber knight blusters briefly, then tries wheedling, "I have much silver. Take it all, just give me an hour's head start." <br><p>
+    中尉对其主人怒吼道：“什么？你要弃我们而去，只为保全你那卑贱的性命？去死吧，畜生！”中尉跃向$NamedOneName，将主人刺穿，随即闪身逃入侧门，高声示警。
+msg-raubi04-6 = 
+    悄然潜入塔楼，你找到了$NamedOneName的房间并走了进去。那名强盗骑士猛然跃起，随即后退，拔出了武器。<br>
+msg-raubi04-7 = 
+    那作恶多端的劫匪骑士$NamedOneName，正于你面前血流不止，奄奄一息。其麾下士卒军心尽丧，弃械投降。你遂着手清理城堡库藏，心中暗忖未来旅人将因道路平安而几度称颂汝名。
+msg-raubi04-8 = 
+    逃离强盗骑士的武士，你奔出城堡，重返城外荒野。在那里，你再次扎营。
+msg-raubi04-9 = 
+    那些劫匪得意地搜刮你身上的值钱之物。掠尽所有后，他们把你半裸无助地拖到$NamedOneName面前。他嗤笑道：“把他们拖出去，活活打死！”<br><p>
+    他的手下把你拖到屋外，痛打一阵，便弃你于死地。然而，他们下手并不彻底，你还未断气。
+msg-raubi04-10 = 
+    你冲破残门，直入恶骑士堡寨。“$NamedOneName，吾等来取汝首！”你高声喝道。厮杀即起。
+msg-raubi04-11 = 
+    直视劫匪，$ChosenOneName 呼曰：“投降！”劫匪呼救，旋开密道疾遁。汝追入，然遭兵阻。汝须破城擒拿 $NamedOneName。

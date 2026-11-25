@@ -1,0 +1,23 @@
+# Chinese translation, generated from the project's translation table.
+
+msg-wqsta00-0 = 
+    在幽深雾霭的谷地，远望似修道院者，实乃湖畔破败庄宅。你决定……<br><p><p><opt>...<indent>探查此处栖居者（或何物）。<br><p><opt-saints>...<indent>祈求洞悉占据庄园者（或何物）。<br><p><opt>...<indent>绕过庄园，继续你的旅程。
+msg-wqsta00-1 = 
+    你总觉得少了些什么。<br><p>
+    “吾议回访那座庄园，”$ChosenOneName 言，“吾心隐隐觉其与我等攸关。”
+msg-wqsta00-2 = 
+    When $he finishes the prayer, $ChosenOneName is uneasy about the manor. It is clearly an unholy place, but yet it has none of the evil, horrible feeling of Satan's works. <br><p>
+    唉，你 也确信队伍必须造访此地。此处有至关重要的事物，极为重要。因此你...<br><p><p><opt>...<indent>探查此处栖居者（或何物）。<br><opt-saints>1<br><p><opt>...<indent>绕过庄园，继续你的旅程。
+msg-wqsta00-3 = 
+    不幸的是，$ChosenOneName的祈祷毫无效果。你思索着局势，然后决定……<br><p><p><opt>...<indent>探查此处栖居者（或何物）。<br><p><opt-saints>...<indent>再次祈求洞见。<br><p><opt>...<indent>离开此地，继续旅程。
+msg-wqsta00-4 = 
+    石制怪兽雕像从高楼上俯视着。一位年迈的仆人于门前迎候。“请进，尊贵的客人，你已被恭候多时。”他引领你至一室，只见一位身着奇装异服的妙龄女子颔首致意，示意你落座。<br><p>
+    “古老魔法乃吾之生命，”她言道，“然吾非女巫，亦非炼金术士。撒旦为吾敌，主乃吾牧者。吾之占星术预示汝之降临，并示未来之路。谛听，因汝乃适人、适时、适其所用之人……”
+msg-wqsta00-5 = 
+    年迈的仆人再次向你致意：“欢迎归来，尊贵的宾客。一如既往，你已在此恭候。”美丽的魔法师兼占星师再次在客厅中等候着你。<br><p>
+    她微笑。“再会。且慢开口，请静听吾之幻象。尔后离去，自择前路。余问徒劳，吾术有限，仅能至此……”
+msg-wqsta00-6 = 
+    年迈的仆人再次向你致意：“欢迎归来，尊贵的宾客。一如既往，你已在此恭候。”美丽的魔法师兼占星师再次在客厅中等候着你。<br><p>
+    她面无表情地点了点头。“我的术法显示，你尚未成功。唉，我无法再予助力。待你功成之时，我方可窥得更多。在此之前，我所见唯有末日将至，如疾驰的骏马自未来岁月奔腾而来，直逼今朝。然在汝等有生之年，尚可扭转乾坤。”她挥手示意你退下。
+msg-wqsta00-7 = 
+    当你祈祷完毕后，$ChosenOneName对庄园隐隐不安。你亦深信，此处难觅新知或有用之物。

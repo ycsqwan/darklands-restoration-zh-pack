@@ -1,0 +1,25 @@
+# Chinese translation, generated from the project's translation table.
+
+msg-drago14-0 = 
+    峭壁一侧灼痕累累的大洞，硫磺烟气滚滚而出。你开始攀援，忽见一个庞大可憎的头颅自洞中探出。正是巨兽$NamedTwoName！<br><p>
+    你无助地紧 clinging 岩壁之下。巨龙低吼，蓄势喷火。<br><p>
+    你匆忙地...<br><p><p><opt>...<indent>展示龙之金杯。<br><p><opt>...<indent>呼求圣徒拯救。<br><p><opt>...<indent>尽快下山。
+msg-drago14-1 = 
+    迅速地，$ChosenOneName 举起你从盗贼手中夺回的金杯。巨龙几乎被自己的火焰呛住，因为它不得不强行压下即将喷出的火浪。显然，$NamedTwoName 不愿损伤它那珍贵的宝物！<br><p>
+    恶龙退回巢穴。尔谨慎尾随。
+msg-drago14-2 = 
+    惊世的克里斯蒂娜回应了你的祈求，你骤然被神圣的光辉笼罩，轻盈地漂浮于空中，远离那龙的残酷恐怖。
+msg-drago14-3 = 
+    戈德哈德回应你的恳求，巨龙顿时茫然无措。神圣之力将其笼罩，它已无力再攻。趁其暂时失神，你急下斜坡，抓住时机脱身。
+msg-drago14-4 = 
+    格雷戈里·索马图尔古斯以一道闪电回应你的绝境，那闪电击碎了巨龙头顶的崖壁，将其埋于乱石堆中。你听得见怪物愤怒的咆哮，便迅速离去，以免它挣脱而出。
+msg-drago14-5 = 
+    你的祷告虽急切，却未得回应，巨龙喷出一道火舌，将你们尽数吞没。你们焦黑倒地，滚落坡底。惊魂未定，你审视自身处境。
+msg-drago14-6 = 
+    Luckily, you are all agile enough to make it to the bottom of the slope before $NamedTwoName can breath forth its gouts of flame. You are all singed, but avoid the vast injuries you might have suffered. Above you, some half-melted rocks drip down the cliff's face. <br>
+msg-drago14-7 = 
+    龙怒吼着，$NamedTwoName喷出阵阵火焰，将你们尽数吞没。衣衫燃尽，你们翻滚着坠至坡底。一时昏厥，所幸坠落扑灭了火焰。
+msg-drago14-8 = 
+    众人之中，唯有你身手敏捷，堪避龙焰之袭。怪物发泄怒气后退去，你遂审视局势。
+msg-drago14-9 = 
+    你们中有些人足够敏捷，躲过了巨龙的猛烈攻击，而另一些人则慢了一步。幸运的是，怪物并未追击，而是返回了巢穴。

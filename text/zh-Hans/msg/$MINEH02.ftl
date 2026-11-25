@@ -1,0 +1,30 @@
+# Chinese translation, generated from the project's translation table.
+
+msg-mineh02-0 = 
+    如今，附近区域的火怪已不复存在，你将目光投向此处那处奇异的喷火口。你确信，此喷火口正是火怪的力量之源——它们进入矿井的入口。若能将其摧毁，火怪之患便可终结，矮人得以重返家园，矿工亦可重获其矿！<br><p>
+    你决定去 ...<br><p><opt>...<indent>以巨石堵住缺口。<br><p><opt>...<indent>运用巧思设计机械阻隔。<br><p><opt-saints>...<indent>呼唤圣人。<br><p><opt-items>...<indent>使用合适的药剂。<br><p><opt>...<indent>忽视喷泉，离去。
+msg-mineh02-1 = 
+    如今，附近一带的亡灵已除，你将目光投向此处的墓穴。你确信，此墓正是亡灵祸患之源——它们由此进入矿井。若能将其摧毁，矮人们便可重返家园，矿工们亦可重掌矿脉！<br><p>
+    你决定去 ...<br><p><opt>...<indent>凭借蛮力将其拆毁。<br><p><opt>...<indent>运用巧思封锁大门。<br><p><opt-saints>...<indent>呼唤圣人。<br><opt>x<br><p><opt>...<indent>忽视墓穴，离去。
+msg-mineh02-2 = 
+    如今，附近之恶魔既除，汝将目光投向此处之秘术地狱门。汝确信此入口乃恶魔入矿之路。若能将其封绝，则恶魔不再侵入，矮人可归故里，矿工亦得复其矿！<br><p>
+    你决定去 ...<br><p><opt>...<indent>以巨石堵住缺口。<br><opt>x<br><p><opt-saints>...<indent>呼唤圣人。<br><p><opt-items>...<indent>以药剂改变其本质。<br><p><opt>...<indent>忽视地狱之门，离去。
+msg-mineh02-3 = 
+    费尽全力，你将岩石一层层堆砌在那邪恶之地之上，直至用巨大的石块将其完全掩埋。完工之后，你深感安心，确信任何邪恶之物都无法穿透你的石冢。
+msg-mineh02-4 = 
+    正如印证你的猜想一般，欢快的矮人骤然涌入厅堂，高歌欢庆。其中一人唱道：<br><p>         Multiple Gratitude<br>          All of our enemies<br>          Gone from our quarries and<br>          Tunnels forlorn.<br>          You have our thankfulness<br>          Humans of worthiness.<br>          Now we'll return to our<br>          Harbors re-born.<br><p>
+    说罢，矮人离去。汝细查矿井，确认矮人确已远去，终无所踪。矿井可重新开采！汝返矿工营地。矿工见汝凯旋，皆喜形于色。
+msg-mineh02-5 = 
+    你扰动邪祟之力源，竟使其苏醒！震天怒吼，新邪蜂拥而出。你不得不战！
+msg-mineh02-6 = 
+    巧妙应变，$ChosenOneName拼凑出一道简易机械 barricade，纵使超人之力亦难撼动。“这该能挡得住他们了，”你轻笑道。
+msg-mineh02-7 = 
+    借圣埃米迪乌斯之名，$ChosenOneName施展神力。洞顶开始震颤，巨石纷纷坠落。地面裂开一道深缝，蒸汽腾起。你被迫退出此室。最终，洞室被彻底摧毁，尽为埃米迪乌斯的地震所填。显然，任何邪恶之敌再难从此路侵入。
+msg-mineh02-8 = 
+    凭借秘术之力，$ChosenOneName祈求天使净化此污秽之地。天籁合唱响起，一道明光凝聚于怪物的能量源。忽闻雷鸣炸响，甜香弥漫的雾气散去后，那恐怖之门已无影无踪。它已被天界彻底抹除。
+msg-mineh02-9 = 
+    防火药水果然奏效！小火山喷涌几下，瞬间燃起，随即被炼金秘方的神秘力量彻底熄灭。那些可怕的火山怪将再也无法从此处入侵！
+msg-mineh02-10 = 
+    当汝将防火药剂倾入火口，其暂且喷溅，旋又燃起，然焰势似弱。若再灌入防火药剂，或可彻底熄灭。
+msg-mineh02-11 = 
+    苦心将转化之法倾注于地狱之门的石壁之上，一场巨变随之而生。恶魔所铸之邪石被改易，化为闪耀的大理石，其上银金交错。门户结构既失，其中的地狱烈焰骤然摇曳而灭。地狱之门已永久关闭。
