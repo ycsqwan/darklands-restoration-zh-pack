@@ -1,9 +1,9 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-unive00-0 = 
-    在$university，即位于$PlaceName之大学，傲慢职员惯以拉丁语交谈，且期望考生具备敏锐才智。汝试图装作博学，询问关于……<br><p><p><opt>...<indent>新圣徒的知识。<br><p><opt>...<indent>新炼金术公式的知识。<br><p><opt>...<indent>可能提升你的哲人石的知识（需花费$Money1）。<br><p><opt>...<indent>有人愿售稀有炼金材料。<br><p><opt>...<indent>一位可聘之师。<br><opt>5<br><opt>6<br><opt>7<br><p><opt>...<indent>通向主街之路。<br><p><opt>...<indent>通向侧街之路。
+    在$university，即位于$PlaceName之大学，傲慢职员惯以拉丁语交谈，且期望考生具备敏锐才智。汝试图装作博学，询问关于……<br><p><p><opt>...<indent>新圣徒的知识。<br><p><opt>...<indent>新炼金术公式的知识。<br><p><opt>...<indent>可能提升你的贤者之石的知识（需花费$Money1）。<br><p><opt>...<indent>有人愿售稀有炼金材料。<br><p><opt>...<indent>一位可聘之师。<br><opt>5<br><opt>6<br><opt>7<br><p><opt>...<indent>通向主街之路。<br><p><opt>...<indent>通向侧街之路。
 msg-unive00-1 = 
-    $university，即$PlaceName的大学，夜色深沉，大门紧闭。学子已散，教授归家。你耸耸肩，决定...<br><opt>...<indent>询问对新圣者的了解。<br><opt>...<indent>询问对新炼金配方的了解。<br><opt>...<indent>请求可助提升哲人石之秘法（需付$Money1）。<br><opt>...<indent>寻一人愿售稀有炼金材料。<br><opt>...<indent>寻一名可雇之师。<br><opt>5<br><opt>6<br><opt>7<br><p><p><opt>...<indent>由大街离去。<br><p><opt>...<indent>由小巷离去。
+    $university，即$PlaceName的大学，夜色深沉，大门紧闭。学子已散，教授归家。你耸耸肩，决定...<br><opt>...<indent>询问对新圣者的了解。<br><opt>...<indent>询问对新炼金配方的了解。<br><opt>...<indent>请求可助提升贤者之石之秘法（需付$Money1）。<br><opt>...<indent>寻一人愿售稀有炼金材料。<br><opt>...<indent>寻一名可雇之师。<br><opt>5<br><opt>6<br><opt>7<br><p><p><opt>...<indent>由大街离去。<br><p><opt>...<indent>由小巷离去。
 msg-unive00-2 = 
     拉丁术语、傲慢学子与倨傲职员令汝惶惑。生平从未如此愚钝。<br><p>
     “实在令人沮丧，”$ChosenOneName搜寻多时后言，“今日恐难觅图书馆。不如另寻他物，或改日再来。”
