@@ -1,9 +1,9 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-marke00-0 = 
-    $marketplace，$PlaceName的主要市场，是所有商业活动的繁华中心。摊位与亭阁布满楼下大厅，而富商与行商则在楼上设有商铺。你走向……<br><p><p><opt>...<indent>销售日常用品的商人。<br><p><opt>...<indent>外国商人的摊亭。<br><p><opt>...<indent>药剂师的货摊。<br><p><opt>...<indent>富格尔银行办事处。<br><p><opt>...<indent>美第奇代表的办事处。<br><p><opt>...<indent>汉萨同盟会馆。<br><p><opt>...<indent>典当行，富格家族的当铺。<br><opt><br><p><opt>...<indent>通往主街的出口。<br><p><opt>...<indent>通往侧街的出口。
+    $marketplace，$PlaceName的主要市场，是所有商业活动的繁华中心。摊位与亭阁布满楼下大厅，而富商与行商则在楼上设有商铺。你走向……<br><p><p><opt>...<indent>销售日常用品的商人。<br><p><opt>...<indent>外国商人的摊亭。<br><p><opt>...<indent>药剂师的货摊。<br><p><opt>...<indent>富格尔银行办事处。<br><p><opt>...<indent>美第奇代表的办事处。<br><p><opt>...<indent>汉萨同盟会馆。<br><p><opt>...<indent>典当行，富格尔家族的当铺。<br><opt><br><p><opt>...<indent>通往主街的出口。<br><p><opt>...<indent>通往侧街的出口。
 msg-marke00-1 = 
-    $marketplace，$PlaceName的主要集市，熙熙攘攘，人潮涌动，更有卫兵巡逻。说不定他们很快就会认出你呢！你漫不经心地踱步至……<br><p><p><opt>...<indent>卖日常用品的商贩。<br><p><opt>...<indent>外国商人的摊亭。<br><p><opt>...<indent>药剂师的货摊。<br><p><opt>...<indent>富格尔银行办事处。<br><p><opt>...<indent>美第奇代表的办事处。<br><p><opt>...<indent>汉萨同盟会馆。<br><p><opt>...<indent>$pawnshop，富格家族的当铺。<br><p><opt><br><p><opt>...<indent>通往主街的出口。<br><p><opt>...<indent>通往侧街的出口。
+    $marketplace，$PlaceName的主要集市，熙熙攘攘，人潮涌动，更有卫兵巡逻。说不定他们很快就会认出你呢！你漫不经心地踱步至……<br><p><p><opt>...<indent>卖日常用品的商贩。<br><p><opt>...<indent>外国商人的摊亭。<br><p><opt>...<indent>药剂师的货摊。<br><p><opt>...<indent>富格尔银行办事处。<br><p><opt>...<indent>美第奇代表的办事处。<br><p><opt>...<indent>汉萨同盟会馆。<br><p><opt>...<indent>$pawnshop，富格尔家族的当铺。<br><p><opt><br><p><opt>...<indent>通往主街的出口。<br><p><opt>...<indent>通往侧街的出口。
 msg-marke00-2 = 
     打量一番后，$NamedOneName向你展示了一个沉重的钱袋。打开一看，里面装着$Money1。<br><p>
     “一笔慷慨的酬金，”$ChosenOneName说道。“不知阁下是否另有差事相托？”<br>
