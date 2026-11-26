@@ -270,3 +270,45 @@ Lucifuge Rofocale 诸资料（Grand Grimoire / Goetia 研究）。
 
 原文同样存在拼写残缺（`Vordingbord`、`Naskskov`、`Lüneberg`、`Duisberg`），
 与地名一节同法处理：按真实地名取通译。
+
+## 译名依据与核查
+
+本包所有专有名词都先查中文既有译法，按三级处理：**①有通行中译的用通行译法**；
+**②无大众通行但有小众／学术出处的，用该出处的译法**（下表）；**③都没有的才音译**，
+并在表中写明原文拼写。
+
+### 封号与机构（对照中文维基条目名）
+
+| 英文 | 中文 | 依据 |
+| --- | --- | --- |
+| Hanseatic League | 汉萨同盟 | 中文维基 / 《中国大百科全书》第2版主条目名 |
+| Teutonic Knights | 条顿骑士团 | 通行译名 |
+| Hussites | 胡斯派 | 通行译名（胡斯运动） |
+| Margrave | 藩侯 | 中文维基「藩侯」为主条目，另译方伯、边境伯爵 |
+| Landgrave | 方伯 | 中文维基「方伯」（德国节：领地伯爵 Landgraf） |
+| Count Palatine | 行宫伯爵 | Pfalzgraf，中文维基作「行宮伯爵」，与藩侯、方伯同级 |
+| Prince-Bishop | **采邑主教** | 中文维基主条目名（或译王公主教、亲王主教） |
+| Prince-Abbot | **采邑隐修院院长** | 通行译名，德文 Fürstabt |
+| Archbishop / Bishop | 大主教 / 主教 | 通行译名 |
+| Swiss Confederation | 瑞士联邦 | 通行译名 |
+
+> 初版曾把 `Prince-Bishop` 译作「亲王主教」、`Prince-Abbot` 译作「亲王院长」，
+> 网络核查后按中文维基主条目改为「采邑主教」「采邑隐修院院长」。
+
+### 地名（部分）
+
+- `Vordingborg` → **沃尔丁堡**（初版误作「维堡」，那是 Viborg；已按中文维基条目改正）
+- `Nykøbing` → **尼克宾**（Naskskov 为原数据截断拼写）
+- `Frankfurt an der Oder` / `am Main` → 法兰克福（奥得河）/（美因河），以区分两地
+- 哈茨山、布罗肯山、瓦茨曼山等山地按中国地图出版社《世界地名译名词典》的写法
+
+### 龙名与矮人名
+
+见上方两节的两张表：通行译法（如 `Rofocale`→罗弗寇、`Bezaleel`→比撒列、
+`Mimer`→密米尔）注明来源；其余为音译并标出原文拼写，便于日后替换。
+
+### 职业名
+
+全部依据官方 *Darklands Clue Book*（1992，MicroProse）OCCUPATION QUALIFICATIONS 一节：
+`Schulz` 原文要求「须先为农民且历任军职/神职」，故取「村长」而非音译「舒尔茨」；
+`Oblate` 为「在修道院学习者」，取「见习修士」。
