@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-sides01-0 = 
-    偶尔窗棂间透出微光，仅能勾勒街旁建筑轮廓。在浓重阴影中，你向...<br><p><p><opt>...<indent>主街。<br><p><opt>...<indent>中央要塞的黑塔。<br><p><opt>...<indent>市中心广场。<br><p><opt>...<indent>城市集市。<br><p><opt>...<indent>城中教堂的细长黑尖。<br><p><opt>...<indent>手工业区、旅店及其他公共区域的坡顶屋。<br><p><opt>...<indent>夜半空寂的码头。<br><p><opt>...<indent>黑暗林间，汝可隐匿等候。<br><p><opt>...<indent>其他记忆中的地点。<br><p><opt>...<indent>长而空寂之城墙。
+    偶尔窗格间透出微光，仅能勾勒街旁建筑轮廓。在浓重阴影中，你向...<br><p><p><opt>...<indent>主街。<br><p><opt>...<indent>中央要塞的黑塔。<br><p><opt>...<indent>市中心广场。<br><p><opt>...<indent>城市集市。<br><p><opt>...<indent>城中教堂的细长黑尖。<br><p><opt>...<indent>手工业区、旅店及其他公共区域的坡顶屋。<br><p><opt>...<indent>夜半空寂的码头。<br><p><opt>...<indent>黑暗林间，汝可隐匿等候。<br><p><opt>...<indent>其他记忆中的地点。<br><p><opt>...<indent>长而空寂之城墙。
 msg-sides01-1 = 
     穿行于后巷，常有跌撞，误入歧途更延缓行程。
 msg-sides01-2 = 

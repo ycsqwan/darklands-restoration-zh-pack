@@ -7,17 +7,17 @@ msg-cathe00-1 =
 msg-cathe00-2 = 
     Finding a seat in one of the many pews, you wait a short while until the Holy Eucharist is ready to be celebrated. With impressive ceremony, the Mass is sung. When it is over, you feel peaceful and happy inside, as if you had found favor with heaven.{" "}
 msg-cathe00-3 = 
-    一位主教纡尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。吾等敬奉众圣，然未偏重任何一位。亦无圣物珍藏。建筑本身已足为圣地。”
+    一位主教屈尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。吾等敬奉众圣，然未偏重任何一位。亦无圣物珍藏。建筑本身已足为圣地。”
 msg-cathe00-4 = 
-    一位主教纡尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。吾等敬奉众圣，然未凌驾于任何一位之上。吾等尤为荣幸，因珍藏圣物$NamedOneName，每逢特殊圣礼与庆典方予取出。”
+    一位主教屈尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。吾等敬奉众圣，然未凌驾于任何一位之上。吾等尤为荣幸，因珍藏圣物$NamedOneName，每逢特殊圣礼与庆典方予取出。”
 msg-cathe00-5 = 
-    一位主教纡尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。吾等敬奉众圣，然未偏重任何一位。作为吾等伟业之证，吾等拥有多处圣物，其中即有圣物$NamedOneName，仅于特殊圣礼与庆典时取出。”
+    一位主教屈尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。吾等敬奉众圣，然未偏重任何一位。作为吾等伟业之证，吾等拥有多处圣物，其中即有圣物$NamedOneName，仅于特殊圣礼与庆典时取出。”
 msg-cathe00-6 = 
-    一位主教纡尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。吾等礼拜堂专祀奇迹般的$NamedTwoName，然此处并无圣物珍藏。”
+    一位主教屈尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。吾等礼拜堂专祀奇迹般的$NamedTwoName，然此处并无圣物珍藏。”
 msg-cathe00-7 = 
-    一位主教纡尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。整座建筑皆专祀并蒙$NamedTwoName赐福。此外，吾等亦因珍藏圣物$NamedOneName而倍感荣耀，每逢特殊圣礼与庆典方予取出。”
+    一位主教屈尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。整座建筑皆专祀并蒙$NamedTwoName赐福。此外，吾等亦因珍藏圣物$NamedOneName而倍感荣耀，每逢特殊圣礼与庆典方予取出。”
 msg-cathe00-8 = 
-    一位主教纡尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。设有专祀$NamedTwoName的礼拜堂，且拥有多处圣物，其中包括每逢特殊圣礼与庆典方出的圣物$NamedOneName。”
+    一位主教屈尊降贵与你交谈：“吾等宏伟的$cathedral享誉四方。设有专祀$NamedTwoName的礼拜堂，且拥有多处圣物，其中包括每逢特殊圣礼与庆典方出的圣物$NamedOneName。”
 msg-cathe00-9 = 
     The deacon accepts your offering gracefully. "Heaven values all gifts, and clearly your hearts are in the right place," he intones.{" "}
 msg-cathe00-10 = 

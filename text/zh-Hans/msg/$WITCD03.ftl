@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-witcd03-0 = 
-    房间阴暗潮湿，霉味与种种恶臭交织。角落里蜷缩着一位衣衫褴褛的老僧，形销骨立。癫狂之光在其眼中闪烁，他以怀疑与畏惧注视汝等。你...<br><p><p><opt><indent>...离开这疯狂与死亡之地。<br><p><opt><indent>...试着与修士交谈。<br><p><opt-saints><indent>...祈求圣人以辨明修士是敌是友。<br><p><opt><indent>...攻击修士。<br><p><opt><indent>...将修士从囚禁中释放。
+    房间阴暗潮湿，霉味与种种恶臭交织。角落里蜷缩着一位衣衫蓝缕的老僧，形销骨立。癫狂之光在其眼中闪烁，他以怀疑与畏惧注视汝等。你...<br><p><p><opt><indent>...离开这疯狂与死亡之地。<br><p><opt><indent>...试着与修士交谈。<br><p><opt-saints><indent>...祈求圣人以辨明修士是敌是友。<br><p><opt><indent>...攻击修士。<br><p><opt><indent>...将修士从囚禁中释放。
 msg-witcd03-1 = 
     僧侣似不愿与你交谈。身体不自主抽搐，避而不视。喃喃道：“吾唯需一事……切莫泄露秘密……愿上帝赐我力量……”你……<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><opt>4<br><p><opt><indent>...向他询问“那件事”。<br><p><opt><indent>...说服他告诉你他的秘密。<br><p><opt><indent>...与他谈论上帝。
 msg-witcd03-2 = 

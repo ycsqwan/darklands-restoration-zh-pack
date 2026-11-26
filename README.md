@@ -1,6 +1,6 @@
 # Darklands 简体中文语言包（zh-Hans）
 
-> A Simplified Chinese (zh-Hans) language pack for **Darklands Restoration Project 1.1.3+**.
+> A Simplified Chinese (zh-Hans) language pack for **Darklands Restoration Project 1.1.4+**.
 > 本仓库只含语言包，**不含任何游戏文件**；它替换文字，不改变引擎，也不改变玩法。
 
 ---
@@ -23,7 +23,7 @@
 
 | 需要 | 说明 |
 | --- | --- |
-| Darklands Restoration Project **1.1.3 或更高** | 语言包机制是 1.1 才有的；1.1.3 起描述类文本也进模板：<https://github.com/Arkana-Mechanika-Studios/darklands-restoration/releases/latest> |
+| Darklands Restoration Project **1.1.4 或更高** | 语言包机制是 1.1 才有的；1.1.4 起卡片文本的代词变量（`var-he`、`var-his`…）与地图消息等键可用：<https://github.com/Arkana-Mechanika-Studios/darklands-restoration/releases/latest> |
 | 你自己的 **Darklands 英文版**（483.07） | 例如 GOG 或 Steam 版。**本仓库不含游戏本体**，也不会提供 |
 
 本包不含游戏文件、不含存档、不含任何来自原版的数据拷贝；所有中文都写在 `.ftl` 文本里。

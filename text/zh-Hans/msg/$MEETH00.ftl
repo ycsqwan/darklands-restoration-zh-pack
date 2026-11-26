@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-meeth00-0 = 
-    当你穿行于幽静偏僻之谷，见一老者胡须蓬乱，衣衫褴褛，正燃火取暖。汝……<br><p><p><opt>...<indent>走过去，与他会面。<br><p><opt>...<indent>不理他，继续你的旅程。<br>
+    当你穿行于幽静偏僻之谷，见一老者胡须蓬乱，衣衫蓝缕，正燃火取暖。汝……<br><p><p><opt>...<indent>走过去，与他会面。<br><p><opt>...<indent>不理他，继续你的旅程。<br>
 msg-meeth00-1 = 
     他并不友善，你无论如何也问不出什么来。最终，你耸了耸肩，继续前行。
 msg-meeth00-2 = 

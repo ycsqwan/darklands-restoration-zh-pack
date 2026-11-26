@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-count00-0 = 
-    眺望耕作过的田野，你看见一座庞大的城堡主楼矗立在开阔的小丘上。你决定……<br><p><p><opt>...<indent>勇敢地走向城门，礼貌地请求觐见城堡领主。<br><p><opt>...<indent>暂停脚步，与农夫们交谈。<br><p><opt-saints>...<indent>向圣人祈求指引。<br><p><opt>...<indent>隐身至午夜过后，再择良策强行入内。<br><opt>4<br><opt>5<br><opt>6<br><opt>7<br><opt>8<br><p><opt>...<indent>离开。<br>
+    眺望耕作过的田野，你看见一座庞大的城堡主楼矗立在开阔的小丘上。你决定……<br><p><p><opt>...<indent>勇敢地走向城门，礼貌地请求拜见城堡领主。<br><p><opt>...<indent>暂停脚步，与农夫们交谈。<br><p><opt-saints>...<indent>向圣人祈求指引。<br><p><opt>...<indent>隐身至午夜过后，再择良策强行入内。<br><opt>4<br><opt>5<br><opt>6<br><opt>7<br><opt>8<br><p><opt>...<indent>离开。<br>
 msg-count00-1 = 
     唉，你的举止乏善可陈，言辞亦不中听，无论地方声望还是世间名望，皆不足以弥补这场败局。<br><p>
     “本处无需汝等之流！”守门人厉声喝道。“速速离去，勿惹事端！”<br><p>
@@ -32,7 +32,7 @@ msg-count00-9 =
     尽管虔诚苦祷良久，$ChosenOneName 仍未能获知此境之异象与消息。<br><p>
     “诸位，”你对你们余众说道，“今日祷告仍未获应。”
 msg-count00-10 = 
-    俯瞰幽暗的耕作谷地，你望见一座巍峨的城堡矗立于开阔的小丘之上。你决定……<br><p><opt>...<indent>勇敢地走向城门，礼貌地请求觐见城堡领主。<br><p><p><opt>...<indent>暂停脚步，与农夫们交谈。<br><p><opt-saints>...<indent>向圣人祈求指引。<br><p><opt>...<indent>隐身至午夜过后，再择良策强行入内。<br><opt>4<br><opt>5<br><opt>6<br><opt>7<br><opt>8<br><p><opt>...<indent>离开。<br>
+    俯瞰幽暗的耕作谷地，你望见一座巍峨的城堡矗立于开阔的小丘之上。你决定……<br><p><opt>...<indent>勇敢地走向城门，礼貌地请求拜见城堡领主。<br><p><p><opt>...<indent>暂停脚步，与农夫们交谈。<br><p><opt-saints>...<indent>向圣人祈求指引。<br><p><opt>...<indent>隐身至午夜过后，再择良策强行入内。<br><opt>4<br><opt>5<br><opt>6<br><opt>7<br><opt>8<br><p><opt>...<indent>离开。<br>
 msg-count00-11 = 
     尽管你竭尽全力，农人们仍惧怕与任何人交谈，尤其是身披护甲的陌生人。然而，在他们满是伤痕的面容与幽魂般的眼神中，你看到了艰辛与苦难的印记。
 msg-count00-12 = 

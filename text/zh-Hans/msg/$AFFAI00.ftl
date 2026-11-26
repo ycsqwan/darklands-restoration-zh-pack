@@ -7,7 +7,7 @@ msg-affai00-1 =
 msg-affai00-2 = 
     有传言称，针对$PlaceName之$CityLordTitle的叛乱已被镇压。虽仍有疑虑，但多数人认为政权稳固如初。
 msg-affai00-3 = 
-    你探听传闻与消息，然无人有旅人轶事或切身经历可资。
+    你探听传闻与消息，然无人有旅人趣闻或切身经历可资。
 msg-affai00-4 = 
     据报，位于$Direction方向的$LocName动荡不安。
 msg-affai00-5 = 

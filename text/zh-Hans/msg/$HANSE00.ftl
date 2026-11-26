@@ -1,9 +1,9 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-hanse00-0 = 
-    在汉萨同盟富丽堂皇的木饰办公室里，一位恭谨的低级职员询问你的来意。你……<br><p><p><opt>...<indent>礼貌地询问是否能为联盟效劳。<br><p><opt>...<indent>大胆宣称自己的声名与能力，可胜任公会所需之事。<br><p><opt>...<indent>礼貌请求与联盟首领会面，商讨你的奖赏。<br><p><opt>...<indent>大胆索要酬劳，现在就给！<br><p><opt>...<indent>请求觐见联盟首领，商议政事。<br><opt>5<br><opt>6<br><p><opt>...<indent>与职员闲聊片刻。<br><p><opt>...<indent>悄然由侧门离去。<br><p><opt>...<indent>从正门离去。<br>
+    在汉萨同盟富丽堂皇的木饰办公室里，一位恭谨的低级职员询问你的来意。你……<br><p><p><opt>...<indent>礼貌地询问是否能为联盟效劳。<br><p><opt>...<indent>大胆宣称自己的声名与能力，可胜任公会所需之事。<br><p><opt>...<indent>礼貌请求与联盟首领会面，商讨你的奖赏。<br><p><opt>...<indent>大胆索要酬劳，现在就给！<br><p><opt>...<indent>请求拜见联盟首领，商议政事。<br><opt>5<br><opt>6<br><p><opt>...<indent>与职员闲聊片刻。<br><p><opt>...<indent>悄然由侧门离去。<br><p><opt>...<indent>从正门离去。<br>
 msg-hanse00-1 = 
-    在汉萨同盟富丽堂皇的木饰办公室里，一位傲慢的低级职员刻意无视你逾一小时。但最终你……<br><p><p><opt>...<indent>微笑询问汉萨商会所需之特殊服务。<br><p><opt>...<indent>大胆宣称自己的声名与为汉萨同盟建功立业之能。<br><p><opt>...<indent>礼貌请求与联盟首领会面，商讨你的奖赏。<br><p><opt>...<indent>要求立即见主人，商议酬劳！<br><p><opt>...<indent>请求觐见联盟之主，商议政事。<br><opt>5<br><opt>6<br><p><opt>...<indent>与职员闲聊。<br><p><opt>...<indent>从侧门离去。<br><p><opt>...<indent>从正门离去。<br>
+    在汉萨同盟富丽堂皇的木饰办公室里，一位傲慢的低级职员刻意无视你逾一小时。但最终你……<br><p><p><opt>...<indent>微笑询问汉萨商会所需之特殊服务。<br><p><opt>...<indent>大胆宣称自己的声名与为汉萨同盟建功立业之能。<br><p><opt>...<indent>礼貌请求与联盟首领会面，商讨你的奖赏。<br><p><opt>...<indent>要求立即见主人，商议酬劳！<br><p><opt>...<indent>请求拜见联盟之主，商议政事。<br><opt>5<br><opt>6<br><p><opt>...<indent>与职员闲聊。<br><p><opt>...<indent>从侧门离去。<br><p><opt>...<indent>从正门离去。<br>
 msg-hanse00-2 = 
     You step through the doorway into the sumptuous paneled anteroom of the Hanseatic League, the most powerful mercantile combine in Northern Europe. <br><p>
     你留意到一队全副武装的城防军正在执勤。“糟糕，”你暗自嘀咕，恰有一人朝你转过身来……<br>

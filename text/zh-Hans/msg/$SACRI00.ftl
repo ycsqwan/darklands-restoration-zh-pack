@@ -31,7 +31,7 @@ msg-sacri00-10 =
 msg-sacri00-11 = 
     Soon the cultists are ready for the sacrifice. You are led forward and untied in preparation for being cast into the flames. At that moment you seize your chance, knocking aside your guards and grabbing at their daggers. The furious villagers attack you. You have no choice but to fight.{" "}
 msg-sacri00-12 = 
-    教徒复擒尔，不容分说，便将尔献祭于邪神。尔虽殒命，然魂或升天。
+    教徒复擒尔，不容分说，便将尔献祭于邪神。尔虽丧命，然魂或升天。
 msg-sacri00-13 = 
     用尽你的全力，$ChosenOneName终于挣脱了束缚你绳索。你迅速解开了其余人的绑缚，时机一到，你们跃然而起，抄起了堆放在一旁的武器。当教徒们转而向你们发动攻击时，你们已严阵以待。
 msg-sacri00-14 = 

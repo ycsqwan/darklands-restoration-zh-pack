@@ -12,7 +12,7 @@ msg-drago05-1 =
 msg-drago05-2 = 
     令你惊讶的是，你见$NamedOneName已然痊愈。<br><p>
     $ChosenOneName 说道：“幸会，$NamedOneName。汝仍欲寻求屠戮$NamedTwoName之荣光乎？”<br><p>
-    他面露愧色：“我之傲气尽失。恶龙屠戮吾友。今我贫无所依。唉，$NamedThreeName诱我犯下此等恶行。或许我将在复仇途中殒命，以此了却心中苦痛。”<br><p>
+    他面露愧色：“我之傲气尽失。恶龙屠戮吾友。今我贫无所依。唉，$NamedThreeName诱我犯下此等恶行。或许我将在复仇途中丧命，以此了却心中苦痛。”<br><p>
     你 ...<br><p><p><opt>...<indent>询问关于$NamedThreeName的事。<br><opt><br><opt><br><p><opt>...<indent>漫不经心，置之不理。
 msg-drago05-3 = 
     号啕咒骂着，一位双眼狂乱的圣人踉跄行过满目疮痍的乡野。他高呼：“吾乃$NamedThreeName。汝等效忠何方？”<br><p>

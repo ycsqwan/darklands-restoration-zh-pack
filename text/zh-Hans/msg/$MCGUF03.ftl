@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-mcguf03-0 = 
-    近旁林间，一座木制旧祠庇护着石砌祭坛。屋瓦墙垣虽经风霜，却仍坚固。圣母像前鲜花簇拥。祠旁小径通向草庐。一位衣衫褴褛的老僧蹒跚迎上。<br><p><p>
+    近旁林间，一座木制旧祠庇护着石砌祭坛。屋瓦墙垣虽经风霜，却仍坚固。圣母像前鲜花簇拥。祠旁小径通向草庐。一位衣衫蓝缕的老僧蹒跚迎上。<br><p><p>
     你...<br><p><opt>...<indent>令僧侣授汝$NamedOneName。<br><p><opt>...<indent>在神龛前慷慨献上$Money1，然后礼貌询问$NamedOneName。<br><p><opt>...<indent>在神龛前献上$Money2，随即离去。<br><p><opt>...<indent>向僧侣颔首，向神龛跪拜，然后离去。
 msg-mcguf03-1 = 
     僧侣面露忧色：“汝虽执拗，然时局艰难。吾当依汝所请。”<br><p>

@@ -16,7 +16,7 @@ msg-meetp01-4 =
     “此乃伏击。”<br><p>
     你决定去...<br><opt>0<br><opt>1<br><p><opt>...<indent>不顾你的警告，继续前行。<br><p><opt>...<indent>谨遵你的警告，避开他们。<br><p><opt-saints>...<indent>向圣人祈求指引。
 msg-meetp01-5 = 
-    突然，衣衫褴褛的匪徒四面八方涌出。不少“难民”丢下负重，亮出藏匿的武器，余者则四散寻庇。<br><p>
+    突然，衣衫蓝缕的匪徒四面八方涌出。不少“难民”丢下负重，亮出藏匿的武器，余者则四散寻庇。<br><p>
     困于其中，你决意...<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><opt>4<br><p><opt>...<indent>与他们讨价还价。<br><p><opt-saints>...<indent>祈愿圣徒能止其攻势。<br><p><opt-battle>...<indent>交战。<br><p><opt>...<indent>投降。
 msg-meetp01-6 = 
     盗兵提议交出汝之金银与武器，以换得其余财物与性命无恙。汝遂……<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><opt>4<br><opt>5<br><opt>6<br><p><opt-battle>...<indent>拒绝并战。<br><p><opt>...<indent>同意。

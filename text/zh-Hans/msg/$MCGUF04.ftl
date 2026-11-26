@@ -16,16 +16,16 @@ msg-mcguf04-5 =
 msg-mcguf04-6 = 
     满意地，你们如上山般下山，安全抵达谷底。
 msg-mcguf04-7 = 
-    但见崖间洞口似一觐见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     give all the $NamedOneName!"<br><p>
+    但见崖间洞口似一谒见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     give all the $NamedOneName!"<br><p>
     矮人满怀期待地瞪视着你，于是你...<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt>...<indent>同意支付他的价码，献上全部$NamedOneName。<br><p><opt>...<indent>攻击并擒获他。<br><p><opt-items>...<indent>以药剂分散其注意力，随即发动攻击。<br><opt>7<br><opt>8<br><p><opt>...<indent>拒绝付款，离去。<br><br>{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}
 msg-mcguf04-8 = 
-    但见崖间洞口似一觐见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     give gold, all, to mine."<br><p>
+    但见崖间洞口似一谒见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     give gold, all, to mine."<br><p>
     矮人满怀期待地瞪视着你，于是你...<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt>...<indent>同意交出所有金佛罗林。<br><p><opt>...<indent>攻击并擒获他。<br><p><opt-items>...<indent>以药剂分散其注意力，随即发动攻击。<br><opt>7<br><opt>8<br><p><opt>...<indent>拒绝付款，离去。
 msg-mcguf04-9 = 
-    但见崖间洞口似一觐见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     give all $his potions to mine."<br><p>
+    但见崖间洞口似一谒见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     give all $his potions to mine."<br><p>
     矮人指向$ChosenOneName。你...<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt>...<indent>让$ChosenOneName将所有你的药剂尽数赠予矮人。<br><p><opt>...<indent>攻击并擒获矮人。<br><p><opt-items>...<indent>以药剂分散其注意力，随即发动攻击。<br><opt>7<br><opt>8<br><p><opt>...<indent>拒绝付款，离去。
 msg-mcguf04-10 = 
-    你发现崖洞实为一处觐见厅。阴影中端坐着一张刻满符文的大座。矮小黝黑的矮人安坐其上，开口说道：<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     make $his $NamedOneName mine."<br><p>
+    你发现崖洞实为一处谒见厅。阴影中端坐着一张刻满符文的大座。矮小黝黑的矮人安坐其上，开口说道：<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     make $his $NamedOneName mine."<br><p>
     矮人指向$ChosenOneName。你...<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt>...<indent>让$ChosenOneName将$NamedOneName赠予矮人你的。<br><p><opt>...<indent>攻击并擒获矮人。<br><p><opt-items>...<indent>以药剂分散其注意力，随即发动攻击。<br><opt>7<br><opt>8<br><p><opt>...<indent>拒绝付款，离去。
 msg-mcguf04-11 = 
     x
