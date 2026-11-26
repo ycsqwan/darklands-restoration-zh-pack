@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-noble00-0 = 
-    你花了一些时间了解……的政治倾向。<br><p><opt>...<indent>掌管市政议会的富庶贵族家族。<br><p><opt>...<indent>$CityLordName, 城之主。<br><p><opt>...<indent>$NamedTwoName, 卫队长。<br><p><opt>...<indent>$monastery的方丈，$PlaceName最伟大的修道院。<br><p><opt>...<indent>汉萨同盟。<br><p><opt>...<indent>富格银行家。<br><p><opt>...<indent>美第奇代表。<br><p><opt>...<indent>$PlaceName 的各大商贾家族。<br><p><opt>...<indent>来自他城异域的商旅。<br><p><opt>...<indent>你决定专务他事。
+    你花了一些时间了解……的政治倾向。<br><p><opt>...<indent>掌管市政议会的富庶贵族家族。<br><p><opt>...<indent>$CityLordName, 城之主。<br><p><opt>...<indent>$NamedTwoName, 卫队长。<br><p><opt>...<indent>$monastery的方丈，$PlaceName最伟大的修道院。<br><p><opt>...<indent>汉萨同盟。<br><p><opt>...<indent>富格尔银行家。<br><p><opt>...<indent>美第奇代表。<br><p><opt>...<indent>$PlaceName 的各大商贾家族。<br><p><opt>...<indent>来自他城异域的商旅。<br><p><opt>...<indent>你决定专务他事。
 msg-noble00-1 = 
     掌管$PlaceName市政议会之富户，对任何城市政府变革均持坚决反对之态。其领袖$NamedOneName力陈传统之益，不容颠覆。<br>
 msg-noble00-2 = 

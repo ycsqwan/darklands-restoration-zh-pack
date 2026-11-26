@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-insid00-0 = 
-    楼上的所有办公室都牢牢锁着。你悄然前行，朝...走去。<br><opt>0<br><opt>1<br><opt>2<br><p><opt>...<indent>$PlaceName首席商人的办事处。<br><p><opt>...<indent>富格银行办事处。<br><p><opt>...<indent>美第奇代表的办事处。<br><p><opt>...<indent>汉萨同盟办事处。<br><opt>7<br><opt>8<br><p><opt>...<indent>一扇窗户，通向屋顶，再通向侧街。
+    楼上的所有办公室都牢牢锁着。你悄然前行，朝...走去。<br><opt>0<br><opt>1<br><opt>2<br><p><opt>...<indent>$PlaceName首席商人的办事处。<br><p><opt>...<indent>富格尔银行办事处。<br><p><opt>...<indent>美第奇代表的办事处。<br><p><opt>...<indent>汉萨同盟办事处。<br><opt>7<br><opt>8<br><p><opt>...<indent>一扇窗户，通向屋顶，再通向侧街。
 msg-insid00-1 = 
     当$ChosenOneName走到门前时，你低声说道：“有些药剂能让这件事更容易。”你决定……<br><p><p><opt>...<indent>让$ChosenOneName仅施展你的技艺。<br><p><opt>...<indent>让$ChosenOneName使用一瓶食水之药，悄然开锁。<br><p><opt>...<indent>让$ChosenOneName使用一瓶雷霆之药，炸开大门。<br><opt>3<br><opt>4<br><opt>5<br><opt>6<br><opt>7<br><p><opt>...<indent>重新审视全局。<br><opt>9<br>
 msg-insid00-2 = 

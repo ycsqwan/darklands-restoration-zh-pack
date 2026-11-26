@@ -20,7 +20,7 @@ msg-situa00-4 =
     织布匠公会$VarPhrase7于政局中更迭。<endif>
 msg-situa00-5 = 
     各类工匠公会在此$VarPhrase1变革。<br><if-1>he Hanseatic League $VarPhrase2 change in the government of $PlaceName.<br><endif><p>
-    $NamedOneName，当地富格银行的领袖，$VarPhrase3市政府的变革。<br><endif><p>
+    $NamedOneName，当地富格尔银行的领袖，$VarPhrase3市政府的变革。<br><endif><p>
     此地美第奇代表$VarPhrase4城市政局的变动。<br><endif>临时工与非公会工人似乎对$VarPhrase5政治变革抱有期待。
 msg-situa00-6 = 
     通常，$PlaceName中最重要的人物是$NamedOneName，即城卫队长。与他几乎平起平坐的还有富有的市民，由$NamedTwoName及$CityLordTitle、$CityLordName所领导。$PlaceName中的各色商人亦颇为富有，权势几可与之匹敌。<br><p><p>
