@@ -219,3 +219,30 @@ Lucifuge Rofocale 诸资料（Grand Grimoire / Goetia 研究）。
 
 > 注：这些名字里的一部分（如 Alveig、Gudhorm、Thviti 等）在中文出版物中没有固定译法，
 > 本表按统一音译规则处理；一旦出现更通用的中译，直接替换即可。
+
+### 地名（414，`exe:290E:0x????` / `tables.ftl` 的 `loc:<n>.name`）
+
+全部按**通行中文地名译法**处理：真实存在的城市与地区用中国地图出版社《世界地名译名词典》及
+中文维基条目的通行名；村落、山地、荒野地点按德语/捷克语地名的通行音译规则处理。
+
+**原文拼写残缺的条目**（原版数据文件里的字符串本身就是截断的，不是本包的错误）：
+
+| 包内英文 | 通译依据 | 中文 |
+| --- | --- | --- |
+| `Vordingbrd` | Vordingborg（丹麦维堡） | 维堡 |
+| `Naskskov` | Nykøbing（尼克宾） | 尼克宾 |
+| `Braunschwg` | Braunschweig | 不伦瑞克 |
+| `Duisberg` | Duisburg | 杜伊斯堡 |
+| `Brandenbrg` | Brandenburg | 勃兰登堡 |
+| `Fürstenbrg` | Fürstenberg | 菲尔斯滕贝格 |
+| `Recklinghsn` | Reckhausen | 雷克灵豪森 |
+| `Aschaffen` | Aschaffenburg | 阿沙芬堡 |
+
+**简写标记**（原版为避免重名而加的后缀，保留其含义）：
+
+- `Frankfurt O` / `Frankfurt M` → 「法兰克福（奥得河）」/「法兰克福（美因河）」
+- `South Nürn` / `North Nürn` → 「纽伦堡南区」/「纽伦堡北区」
+
+**荒野地点**为同一类型的重复地名，统一译法：`Spring`→泉水、`Lake`→湖泊、
+`Cave`→洞穴、`Shrine`→神龛、`Tomb`→陵墓、`Pagan Altar`→异教祭坛、
+`Lair`→龙穴、`Alpine Cave`→高山洞穴。
