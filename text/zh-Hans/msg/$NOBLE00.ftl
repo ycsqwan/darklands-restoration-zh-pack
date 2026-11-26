@@ -5,7 +5,7 @@ msg-noble00-0 =
 msg-noble00-1 = 
     掌管$PlaceName市政议会之富户，对任何城市政府变革均持坚决反对之态。其领袖$NamedOneName力陈传统之益，不容颠覆。<br>
 msg-noble00-2 = 
-    The wealthy burghers, who run the city council of $PlaceName, $VarPhrase1 changes in the city government. Their attitude is more flexible now that <br>
+    掌管$PlaceName市政议会之富户，$VarPhrase1城市政府的变革。如今态度更为灵活，盖因<br>
     $NamedOneName 不再如此热烈地拥护传统。<br>
 msg-noble00-3 = 
     $CityLordTitle的$PlaceName, $CityLordName, $VarPhrase1支持市政府的变革。<br>

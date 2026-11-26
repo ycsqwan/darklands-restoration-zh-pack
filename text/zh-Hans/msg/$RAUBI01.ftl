@@ -20,7 +20,7 @@ msg-raubi01-5 =
     “多年祈盼，终至今日，$NamedTwoName终于覆灭。他不仅是近年最恶之劫匪骑士，更是害残我独子的暴徒！”<br><p>
     他敛神片刻：“然则今我之仇已报。此事我将铭记，并常加述说。世间确有公义！”
 msg-raubi01-6 = 
-    When you arrive at the Hanseatic League's offices, your friend leaves you, his job done. His master, $NamedOneName, thanks you personally. "You have greatly assisted the League with the downfall of $NamedTwoName. All of our cities shall know of this." He hands you a purse of money. <br><p>
+    抵达汉萨同盟办事处时，你的友人功成身退，悄然离去。其主 $NamedOneName 亲自向你致谢：“汝助同盟铲除 $NamedTwoName，厥功甚伟。吾等诸城皆当知之。”随即将一囊银钱交予汝。<br><p>
     外面，你清点所得。汉萨商人赠你$Money1，数目可观。
 msg-raubi01-7 = 
     汉萨代表$NamedOneName亲致谢意：“汝助同盟诛灭$NamedTwoName，功不可没。吾盟诸城皆知此事。”言罢递银囊一枚。<br><p>

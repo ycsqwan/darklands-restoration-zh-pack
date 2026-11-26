@@ -12,11 +12,11 @@ msg-revol18-2 =
     愤怒的$NamedThreeName对着你的退却喊道：“你在关键时刻的怯懦，将在这$PlaceName被铭记！”<br><p>
     你悟无论谁胜，汝皆输家。若政府幸存，必记汝叛迹，或加逮捕。若叛乱成功，$NamedOneName定寻复仇。
 msg-revol18-3 = 
-    You hear cheering and chanting. Suddenly, from around the corner, a great mass of citizens marches toward you, shouting revolutionary slogans. <br><p>
+    你听见欢呼与呐喊。忽从转角涌出大批市民，向你进发，高呼革命口号。<br><p>
     躲进一条小巷，你意识到，若当初忠于大业，如今便可主导一切。如今只能旁观，揣测结局。与此同时，显而易见，主街已无法通行。你退入侧街，重新思量去向……
 msg-revol18-4 = 
-    You hear cheering and chanting. Suddenly, from around the corner, a mass of citizens march toward you, shouting revolutionary slogans. <br><p>
+    你听见欢呼与呐喊。忽从转角涌出大批市民，向你进发，高呼革命口号。<br><p>
     退入一条小巷，你意识到若当初忠于雇主，本可阻止这一切。如今只得旁观，静待结局。与此同时，主街显然已无法通行。你转入一条侧街，重新思量去向……
 msg-revol18-5 = 
-    You hear cheering and chanting. Suddenly, from around the corner, a great mass of citizens come marching along, shouting revolutionary slogans. <br><p>
+    你听见欢呼与呐喊。忽从转角涌出大批市民，高呼革命口号。<br><p>
     你立于巷中，方悟若曾参与此事，无论支持与否，皆可博取功名。如今已晚。且主街难行，你退入支路，重新斟酌去向...

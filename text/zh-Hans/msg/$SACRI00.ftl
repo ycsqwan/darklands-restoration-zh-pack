@@ -2,7 +2,7 @@
 
 msg-sacri00-0 = 
     你立于山巅，四周环绕着跳跃、喋喋不休的邪教徒。他们不久便要将你杀害，以你为祭品献给其污秽之主。缚住你的绳索看似结实，但你定能有所作为。<br><p>
-    你决定去...<br><p><p><opt>...<indent>勇敢承受命运。<br><p><opt>...<indent>胆怯地乞求宽恕。<br><p><opt>...<indent>attempt to buy off one of the cultists. <br><p><opt>...<indent>试图用蛮力挣断绳索。<br><p><opt>...<indent>巧妙地以锋利石块割断绳索。<br><p><opt-items>...<indent>try to slide loose an alchemical potion for use. <br><p><opt-saints>...<indent>呼求圣徒相助。
+    你决定去...<br><p><p><opt>...<indent>勇敢承受命运。<br><p><opt>...<indent>胆怯地乞求宽恕。<br><p><opt>...<indent>试图收买一名教徒。<br><p><opt>...<indent>试图用蛮力挣断绳索。<br><p><opt>...<indent>巧妙地以锋利石块割断绳索。<br><p><opt-items>...<indent>试图悄悄取出一瓶炼金药剂以备不时之需。<br><p><opt-saints>...<indent>呼求圣徒相助。
 msg-sacri00-1 = 
     你低声对身旁的祭司许诺，若她助你脱身，便赠予她 $Money1（你所有的钱财）。她思忖片刻，小眼中闪过贪婪之光，随即连连点头。当舞步将众祭司引离你时，她抽出一把匕首，伏身于你身后，奋力割断你的绳索。待她完工，你将所有现金交付于她，随即拾起一旁整齐堆放的武器。<br><p>
     You begin to sneak away, but before you get far, the cultists notice your absence, and come howling after you.{" "}
@@ -14,7 +14,7 @@ msg-sacri00-4 =
     艰难地挣脱你的道束缚，$ChosenOneName取出防火药剂，勉力饮下。祭礼即将开始时，$ChosenOneName请求先行，惊愕的教徒应允。他们将他投入火海，然药剂已使他免受寻常火焰之害。见其无恙，教徒大惊失色。一人惶恐呼喊：“彼乃恶魔来试我等，而我等已败！速逃！”<br><p>
     The cultists run away, leaving you alone beside their now-guttering fire, and their unholy altar.{" "}
 msg-sacri00-5 = 
-    Plucking the cork from the bottle of Eater Water, $ChosenOneName gently pours the bottle's contents over the ropes keeping $him bound, but is careful not to let any touch $his hand. As the dance carries the cultists down the hill, $he frees you all, and you take back your weapons, stacked neatly nearby. <br><p>
+    从“食水”瓶中拔出软木塞，$ChosenOneName轻轻地将瓶中之物洒在束缚着你绳索上，但小心翼翼地不让任何一滴沾到你的手。随着舞蹈将教徒们带下山丘，你解开了你们所有人的枷锁，你们重新拿回了整齐堆放在一旁的武器。<br><p>
     你试图悄悄溜走，却被教徒发现，他们怒吼着追来。
 msg-sacri00-6 = 
     你如龙般奋战，轻易击溃教徒。然一人诅咒犹在耳畔：“来吧，$SabbatTime，吾等必报$SabbatLocation之仇！”汝思忖……此事对他们显然意义非凡。<br><p>

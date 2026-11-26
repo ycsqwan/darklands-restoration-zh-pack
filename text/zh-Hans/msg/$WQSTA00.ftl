@@ -6,7 +6,7 @@ msg-wqsta00-1 =
     你总觉得少了些什么。<br><p>
     “吾议回访那座庄园，”$ChosenOneName 言，“吾心隐隐觉其与我等攸关。”
 msg-wqsta00-2 = 
-    When $he finishes the prayer, $ChosenOneName is uneasy about the manor. It is clearly an unholy place, but yet it has none of the evil, horrible feeling of Satan's works. <br><p>
+    当你祈祷完毕后，$ChosenOneName对庄园心存疑虑。此地分明不洁，却并无撒旦之作那般邪恶可怖之感。<br><p>
     唉，你 也确信队伍必须造访此地。此处有至关重要的事物，极为重要。因此你...<br><p><p><opt>...<indent>探查此处栖居者（或何物）。<br><opt-saints>1<br><p><opt>...<indent>绕过庄园，继续你的旅程。
 msg-wqsta00-3 = 
     不幸的是，$ChosenOneName的祈祷毫无效果。你思索着局势，然后决定……<br><p><p><opt>...<indent>探查此处栖居者（或何物）。<br><p><opt-saints>...<indent>再次祈求洞见。<br><p><opt>...<indent>离开此地，继续旅程。

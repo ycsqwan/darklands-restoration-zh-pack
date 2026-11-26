@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-villa07-0 = 
-    The chapel is small, but well-kept. A tiny graveyard encircles it. <p>
+    小教堂虽小，却维护得宜。周遭环以小小墓园。<p>
     你决定去 ...<br><p><p><opt>...<indent>参加弥撒。<br><p><opt>...<indent>去忏悔。<br><p><opt>...<indent>与村中神父交谈。<br><p><opt>...<indent>让$ChosenOneName献上$Money1的什一税。<br><p><opt>...<indent>参观墓地。<br><p><opt>...<indent>离开。
 msg-villa07-1 = 
     问及圣餐礼，司祭答曰：“吾等每日晨祷及周日晨祷、晚祷均举行弥撒。若蒙莅临，幸甚。”

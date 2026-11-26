@@ -16,16 +16,16 @@ msg-mcguf04-5 =
 msg-mcguf04-6 = 
     满意地，你们如上山般下山，安全抵达谷底。
 msg-mcguf04-7 = 
-    但见崖间洞口似一谒见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     give all the $NamedOneName!"<br><p>
+    但见崖间洞口似一谒见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    “呼哧喘息，汝攀爬，<br>     寻求$NamedTwoName佳品；<br>     若要得之，须付吾价，<br>     将所有$NamedOneName交予我！<br><p>
     矮人满怀期待地瞪视着你，于是你...<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt>...<indent>同意支付他的价码，献上全部$NamedOneName。<br><p><opt>...<indent>攻击并擒获他。<br><p><opt-items>...<indent>以药剂分散其注意力，随即发动攻击。<br><opt>7<br><opt>8<br><p><opt>...<indent>拒绝付款，离去。<br><br>{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}
 msg-mcguf04-8 = 
-    但见崖间洞口似一谒见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     give gold, all, to mine."<br><p>
+    但见崖间洞口似一谒见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    “呼哧喘息，汝攀爬，<br>     寻求$NamedTwoName佳品；<br>     若要得之，须付吾价，<br>     将黄金尽数交予我。<br><p>
     矮人满怀期待地瞪视着你，于是你...<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt>...<indent>同意交出所有金佛罗林。<br><p><opt>...<indent>攻击并擒获他。<br><p><opt-items>...<indent>以药剂分散其注意力，随即发动攻击。<br><opt>7<br><opt>8<br><p><opt>...<indent>拒绝付款，离去。
 msg-mcguf04-9 = 
-    但见崖间洞口似一谒见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     give all $his potions to mine."<br><p>
+    但见崖间洞口似一谒见厅堂。阴影之中，端坐一尊巨幅刻有符文之宝座。宝座之上，稳踞一魁梧黝黑之矮人，言道<br><p>    “呼哧喘息，汝攀爬，<br>     寻求$NamedTwoName佳品；<br>     若要得之，须付吾价，<br>     将所有你的药剂交予我。<br><p>
     矮人指向$ChosenOneName。你...<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt>...<indent>让$ChosenOneName将所有你的药剂尽数赠予矮人。<br><p><opt>...<indent>攻击并擒获矮人。<br><p><opt-items>...<indent>以药剂分散其注意力，随即发动攻击。<br><opt>7<br><opt>8<br><p><opt>...<indent>拒绝付款，离去。
 msg-mcguf04-10 = 
-    你发现崖洞实为一处谒见厅。阴影中端坐着一张刻满符文的大座。矮小黝黑的矮人安坐其上，开口说道：<br><p>    "Huffity puffity, you climb,<br>     seeking $NamedTwoName fine;<br>     To get it, pay my price,<br>     make $his $NamedOneName mine."<br><p>
+    你发现崖洞实为一处谒见厅。阴影中端坐着一张刻满符文的大座。矮小黝黑的矮人安坐其上，开口说道：<br><p>    “呼哧喘息，汝攀爬，<br>     寻求$NamedTwoName佳品；<br>     若要得之，须付吾价，<br>     使你的成为我的$NamedOneName。<br><p>
     矮人指向$ChosenOneName。你...<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt>...<indent>让$ChosenOneName将$NamedOneName赠予矮人你的。<br><p><opt>...<indent>攻击并擒获矮人。<br><p><opt-items>...<indent>以药剂分散其注意力，随即发动攻击。<br><opt>7<br><opt>8<br><p><opt>...<indent>拒绝付款，离去。
 msg-mcguf04-11 = 
     x
@@ -34,11 +34,11 @@ msg-mcguf04-12 =
 msg-mcguf04-13 = 
     你将$NamedOneName置于地，退后一步。矮人跃起，拍手一声。顷刻黑烟弥漫，遮蔽一切。烟散，矮人与$NamedOneName皆不见，唯$NamedTwoName卧于地。
 msg-mcguf04-14 = 
-    矮人的笑声如金属碎裂。<br><p>     "Terrified mice fail a<br>      dwarf's simple request.<br>      When courage returns,<br>      come back to my nest!"<br><p>
+    矮人的笑声如金属碎裂。<br><p>     “惊恐的老鼠未能通过一<br>      矮人的朴素请求。<br>      当勇气重归，<br>      回到我的巢穴吧！”<br><p>
     你小心翼翼地攀下悬崖，仅损了些许自尊便重返谷底。
 msg-mcguf04-15 = 
-    再次置身符文宝座之室。矮人立于座上，双臂交叉，神色极怒。<br><p>    "Bravery, knavery,<br>     remember these fools!<br>     Now my price is<br>     beauty of $him!"<br><p>
-    矮人指向$ChosenOneName！你惊骇不已，决定……<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt>...<indent>同意$ChosenOneName将牺牲你的美貌与魅力。<br><p><opt>...<indent>攻击矮人。<br><p><opt-items>...<indent>以药剂分散其注意力，随即发动攻击。<br><opt>7<br><opt>8<br><p><opt>...<indent>refuse this price and leave. <br><br>{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}
+    再次置身符文宝座之室。矮人立于座上，双臂交叉，神色极怒。<br><p>    “勇敢、狡黠、<br>     记住这些愚人！<br>     如今我的代价是<br>     你美！”<br><p>
+    矮人指向$ChosenOneName！你惊骇不已，决定……<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt>...<indent>同意$ChosenOneName将牺牲你的美貌与魅力。<br><p><opt>...<indent>攻击矮人。<br><p><opt-items>...<indent>以药剂分散其注意力，随即发动攻击。<br><opt>7<br><opt>8<br><p><opt>...<indent>拒此价而离。<br><br>{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}{" "}
 msg-mcguf04-16 = 
     你们众人在抵达顶端之前，勉强攀上一处岩架。随后，你们一同翻过边缘，向内窥视。
 msg-mcguf04-17 = 

@@ -11,7 +11,7 @@ msg-barbe01-2 =
     愤怒之下，你抓住一名潜行于巷中的披风男子。<br><p><p>
     “那他呢？”你质问道。<br><p><p>
     “他有约在身，放之则罢，否则召卫兵。”<br><p><p>
-    Reluctantly you release the man, who quickly hobbles away. The shutter closes. <br>
+    你勉强放开了那人，他匆匆一瘸一拐地走了。窗板关上了。<br>
 msg-barbe01-3 = 
     你无需久候。不过一小时，便听见后巷传来脚步声……
 msg-barbe01-4 = 

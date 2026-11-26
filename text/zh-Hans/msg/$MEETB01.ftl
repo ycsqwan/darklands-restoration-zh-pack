@@ -6,7 +6,7 @@ msg-meetb01-0 =
     你尊重你的感知力（你乃队伍中此类本领之翘楚），遂决定……<br><p><p><opt>...<indent>忽略你的警告，继续前行。<br><p><opt>...<indent>立定，高声尝试以言辞蒙混过关。<br><p><opt-items>...<indent>试图用药剂驱散埋伏。<br><p><opt-saints>...<indent>祈求圣徒助你安然度过。<br><p><opt>...<indent>喊出你已投降。<br><p><opt>...<indent>试图悄然离去，避免厮杀。<br><opt>6<br><p><opt>...<indent>悄然四顾，探其究竟。
 msg-meetb01-1 = 
     突然，一群衣衫蓝缕却意志坚定的匪徒从伏击处跃出，高喊：“放下武器，否则死！”<br><p>
-    你迅速……<br><p><opt>0<br><p><opt>...<indent>试图以言辞化解这场争斗。<br><p><opt-items>2<br><p><opt-saints>...<indent>pray that a saint can stop their assault and let you pass peacefully. <br><p><opt>...<indent>投下兵刃，呼喊乞求他们的宽恕。<br><p><opt>5<br><p><opt-battle>...<indent>抽出武器，战斗！<br>
+    你迅速……<br><p><opt>0<br><p><opt>...<indent>试图以言辞化解这场争斗。<br><p><opt-items>2<br><p><opt-saints>...<indent>祈祷圣者能阻止他们的袭击，让你平安通过。<br><p><opt>...<indent>投下兵刃，呼喊乞求他们的宽恕。<br><p><opt>5<br><p><opt-battle>...<indent>抽出武器，战斗！<br>
 msg-meetb01-2 = 
     随着一声震耳欲聋的吼叫，$ChosenOneName 喝道：“这里发生了什么事？”随后，你 以高超的威严震慑住了匪徒，使他们庆幸自己还能活着离开，免于遭受难以想象的可怕命运。<br><p>
     “嗯，他们果然信了我，”$ChosenOneName仅此一句，便道出你的惊人之举。

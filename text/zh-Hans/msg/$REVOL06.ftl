@@ -36,7 +36,7 @@ msg-revol06-10 =
 msg-revol06-11 = 
     你见街上聚集着一大群市民，许多人手持简陋兵器。你认得那些叛首正在煽动众人，催促他们进军$VarString1，驱逐$CityLordTitle。你灵机一动……<br><p><p><opt>...<indent>高呼“叛贼败类，奉$CityLordName之名去死！”挥刀直扑叛首。<br><p><opt>...<indent>悄然抽身，弃却己志，任叛军自便。<br><p><opt>...<indent>亲自向人群演说，劝其和平散去。
 msg-revol06-12 = 
-    Impressed by the repute, charisma, and speaking skills of $ChosenOneName, the crowd melts away. Embarassed, the rebel leaders also depart. <br><p>
+    为$ChosenOneName的声望、魅力与口才所折服，人群渐散。羞愧之下，叛军首领亦离去。<br><p>
     满意地，你转身看见城卫队长正注视着你。“干得好，”他说，“我自己也做不到更好了！”<br><p>
     不久之后，他的嘉奖化为更实在的形式：来自$CityLordTitle的使者到来，命你即刻前往拜见。你随他而去，心中笃定必有赏赐……
 msg-revol06-13 = 

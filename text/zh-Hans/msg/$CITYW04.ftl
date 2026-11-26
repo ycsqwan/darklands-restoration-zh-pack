@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-cityw04-0 = 
-    你立于城墙旁，近一古旧的出城门。高处，一名士兵踽踽巡行。你决定……<br><p><p><opt>...<indent>让$ChosenOneName攀上高处，为你放下绳索。<br><p><opt>...<indent>抛弃马匹，让$ChosenOneName上去为你放下绳索。<br><p><opt>...<indent>试图徒手攀爬而上。<br><p><opt>...<indent>抛弃马匹，尝试徒手攀爬。<br><p><opt>...<indent>break open a sewer grate and sneak in. <br><p><opt>...<indent>抛弃马匹，撬开下水道井盖，潜入其中。<br><p><opt-items>...<indent>use alchemy on the sally port. <br><p><opt-saints>...<indent>祈求圣者庇佑。<br><p><opt>...<indent>向守卫行贿$Money1，以求入内。<br><p><opt>...<indent>悄悄沿来路退回。
+    你立于城墙旁，近一古旧的出城门。高处，一名士兵踽踽巡行。你决定……<br><p><p><opt>...<indent>让$ChosenOneName攀上高处，为你放下绳索。<br><p><opt>...<indent>抛弃马匹，让$ChosenOneName上去为你放下绳索。<br><p><opt>...<indent>试图徒手攀爬而上。<br><p><opt>...<indent>抛弃马匹，尝试徒手攀爬。<br><p><opt>...<indent>撬开下水道井盖，潜入其中。<br><p><opt>...<indent>抛弃马匹，撬开下水道井盖，潜入其中。<br><p><opt-items>...<indent>对突袭门施以炼金术。<br><p><opt-saints>...<indent>祈求圣者庇佑。<br><p><opt>...<indent>向守卫行贿$Money1，以求入内。<br><p><opt>...<indent>悄悄沿来路退回。
 msg-cityw04-1 = 
     用绳索，$ChosenOneName攀上墙头，随后将绳索放下给其余众人。不久，你们皆已深入$PlaceName。
 msg-cityw04-2 = 
@@ -19,7 +19,7 @@ msg-cityw04-7 =
 msg-cityw04-8 = 
     以最令人满意的姿态炸裂，雷霆一击粉碎了突门，将大门震得脱离铰链。你在守卫赶来查看之前冲了进去，很快便深入城内。
 msg-cityw04-9 = 
-    Poured carefully upon the sally port, the acid hisses loudly as it erodes away the metal of the lock. It takes time to work, though, and by the time it is through, you can see some soldiers wandering your way. Before they can spot you in the night, you sneak through the sally port into the city and are gone. <br>
+    酸液被小心翼翼地倾倒在月门上，嘶嘶作响，腐蚀着锁的金属。然而这需要时间，待其完全溶解时，你已看见几名士兵朝这边走来。在他们于夜色中发现你之前，你悄然穿过月门，遁入城中，消失无踪。<br>
 msg-cityw04-10 = 
     Flames lick upward, burning the door's wooden structure. Guards are attracted by the sight, but soon it is weakened to the point that you can simply burst through. Rushing through the fire, you escape into the city before the guards can get to you. However, everyone is singed a bit by the heat.{" "}
 msg-cityw04-11 = 

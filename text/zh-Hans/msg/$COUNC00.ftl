@@ -13,8 +13,8 @@ msg-counc00-2 =
 msg-counc00-3 = 
     不幸的是，$ChosenOneName 仍不够令人信服。你满怀希望地等到夜幕降临，但书记员们已将你排在名单末尾，确保拜见时间远在你的名字被叫到之前便已结束。心怀不满的你，随着他们关上 $councilHall 的大门离去。
 msg-counc00-4 = 
-    Obsequious clerks put you next on the list, and within an hour you are ushered into the council chamber. The $CityLordTitle is impressed. <br><p>
-    "Famous heroes," he says, "$PlaceName is delighted by your arrival in its hour of need." You smile as he continues. "Now that you have accepted this challenge --" <br><p>
+    阿谀奉承的书吏将你列于首位，不过一小时，便引你入议事厅。$CityLordTitle为之动容。<br><p>
+    “著名英雄们，”他说，“$PlaceName 在危急时刻因你们的到来而欣喜若狂。”你微笑之际，他续道：“既然你们已接受此挑战——”<br><p>
     你已？你相顾无言，而$CityLordTitle仍自以为理所当然地倚仗你的助力。<br><p>
     他继续说道：“让我再详细解释一下我们的问题……”
 msg-counc00-5 = 

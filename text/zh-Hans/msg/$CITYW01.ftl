@@ -10,7 +10,7 @@ msg-cityw01-3 =
     你们以惊人的技艺与无声无息地攀上城墙，悄然穿过垛口，迅速溜入一条幽暗的侧街。<br><p>
     “妙极！”$ChosenOneName惊呼，“那墙看似坚不可摧。然若我能越，几乎人人皆可。”
 msg-cityw01-4 = 
-    With a mighty heave, $ChosenOneName pulls a loose bar aside. You crawl through the narrow culvert under the wall, barely keeping your head above the awful liquid. <br><p>
+    一声猛力，$ChosenOneName 将一根松动的横梁拨到一旁。你匍匐穿过城墙下的狭窄暗渠，勉强让头顶高出那令人作呕的液体。<br><p>
     你从墙后现身，浑身恶臭，泥浆淋漓。纵经仔细沐浴清洗，异味仍将伴随数日。
 msg-cityw01-5 = 
     伴随着有力的喘息与哼哧声，$ChosenOneName 拼命拉拽推搡，却毫无成效。下水道的铁栅栏对 你 而言过于坚固。众人皆松了一口气。若要钻过那污秽不堪的淤泥，实为苦不堪言！
@@ -19,7 +19,7 @@ msg-cityw01-6 =
 msg-cityw01-7 = 
     $ChosenOneName 小心翼翼地将一枚熔合罐缚于门上，随即点燃。众人皆俯身躲避，雷鸣与光芒自门口迸发而出。转瞬之间，你们已穿越废墟，奔入城中。城墙上，守卫疾驰而来，高声报警。他们赶到时，只见你们消失在一条巷弄深处。
 msg-cityw01-8 = 
-    $ChosenOneName bids you all sit quietly, then bows his head in prayer to Saint Christina. First there is a feeling of calmness, then weightlessness. You are high above the ground, veering away from the nearest watchman, heading for the most deserted spot on the wall. <br><p>
+    $ChosenOneName 命令众人静坐，随后低头向圣克里斯蒂娜祈祷。先是感到一片宁静，继而身轻如燕。你已高悬于地面之上，避开最近的守卫，朝城墙上最荒僻之处飞去。<br><p>
     终于，你再次感受到脚下冰冷的石墙。$ChosenOneName缓缓起身，示意众人悄然沿最近的阶梯下入城中。
 msg-cityw01-9 = 
     $ChosenOneName 带领众人祈祷。一阵失重之感，随之而来的是一阵凉风，队伍便飘过城墙，进入了$PlaceName。

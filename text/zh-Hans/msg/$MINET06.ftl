@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-minet06-0 = 
-    The path is blocked by a grim iron door. Carved over it is the legend: <br><p>
+    小径为一道森然铁门所阻。门楣镌刻着如下铭文：<br><p>
     序列中的第八个字母是什么？<br><p>
     按下正确旋钮方可开门。<br><p>   O    T    T    F    F    S    S    ?<br>     1    2    3    4    5    6    7    8<br><p>
     门上镶嵌着五个旋钮，分别标有A、E、I、O和U。你该按哪一个？按错可能会触发矮人机关！你沉思片刻，然后按下……<br><p><opt>...<indent>A<br><opt>...<indent>E<br><opt>...<indent>I<br><opt>...<indent>O<br><opt>...<indent>U<br><opt>...<indent>无门把手——你转身离开。<br>

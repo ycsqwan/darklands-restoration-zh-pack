@@ -2,7 +2,7 @@
 
 msg-destr01-0 = 
     抵达山顶后，你看见一座已被熏黑的石祭坛，显然是供奉地狱恶魔之所。你应当将其净化。若成功，则束缚此地的邪恶轮回将被打破。<br><p>
-    经过深思熟虑，你决定……<br><p><p><opt>...<indent>实际毁损祭坛上的邪魔图像。<br><p><opt-items>...<indent>use alchemy to burn out the taint. <br><p><opt-saints>...<indent>呼请圣者净化此地。<br><p><opt>...<indent>将圣物置于祭坛之上。<br><p><opt>...<indent>召出盘踞于此的恶魔，与之战而胜之。<br><p><opt>...<indent>leave. There is nothing you can do here.{" "}
+    经过深思熟虑，你决定……<br><p><p><opt>...<indent>实际毁损祭坛上的邪魔图像。<br><p><opt-items>...<indent>以炼金术祛除污秽。<br><p><opt-saints>...<indent>呼请圣者净化此地。<br><p><opt>...<indent>将圣物置于祭坛之上。<br><p><opt>...<indent>召出盘踞于此的恶魔，与之战而胜之。<br><p><opt>...<indent>leave. There is nothing you can do here.{" "}
 msg-destr01-1 = 
     不知如何最佳攻击祭坛，你最终决定仅以武器猛击之。忽而，一团浓烟滚滚而出。双眼刺痛，恶臭熏得你作呕。骇然间，黑烟凝聚成一狰狞恶魔，前来守护其祭坛。<br><p>
     那物狂笑不止：“汝等妄图阻我地狱阴谋，实属徒劳。吾不可抗拒——尔等凡夫俗子，受死吧！”
@@ -10,7 +10,7 @@ msg-destr01-2 =
     Unsure as to how to proceed, you work for hours on the altar, chipping away at its horrible sculptures and toppling it onto its side. But when you are finished, you feel you have failed to destroy the evil. All you have accomplished is a bit of vandalism. The evil that infects the site still retains its strength.{" "}
 msg-destr01-3 = 
     $ChosenOneName细研你的宗教典故，阐明祭坛何处当毁，方可祛邪。汝始凿削，忽见黄光一闪，恶臭熏喉。目明之时，只见狰狞之影——恶魔！<br><p>
-    The horror cackles madly with delight. "Your attempt to destroy my holy altar forces me to levy a harsh penitence. Prostrate yourselves before my glory!" <br><p>
+    恐怖者狂笑不已：“汝等欲毁我圣坛，只得施以严惩。匍匐于吾荣耀之前！”<br><p>
     作为回应，汝拔剑相向。
 msg-destr01-4 = 
     沉思良久，$ChosenOneName 凭借对宗教典故的 你的 知识，详尽阐明并解释了祭坛上哪些部分必须毁去，方能祛除邪祟。数刻之后，一切毕矣。祭坛已彻底毁坏。虽天色阴霾，然你功成之瞬，云开雾散。此地终得净化。
@@ -19,13 +19,13 @@ msg-destr01-5 =
 msg-destr01-6 = 
     Vigorously fight, you break away from the hellish thing. Running hard, you make it into the wilderness. Behind you, you can see the village, a sulfurous light emanating from the evil hilltop. Suddenly the light winks and goes out. The demon has returned to its lurking place.{" "}
 msg-destr01-7 = 
-    Your last thought is that the monster's superhuman strength, agility, and powers are too much for your merely mortal forms. <br><p>
+    你最后的念头是：怪物之超凡力量、敏捷与神通，远非凡躯所能抗衡。<br><p>
     When you awaken, the demon is gone. You are tied up, prisoners of the devil-worshipping villagers. It is midnight and they have prepared a great bonfire -- for you!{" "}
 msg-destr01-8 = 
-    You kneel in submission to the demon. It laughs and chortles, frolicking around you. "You have submitted to the powers of Hell!" it snickers. "Can your heaven save you now?" You are consumed with guilt, realizing what a fearful deed you have done. Suddenly, the creature waves its claw, and you fall unconscious. <br><p>
+    你跪伏于恶魔面前，表示臣服。它哈哈大笑，围绕着你嬉戏玩闹。“你已屈从于地狱之力！”它嗤笑道，“如今你的天堂还能救你吗？”你心中充满愧疚，意识到自己犯下了何等可怕的罪行。突然，那怪物挥动利爪，你便昏厥过去。<br><p>
     醒来时，已是子夜。汝被缚，眼前篝火熊熊。恶魔已去，崇拜恶魔的村民却将汝等俘为囚徒。
 msg-destr01-9 = 
-    Standing up from $his prayer, $ChosenOneName looks pleased, as if $he knows $he has gotten a response. Before you can ask $him what has happened, $NamedOneName responds with impressive power. <br><p>
+    $ChosenOneName 自 你的 祈祷中起身，神色欣然，似知 你 已蒙应答。汝未及询 你 所事，$NamedOneName 已以伟力回应。<br><p>
     一道巨大的闪电自几乎无云的天空劈下，邪祟之坛化作百万碎片。大地被净化之热灼焦，远处似有天使合唱，仿佛对这一壮举表示赞许。此坛已被净化。
 msg-destr01-10 = 
     Despite $ChosenOneName's most fervent prayers, $NamedOneName does not respond.{" "}

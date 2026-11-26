@@ -9,7 +9,7 @@ msg-meetp01-1 =
 msg-meetp01-2 = 
     唉，$ChosenOneName的祈祷毫无效果。然而，人们被你的努力与虔诚所感动。他们发誓终生为你祈福、祝福。可惜，你怀疑这日子不会太长了。不久便要挥手告别，继续前行。
 msg-meetp01-3 = 
-    Suddenly, the entire area is suffused with light and the sounds of an angelic choir. Gradually it fades, and as it does, the plague victims look and feel much better. <br><p>
+    突然，整个区域被光明与天使圣歌声浸染。光芒渐褪，瘟疫患者面貌焕然，身心亦觉舒畅。<br><p>
     举城欢腾。众人皆获神迹般痊愈。汝前行之际，耳畔犹回荡着他们的祝福。
 msg-meetp01-4 = 
     当你靠近，$ChosenOneName忽觉此群可疑。你四下打量，低声告诫众人。<br><p>

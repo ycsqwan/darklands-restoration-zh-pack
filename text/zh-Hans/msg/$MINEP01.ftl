@@ -1,23 +1,23 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-minep01-0 = 
-    矮人俯瞰坑沿，发出一阵尖笑。<br><p>              Fish in a barrel I<br>               See down below.<br><p>
+    矮人俯瞰坑沿，发出一阵尖笑。<br><p>              易如反掌 I<br>               见下方。<br><p>
     水从先前未见的孔洞中涌入坑内，水位迅速上升。<br><p>
     要脱此死局，汝当<br><p><p><opt>...<indent>舍弃所有金属甲胄，浮上水面。<br><p><opt-saints>...<indent>呼唤圣人。<br><opt>x<br><p><opt>...<indent>试图堵住漏洞，以防漏水。<br><p><opt>...<indent>与矮人交谈。
 msg-minep01-1 = 
-    矮人俯瞰坑沿，发出一阵尖笑。<br><p>         Chicken for dinner in<br>          My little hot pot would<br>          Taste no more sweet to me<br>          Than scrumptious you.<br><p>
+    矮人俯瞰坑沿，发出一阵尖笑。<br><p>         晚餐是鸡肉，在<br>          吾小鼎炉当<br>          对我而言已无甜味<br>          胜过你那美味可口。<br><p>
     突然，坑壁裂开一道缝隙，炽热的熔岩从中透出。很快，你将在这座熔炉中活活烤熟！<br><p>
     为脱此险境，你...<br><p><p><opt>...<indent>抓住缝隙攀爬而出，不顾灼伤。<br><p><opt-saints>...<indent>呼唤圣人。<br><p><opt-items>...<indent>使用药剂。<br><opt>x<br><p><opt>...<indent>与矮人交谈。
 msg-minep01-2 = 
-    矮人俯瞰坑沿，发出一阵尖笑。<br><p>         Snakepits most heinously<br>          All men agree to be<br>          One of the places they<br>          Fein would not be!<br><p>
+    矮人俯瞰坑沿，发出一阵尖笑。<br><p>         蛇穴中最可怖的<br>          所有人皆愿成为<br>          其中一处所在<br>          费因绝不如此！<br><p>
     一桶毒蛇倾倒在你身上。蛇群扭动着，凶猛地噬咬。<br><p>
     要脱此死局，汝当<br><p><p><opt>...<indent>尽快杀死蛇群，尽力避开它们的攻击。<br><p><opt-saints>...<indent>呼唤圣人。<br><opt-items>x<br><opt>x<br><p><opt>...<indent>与矮人交谈。
 msg-minep01-3 = 
-    矮人俯瞰坑沿，咯咯笑道，<br><p>         Such a fine sauce I think<br>          We can mix here!<br><p>
+    矮人俯瞰坑沿，咯咯笑道，<br><p>         我想这是何等佳肴<br>          我们在此可调和！<br><p>
     一桶白色液体泼洒在你身上。灼痛如火。是生石灰！<br><p>
     要脱此死局，汝当<br><p><p><opt>...<indent>用手遮住眼睛，尽力刮去石灰。<br><p><opt-saints>...<indent>呼唤圣人。<br><p><opt-items>...<indent>使用药剂。<br><opt>x<br><p><opt>...<indent>与矮人交谈。
 msg-minep01-4 = 
-    矮人俯瞰坑沿，发出一阵尖笑。<br><p>         Close friends beneath me shall<br>          Soon be more close.<br><p>
+    矮人俯瞰坑沿，发出一阵尖笑。<br><p>         我身下的挚友将<br>          即将更近。<br><p>
     你听见刺耳的摩擦之声，坑壁渐次合拢，似要将你碾碎！<br><p>
     要脱此死局，汝当<br><p><p><opt>...<indent>待城墙近前，攀援而上，抵墙稳身。<br><p><opt-saints>...<indent>呼唤圣人。<br><opt-items>x<br><p><opt>...<indent>临时搭建支架撑开洞壁，然后攀爬而上。<br><p><opt>...<indent>与矮人交谈。
 msg-minep01-5 = 
@@ -31,7 +31,7 @@ msg-minep01-8 =
 msg-minep01-9 = 
     你的队伍中最后一名成员迅速抽身，双腿刚从坑中拔出，坑壁便合拢了。
 msg-minep01-10 = 
-    骄傲地，矮人再次俯身于坑边。<br><p>         You must not die just yet.<br>          I have more traps to come<br>          Which you'll enjoy soon in<br>          your tiny room!
+    骄傲地，矮人再次俯身于坑边。<br><p>         你还不能死。<br>          我尚有更多陷阱待施，<br>          你很快便可在<br>          你的小屋中享乐！
 msg-minep01-11 = 
     尽管你尖叫呼救，水流仍不断涌入。你踢脱护甲，试图游向水面。无奈，不幸的$ChosenOneName无助地沉入水底，溺亡。当坑洞排空时，你惊恐地发现，你弃置的护甲竟不知所踪。
 msg-minep01-12 = 
@@ -57,7 +57,7 @@ msg-minep01-21 =
 msg-minep01-22 = 
     或许神灵的启示助$ChosenOneName巧妙地即兴搭建了一道临时的挡板，使墙壁不再合拢。墙壁紧绷，险些压断你的这根简陋的支撑物。但在这之前，你已奋力挣脱，逃出了陷阱。
 msg-minep01-23 = 
-    矮人思量你的提议，旋即应允交谈，言道：<br><p>          Rise from this hole of mine,<br>          If you agree with me<br>          You shall not threaten me,<br>          Once you are free.  <br><p>
+    矮人思量你的提议，旋即应允交谈，言道：<br><p>          从吾穴中跃出，<br>          若汝与我同见，<br>          你休再威胁于我，<br>          待汝脱困之后。<br><p>
     无奈之下，你答应不发动攻击，他便放下一根铁链。你攀上铁链，爬了出去。矮人抓住自己的铁链，迅速消失在黑暗之中。
 msg-minep01-24 = 
     当汝自坑中攀出时，矮人见汝逃脱，惊惶奔逃，沿廊道疾呼而去，转瞬不见踪影。

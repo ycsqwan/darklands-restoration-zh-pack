@@ -1,10 +1,10 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-cityw03-0 = 
-    The soldiers are closing in fast. Looking around frantically, you see nowhere to hide. The sheer stone of the wall looms overhead. Soon you will be trapped. <br><p>
-    你决定去 ...<br><p><p><opt-items>...<indent>以炼金术扰乱士兵，随后攀上城墙。<br><p><opt-items>...<indent>以炼金术扰乱士兵，随后攀上城墙，弃马而去。<br><p><opt>...<indent>hidden option <br><p><opt-saints>...<indent>向圣徒祈求援助。<br><p><opt-battle>...<indent>攻击士兵，随后攀墙而上。<br><p><opt-battle>...<indent>攻击士兵，随后攀墙而上，留下马匹。<br><p><opt>...<indent>离开城市与士兵们。
+    士兵们正迅速逼近。你惊慌四顾，却无处藏身。高耸的石墙在头顶压下。很快你将被围困。<br><p>
+    你决定去 ...<br><p><p><opt-items>...<indent>以炼金术扰乱士兵，随后攀上城墙。<br><p><opt-items>...<indent>以炼金术扰乱士兵，随后攀上城墙，弃马而去。<br><p><opt>...<indent>隐藏选项<br><p><opt-saints>...<indent>向圣徒祈求援助。<br><p><opt-battle>...<indent>攻击士兵，随后攀墙而上。<br><p><opt-battle>...<indent>攻击士兵，随后攀墙而上，留下马匹。<br><p><opt>...<indent>离开城市与士兵们。
 msg-cityw03-1 = 
-    The soldiers are closing in fast. Looking around frantically, you see a small sally port in the wall, but it is barred. Soon you will be trapped. <br><p>
+    士兵们正迅速逼近。你惊慌地四下张望，只见墙边有一道小侧门，却被木栅封住。很快你将无处可逃。<br><p>
     你决定去 ...<br><p><p><opt-items>...<indent>以炼金术扰乱士兵，随后攀上城墙。<br><p><opt-items>...<indent>以炼金术扰乱士兵，随后攀上城墙，弃马而去。<br><p><opt>...<indent>试图迅速穿过突袭门。<br><p><opt-saints>...<indent>向圣徒祈求援助。<br><p><opt-battle>...<indent>攻击士兵，随后攀墙而上。<br><p><opt-battle>...<indent>攻击士兵，随后攀墙而上，留下马匹。<br><p><opt>...<indent>离开城市与士兵们。
 msg-cityw03-2 = 
     With glaring light, the Sunburst explodes. Many guards are incapacitated, but several are unaffected. Weapons drawn, they close in.{" "}

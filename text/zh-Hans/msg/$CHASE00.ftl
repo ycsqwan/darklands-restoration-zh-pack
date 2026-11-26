@@ -1,8 +1,8 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-chase00-0 = 
-    Hearts pumping, you run down the street, shouldering aside bystanders and knocking over bales of goods. Dogs bark, cats yowl, and women point and shriek. Behind you, the guards come pounding in hot pursuit. <br><p>
-    你决定去 ...<br><p><p><opt>...<indent>继续奔跑，希望能甩开守卫。<br><p><opt-battle>...<indent>抽出武器，转身应战。<br><p><opt>...<indent>试图设下埋伏，诱使卫兵自投罗网。<br><p><opt>...<indent>趴在拐角处藏身，盼守卫从旁掠过。<br><p><opt-items>...<indent>grab an alchemical potion and toss it behind you, hoping it stops the guards. <br><p><opt>...<indent>停下奔跑，投降吧。
+    心跳如鼓，你沿街疾奔，撞开旁观者，推倒货捆。犬吠猫叫，妇人指指点点，尖声惊呼。身后，卫兵紧追不舍。<br><p>
+    你决定去 ...<br><p><p><opt>...<indent>继续奔跑，希望能甩开守卫。<br><p><opt-battle>...<indent>抽出武器，转身应战。<br><p><opt>...<indent>试图设下埋伏，诱使卫兵自投罗网。<br><p><opt>...<indent>趴在拐角处藏身，盼守卫从旁掠过。<br><p><opt-items>...<indent>抓起一瓶炼金药剂，甩向身后，希望它能拦住守卫。<br><p><opt>...<indent>停下奔跑，投降吧。
 msg-chase00-1 = 
     Proudly you stand over the defeated forms of the hapless guards. Turning your backs on them, you walk off into the deserted city streets.{" "}
 msg-chase00-2 = 

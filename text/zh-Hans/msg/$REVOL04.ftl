@@ -3,9 +3,9 @@
 msg-revol04-0 = 
     不难发现有人在议论地方政治。你大致了解到，$PlaceName $Support 的民众渴望政府变革。再花些时间，便可探得更详尽的消息。你询问关于……<br><p><p><opt>...<indent>各公会的态度。<br><p><opt>...<indent>商人与银行家的态度。<br><p><opt>...<indent>教士与民众的态度。<br><p><opt>...<indent>政府活动。<br><p><opt>...<indent>叛乱活动。<br><opt>5<br><opt>6<br><opt>7<br><opt>8<br><p><opt>...<indent>别无他事，闲聊已足。<br>
 msg-revol04-1 = 
-    在$marketplace逗留良久之人，乃你最佳之消息来源。彼等谓：<br>     local merchants $Support changes in the city government<br>     <if-1>he Hanseatic League members $Support1 changes<endif>     <if-2>he Fugger bankers $Support2 changes<endif>     <if-3>he Medici bank representatives $Support3 changes<endif>     and foreign traders $Support4 changes.
+    在$marketplace逗留良久之人，乃你最佳之消息来源。彼等谓：<br>     当地商人$Support市政府变革<br>     <if-1>he Hanseatic League members $Support1 changes<endif>     <if-2>he Fugger bankers $Support2 changes<endif>     <if-3>he Medici bank representatives $Support3 changes<endif>     外国商人$Support4变革。
 msg-revol04-2 = 
-    平信徒助理难免会无意间听到主教们的闲谈。从中，你得知<br>     the priests of the $cityChurch $Support2 changes in the city government<br>     <if-1>he bishop and clerics of the $cathedral, the cathedral, $Support3 changes<endif>     and that the abbot and monks of the $monastery $Support1 changes.<br><p>
+    平信徒助理难免会无意间听到主教们的闲谈。从中，你得知<br>     $cityChurch的神职人员$Support2市政府变革<br>     <if-1>he bishop and clerics of the $cathedral, the cathedral, $Support3 changes<endif>     并且修道院院长及僧侣们$monastery $Support1变革。<br><p>
     此外，政府的整体公共$Support也在发生变化。
 msg-revol04-3 = 
     许多公会的学徒与工匠口无遮拦，尤以饮酒时为甚。谈及市政府的变革时<br>     <if-1>he blacksmiths $Support changes<endif>     <if-2>he swordsmiths $Support1 changes<endif>     <if-3>he armorers $Support2 changes<endif>     <if-4>he bowyers and gunsmiths $Support3 changes<endif>     <if-5>he artisans and tinkers $Support4 changes<endif>     <if-6>nd the clothmakers $Support5 changes<endif>

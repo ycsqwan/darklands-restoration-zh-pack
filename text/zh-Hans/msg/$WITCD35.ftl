@@ -7,7 +7,7 @@ msg-witcd35-1 =
     大部分的安息日信徒已在此聚集，然已有部分先行离去，因众人皆知宴席已生变故。<br><p>
     尽管你已失去摧毁撒巴特的良机，但或许仍能通过直面余下的女巫，获知关键情报或寻求救赎。你决定……<br><p><p><opt>...<indent>离开撒巴特。<br><p><opt>...<indent>参与盛宴。
 msg-witcd35-2 = 
-    Excitement is high; after a successful invocation, the witches are preparing to feast on the innocents. Your blood runs cold when you hear this: you've heard unmentionably horrid tales of witch feasts! <br><p>
+    兴奋之情高涨；成功召唤之后，女巫们正准备以无辜者为宴。你闻此言，不禁毛骨悚然：关于女巫之宴的骇人传闻，你早已耳闻！<br><p>
     尽管你已失去摧毁撒巴特的良机，但或许仍能通过直面女巫，获知关键情报并寻求救赎。你决定……<br><opt>0<br><opt>1<br><p><opt>...<indent>离开撒巴特。<br><p><opt>...<indent>试图在盛宴开始前拯救无辜者。<br><p><opt>...<indent>耐心等待，佯装参与盛宴。
 msg-witcd35-3 = 
     你走近一位头戴厨帽的老妪。<br><p>

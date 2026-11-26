@@ -33,7 +33,7 @@ msg-medic00-7 =
 msg-medic00-8 = 
     最终，你被护送至$NamedOneName的办公室，他是美第奇家族的代表。<br><p>
     “是的，有确凿证据证明你已完成了任务。”他说，“因此，我义不容辞地要支付这笔赏金。”<br><p>
-    He gets the parcel and partly unwraps it. "See, it's still here." He rewraps it and hands it to you. <br><p>
+    他接过包裹，略略拆开。“看，还在呢。”他又重新包好，递给你。<br><p>
     "虽与君别，心甚戚然，然为酬君之功，此乃值得之代价。吾将告知诸位代表，以彰君之勇武与才用。或有彼等愿聘君也。"
 msg-medic00-9 = 
     代表从后室探出身来。<br>

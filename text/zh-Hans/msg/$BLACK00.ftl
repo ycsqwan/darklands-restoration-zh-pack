@@ -1,9 +1,9 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-black00-0 = 
-    Ringing metal echoes <br>
-    from courtyards as you <br>
-    stroll into the home of <br>
+    金属的回响<br>
+    自庭院之中，你便<br>
+    步入<br>
     城中铁匠之家。<br>
     你决定去...<br><p><opt>...<indent>游走于街面铺肆，买卖货物。<br><p><opt>...<indent>探询公会领袖与政局。<br><p><opt>...<indent>请求与公会诸位大师会面。<br><p><opt>...<indent>向其公会成员揭露会长的骇人秘事。<br><p><opt>...<indent>凭借潜行与街头历练，潜入公会会长府邸。<br><p><opt-items>...<indent>以炼金术制造障眼法，悄然潜入公会会长府邸。<br><p><opt>...<indent>离开。
 msg-black00-1 = 

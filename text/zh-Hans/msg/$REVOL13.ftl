@@ -7,7 +7,7 @@ msg-revol13-1 =
 msg-revol13-2 = 
     终，汝一行抵$citySquare。市卫分列广场各处，守护通往$councilHall——市政厅——之诸路。汝决定……<br><p><p><opt>...<indent>让$ChosenOneName向守卫陈情，求其放行。<br><p><opt>...<indent>以$Money1贿赂守卫，令其放行。<br><p><opt-saints>...<indent>向圣徒祈祷，求得平安通行。<br><p><opt>...<indent>冲入卫士，驱之退散。<br><p><opt>...<indent>试图在$NamedOneName未察之际，隐入侧街，任其处置守卫。
 msg-revol13-3 = 
-    Sheathing $his weapons, $ChosenOneName walks over to the lieutenant of the guardsmen. In a quiet conversation, $he convinces the officer that it is neither in his own best interest, nor the best interest of $PlaceName, that the guardsmen attack their own citizens. <br><p>
+    收起你的武器，$ChosenOneName走向卫兵的副官。在一番低声交谈中，你说服了这位军官：无论是对他自己，还是对$PlaceName而言，卫兵攻击自己的百姓都非明智之举。<br><p>
     中尉是$PlaceName的终身居民，正如大多数军官一样。他深谙此言之理，遂让人群通过。
 msg-revol13-4 = 
     收起你的武器，$ChosenOneName走向卫兵的副官。你试图说服这位军官，无论是对他自己还是对$PlaceName而言，卫兵攻击自己的市民都非明智之举。然而，副官指出，这些市民还携带着外国军队——雇佣兵。<br><p>

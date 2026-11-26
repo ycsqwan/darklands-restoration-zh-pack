@@ -13,8 +13,8 @@ msg-cityf00-2 =
 msg-cityf00-3 = 
     不幸的是，$ChosenOneName 仍不够令人信服。你满怀希望地等到夜幕降临，但书记员已将你的名字排在名单末尾，确保拜见时间远在轮到你之前便已结束。心怀不满，你在他们关上 $fortress 大门时离去。
 msg-cityf00-4 = 
-    Your reputation and fame precede you. Obsequious clerks put you next on the list, and within an hour you are ushered into the council chamber. The $CityLordTitle is impressed by your presence. <br><p>
-    "Famous heroes," he says, "$PlaceName is delighted by your arrival in its hour of need." You hardly begin to smile when he continues. "Although you have accepted this challenge --" <br><p>
+    你的名望早已传至彼处。谄媚的书吏将你排在名单之首，不过一小时，你便被引入议事厅。$CityLordTitle对你的气度颇为赞赏。<br><p>
+    “著名英雄们，”他说，“$PlaceName 在危急时刻因你们的到来而欣喜若狂。”你刚欲微笑，他便接着说道：“尽管你们已接受此挑战——”<br><p>
     你已？你相顾无言，而$CityLordTitle仍自以为理所当然地倚仗你的助力。<br><p>
     “——因此，”他继续道，“让我再详细说明一下我们的问题……”
 msg-cityf00-5 = 

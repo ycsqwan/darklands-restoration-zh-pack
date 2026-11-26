@@ -27,7 +27,7 @@ msg-citym00-8 =
     老僧笑吟吟地回来了。<br><p>
     “本堂初学导师眼下无事。凡有德者，皆可授以学问，诸君或在其列。”<br><p>
     “然则，”僧侣续道，“每日贡献$Money1，不胜感激。适格人士之邀函将日送汝寓所。汝居于$Inn，对否？盖依$PlaceName之法，他处皆属非法。”<br><p>
-    You assure him that you are law-abiding, and can be found at the inn. <br>
+    你向他保证自己守法，并可在旅店寻得。<br>
 msg-citym00-9 = 
     院长关心市政，乐与汝交换意见。<br><p>
     “请移步吾私室，”他 offer。<br>
@@ -42,7 +42,7 @@ msg-citym00-12 =
     僧侣当即摇头：“抱歉，此处并无圣所庇护的传统。请前往转角的$cityChurch教堂。”<br><p>
     他打开房门，引领你走上街头。
 msg-citym00-13 = 
-    Joyfully the monk exclaims, "Our paladins at last! Please come with me to the abbot." Before you can protest, he sweeps you along with him to the abbot's office. <br><p>
+    僧侣欣喜地喊道：“我们的圣骑士终于来了！请随我前往方丈处。”你尚未及抗议，他便已将你一并带往方丈的居室。<br><p>
     “敬礼！”他对方丈 exclaim，“吾等英豪至矣！”<br><p>
     院长热情迎汝：“未言之前，先申明此任殊为重要。吾等感恩之道颇多。譬如，图书馆员可导览藏书，或令汝识诸多新圣。初阶导师亦可授汝诸学……”<br><p>
     他俯身道：“如今，关于此任务……”

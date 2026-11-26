@@ -1,8 +1,8 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-selec01-0 = 
-    You are near the great outer wall of $PlaceName. <br><p>
-    你决定去 ...<br><p><p><opt>...<indent>从下水道爬出。<br><p><opt>...<indent>抛下马匹，自下水道爬出。<br><p><opt>...<indent>以$Money1贿赂守卫，使其放行。<br><p><opt>...<indent>夜深后潜攀城墙，再以绳索滑下。<br><p><opt>...<indent>夜深后弃马，潜攀城墙，再以绳索滑下。<br><p><opt>...<indent>夜深后潜越城墙，再攀下。<br><p><opt>...<indent>夜深后弃马，潜越城墙，再攀下。<br><p><opt>...<indent>look for a gate instead. <br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt>...<indent>回归街头。<br>
+    你已近$PlaceName的高大外垣。<br><p>
+    你决定去 ...<br><p><p><opt>...<indent>从下水道爬出。<br><p><opt>...<indent>抛下马匹，自下水道爬出。<br><p><opt>...<indent>以$Money1贿赂守卫，使其放行。<br><p><opt>...<indent>夜深后潜攀城墙，再以绳索滑下。<br><p><opt>...<indent>夜深后弃马，潜攀城墙，再以绳索滑下。<br><p><opt>...<indent>夜深后潜越城墙，再攀下。<br><p><opt>...<indent>夜深后弃马，潜越城墙，再攀下。<br><p><opt>...<indent>另觅一门而出。<br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt>...<indent>回归街头。<br>
 msg-selec01-1 = 
     凭借你的巨大力量与灵巧身手，$ChosenOneName撬开下水道井盖，你们逃离城市，重获自由。
 msg-selec01-2 = 

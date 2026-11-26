@@ -9,6 +9,6 @@ msg-monas00-2 =
 msg-monas00-3 = 
     修道院院长拒你近书。“虽处幽闭，然耳闻汝名。所闻之事，并未令吾等确信珍籍可托。”
 msg-monas00-4 = 
-    After careful consideration, you ... <br><opt>...<indent>this option should be hidden<br><opt>...<indent>this option should be hidden<br><p><p><opt>...<indent>给修士一枚佛罗林。<br><p><opt>...<indent>给修士三枚佛罗林。<br><p><opt>...<indent>给修士六枚佛罗林。<br><p><opt>...<indent>给修士十枚佛罗林。<br><p><opt>...<indent>改念，决定终究不为弥撒付费。
+    经过深思熟虑，你……<br><opt>...<indent>this option should be hidden<br><opt>...<indent>this option should be hidden<br><p><p><opt>...<indent>给修士一枚佛罗林。<br><p><opt>...<indent>给修士三枚佛罗林。<br><p><opt>...<indent>给修士六枚佛罗林。<br><p><opt>...<indent>给修士十枚佛罗林。<br><p><opt>...<indent>改念，决定终究不为弥撒付费。
 msg-monas00-5 = 
     方丈收下了你的钱。“请放心，善人啊，$monastery的僧侣们必将以满腔热忱为你诵念圣咏。”

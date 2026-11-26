@@ -1,10 +1,10 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-mineb03-0 = 
-    又是矮人之王$NamedOneName。他愤怒地比划着手势。<br><p>         So you have come again,<br>          You have come recklessly.<br>          Now my red hat and me<br>          Your doom shall seek.<br><p>
+    又是矮人之王$NamedOneName。他愤怒地比划着手势。<br><p>         于是你又来了，<br>          你竟鲁莽而来。<br>          如今我的红帽与我<br>          你的厄运将寻你而来。<br><p>
     $ChosenOneName低语道：“那顶红帽必定是他力量的源泉。我们能否将其从他手中夺走？”随后你……<br><p><opt>...<indent>用投射物击落他手中的帽子。<br><opt>...<indent>让你们中最迅捷的$ChosenTwoName夺得帽子。<br><opt-saints>...<indent>称圣徒。<br><opt>...<indent>将国王的财宝奉还。<br><opt>...<indent>请求离去。
 msg-mineb03-1 = 
-    Your attempt failed. The king, furious, waves a hand and the door behind you vanishes into blank stone. You cannot run! <br><p>
+    你的尝试失败了。国王震怒，挥手之间，身后的门化作一片空石。你无路可逃！<br><p>
     突然，蝙蝠翼的石像鬼扑向你。矮人一定是将它们造为小精灵！他戴上红帽，一声“啵”地消失了！<br><p>
     汝须奋战。
 msg-mineb03-2 = 
@@ -16,38 +16,38 @@ msg-mineb03-3 =
     狼群骤然向你奔来，被矮人驯服，为其邪恶的意志效劳。矮人戴上红帽，一声“砰”地消失不见。<br><p>
     汝须奋战。
 msg-mineb03-4 = 
-    你的同伴箭术精准，将红帽自$NamedOneName指间击落。矮人惊惧瞪目，你迅即夺帽。他瑟瑟发抖，满面惊惶，<br><p>         Woe to me, all of my<br>          Creatures are freed by your<br>          theft of my cap. Now I<br>          dread they'll kill me!
+    你的同伴箭术精准，将红帽自$NamedOneName指间击落。矮人惊惧瞪目，你迅即夺帽。他瑟瑟发抖，满面惊惶，<br><p>         叹吾矣，吾之一切<br>          生灵因汝而获自由，<br>          盗我之帽。今吾<br>          惟恐其杀我！
 msg-mineb03-5 = 
     冷静地，你挥帽于$NamedOneName鼻端，命其当着上天、诸圣及众证人（指指彼此）立誓，永弃此矿。<br><p>
-    矮人苦闷不已，然恐惧终胜。他喃喃道，<br><p>         Hag of the Ironwood,<br>          Hear mine oath sworn today!<br>          Gods of yore, hear me now,<br>          I acquiesce!
+    矮人苦闷不已，然恐惧终胜。他喃喃道，<br><p>         铁木之巫婆，<br>          听吾今日所誓！<br>          古之诸神，今聆吾声，<br>          吾应允矣！
 msg-mineb03-6 = 
-    Satisfied with $NamedOneName's oath, you hand back his red cap. He glares at you. <br><p>              You have defeated me,<br>               This I'll regret.<br><p>
+    满意于$NamedOneName的誓言，你将他的红帽递还。他怒视着你。<br><p>              你已击败我，<br>               此事吾将悔之。<br><p>
     说罢，他消失不见。汝胜矣！
 msg-mineb03-7 = 
     你在矿井四处搜查，确认矮人确已离去，却未见半点踪迹。连他们的陷阱亦已被拆除。矿井可以重新开采！<br><p>
     你回到矿工营地。矿工们满怀希冀地迎接你，盼你有所斩获。与冷酷的矮人打交道之后，与人类相处果然令人舒畅。
 msg-mineb03-8 = 
-    $NamedOneName国王手持红帽，雀跃呼喊：<br><p>         I am your master and<br>          Trounced you shall be today<br>          Unless surrender you<br>          offer me now!<br><p>
+    $NamedOneName国王手持红帽，雀跃呼喊：<br><p>         我乃你的主人，并<br>          今日你将被痛击<br>          若不投降你<br>          现在就献给我吧！<br><p>
     你...<br><p><opt>...<indent>用投射物击落他手中的帽子。<br><opt>...<indent>让你们中最迅捷的$ChosenTwoName抢夺帽子。<br><opt-saints>...<indent>称圣徒。<br><opt>...<indent>将国王的财宝奉还。<br><opt>...<indent>试图离开。
 msg-mineb03-9 = 
-    $NamedOneName国王的爪牙逼你屈服。$NamedOneName现身，召回麾下，欣喜若狂，绕室起舞，高呼：<br><p>         I heard you yield to me,<br>          Since you surrendered to<br>          Me, now my magic can<br>          Force you to leave! <br><p>
+    $NamedOneName国王的爪牙逼你屈服。$NamedOneName现身，召回麾下，欣喜若狂，绕室起舞，高呼：<br><p>         我听闻你向我臣服，<br>          既然你已屈服于<br>          如今我的法术可<br>          强迫你离开！<br><p>
     你面面相觑，茫然若失。你的屈服竟使矮人掌控了你！不由自主，你悄然转身，步出矿井。及至外，欲再入，却不得其门。矮人法术果然灵验。
 msg-mineb03-10 = 
     $NamedOneName国王的爪牙势不可挡，你力竭倒地，昏厥过去。醒来时，已在矿外。懊恼不已，矮人夺走了你所有财物。
 msg-mineb03-11 = 
-    凭借全部你的力，$ChosenOneName从$NamedOneName手中夺过红帽。矮人惊恐地瞪大双眼，但已为时晚矣。你已得其帽。矮人战栗不已，<br><p>         Woe to me, all of my<br>          Creatures are freed by your<br>          theft of my cap. Now I<br>          dread they'll kill me!
+    凭借全部你的力，$ChosenOneName从$NamedOneName手中夺过红帽。矮人惊恐地瞪大双眼，但已为时晚矣。你已得其帽。矮人战栗不已，<br><p>         叹吾矣，吾之一切<br>          生灵因汝而获自由，<br>          盗我之帽。今吾<br>          惟恐其杀我！
 msg-mineb03-12 = 
     天堂震怒，洞穴摇撼，岩块自顶棚坠落。$NamedOneName神色惶恐。你深知天意在己，胜算大增。
 msg-mineb03-13 = 
-    唉，虽圣人未答，$NamedOneName却察觉你欲祈求神助。其胡须耸立。<br><p>         Dare you to summon your<br>          Paltry religious folk?<br>          I'll teach you manners, you<br>          Disgusting swine!
+    唉，虽圣人未答，$NamedOneName却察觉你欲祈求神助。其胡须耸立。<br><p>         敢否召唤你的<br>          卑贱的宗教徒？<br>          我要教你规矩，你这<br>          可憎的猪猡！
 msg-mineb03-14 = 
     生产出$NamedOneName的宝藏，你提出归还它。“但首先，”$ChosenOneName说道，“在上天、圣徒以及我们这些见证者面前发誓，你将永远放弃这座矿坑。”<br><p>
-    矮人苦闷不已，然贪欲终胜。他喃喃道，<br><p>         Hag of the Ironwood,<br>          Hear mine oath sworn today!<br>          Gods of yore, hear me now,<br>          I acquiesce!
+    矮人苦闷不已，然贪欲终胜。他喃喃道，<br><p>         铁木之巫婆，<br>          听吾今日所誓！<br>          古之诸神，今聆吾声，<br>          吾应允矣！
 msg-mineb03-15 = 
-    Satisfied with $NamedOneName's oath, you give him the treasure. He glares at you. <br><p>              You have defeated me<br>               This I'll regret.<br><p>
+    满意于$NamedOneName的誓言，你将宝物交予他。他怒视着你。<br><p>              你已击败我<br>               此事吾将悔之。<br><p>
     说罢，他消失不见。汝胜矣！
 msg-mineb03-16 = 
-    $NamedOneName国王面露愠色，断然言道：<br><p>         Harum and Scarum, so<br>          Humans assume that I'm<br>          Blind and an idiot,<br>          Bringing me mine?<br>          I know you stole it all<br>          Bring it back all to me<br>          Else I shall seek from you<br>          Vengeance most fine.
+    $NamedOneName国王面露愠色，断然言道：<br><p>         哈鲁姆与斯卡鲁姆，如此<br>          世人皆以为我乃<br>          盲且愚钝，<br>          可曾带回吾物？<br>          知汝窃取一空<br>          皆悉数奉还于我<br>          否则我将向汝索取<br>          最精妙的复仇。
 msg-mineb03-17 = 
-    $NamedOneName国王喜形于色。<br><p>         You think you cannot win?<br>          I must agree!<br><p>
+    $NamedOneName国王喜形于色。<br><p>         你以为你无法取胜？<br>          我不得不赞同！<br><p>
     矮人一拍手，门便开了。你转身离去，为他的漫不经心而感到羞愧。

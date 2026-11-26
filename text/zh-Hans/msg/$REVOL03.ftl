@@ -15,7 +15,7 @@ msg-revol03-3 =
 msg-revol03-4 = 
     你得知，影响人心的最佳方式莫过于与之交谈！有时，友善的对话便能令人信服。然而，你须谨记，多数人终将决意支持一方。一旦心意已定，几乎再难使其回心转意。<br>
 msg-revol03-5 = 
-    Now that you have accepted their pay and received a pile of handbills, you are unavoidably obliged to post them. This isn't hard: you'll do it as you move about the city. <br><p>
+    既然你已收下酬金，并得了一叠传单，便不得不将它们张贴出去。此事不难：你可在城中行走时顺手为之。<br><p>
     然而，如今你或将与对方雇佣的打手发生冲突。既已与某方势力相系，唯有暂离$PlaceName，待时局纷乱尘埃落定、胜负分明，方可免此险厄。
 msg-revol03-6 = 
     倒也不妨看看反对派中谁藏有不堪的秘密。有时仅凭声称知晓便已足够，有时则需确凿证据。<br><p>
@@ -23,8 +23,8 @@ msg-revol03-6 =
 msg-revol03-7 = 
     当然，反对派必定有一个作为总部的住所或办公室。一次极具破坏力的突袭会让他们显得软弱无能，连自身都无法保护，更遑论他们的支持者。
 msg-revol03-8 = 
-    Overall, the balance of opinion aligned with your side greatly outweighs that aligned with the opposition. Therefore, <if-1>now is a good time to march on the $councilHall. <endif>如今正是进军$fortress之时。<endif>如今正是逮捕叛逆首恶之时。<endif>
+    总体而言，支持你一方的民意远胜反对派。因此，<if-1>如今正是进军$councilHall之时。<endif>如今正是进军$fortress之时。<endif>如今正是逮捕叛逆首恶之时。<endif>
 msg-revol03-9 = 
-    盛传数日内，叛军将集结兵力，进逼城池。<if-1>$councilHall, the city hall<endif> $fortress, the city's fortress<endif> Some people worry about the rebels inviting mercenaries or adventurers to help fight in their cause.
+    盛传数日内，叛军将集结兵力，进逼城池。<if-1>$councilHall, the city hall<endif> $fortress, 城堡<endif> Some people worry about the rebels inviting mercenaries or adventurers to help fight in their cause.
 msg-revol03-10 = 
     盛传数日内，城卫将奉命逮捕所有叛首，以叛国罪论处。

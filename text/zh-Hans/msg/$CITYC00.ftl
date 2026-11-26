@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-cityc00-0 = 
-    You come to the $cityChurch, the church of $PlaceName. A beggar sits outside, asking for alms. Within the chapel, you hear a priest intoning Mass. <br><p>
+    你抵$cityChurch，$PlaceName之堂。门外乞丐求施，堂内司祭诵弥撒。<br><p>
     你决定去 ...<br><p><p><opt>...<indent>参加弥撒。<br><p><opt>...<indent>去忏悔。<br><p><opt>...<indent>与牧师交谈。<br><p><opt>...<indent>积德自囊中捐出$Money1，冀获神佑，或可增进德性。<br><p><opt>...<indent>寻求庇护。<br><p><opt>...<indent>由大街离去。<br><p><opt>...<indent>由小巷离去。
 msg-cityc00-1 = 
     当你缓步走向小堂，一神父匆匆迎上，礼貌询问有何差遣。汝告以欲领圣餐，彼答曰：“惜哉，下一场弥撒尚需至$NamedOneName始能举行，请届时再来。”

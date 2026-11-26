@@ -13,11 +13,11 @@ msg-chall00-4 =
 msg-chall00-5 = 
     Rather than interfere with the guards' momentum, $ChosenOneName points further down the street and yells, "That's right, boys! The guys you want just ran around the corner. Go get 'em!" The guards, encouraged, run on past you. Their sergeant chases them, expostulating futilely. Before he convinces his squad of their error, you have escaped into the maze of city streets.{" "}
 msg-chall00-6 = 
-    Your leader, $ChosenOneName, smiles and looks pleased. "Very good, sergeant. You have passed this test by spotting myself and my men, costumed as wanted thugs. I shall speak favorably of you to your officer." <br><p>
+    你的首领$ChosenOneName含笑称许：“甚好，军士。你已通过考验，识破我与部下伪装成通缉暴徒。我将为你向长官美言。”<br><p>
     满意地，中士挺直了腰板。你离开时，$ChosenOneName 又鼓励他道：“睁大眼睛。真正的恶棍还在外面。把他们抓起来，我就把你的薪水翻倍。”中士勤勉地带着手下离去，仔细打量着过往行人。等他转过街角，你忍不住大笑一声，继续前行。
 msg-chall00-7 = 
-    Glowering threateningly, everyone hefts their weapons. $ChosenOneName 's lip curls, and $he spins $his $NamedOneName easily in one hand. One of you hisses, "I get his boots." <br><p>
-    Dismayed at this sinister response, the guards hesitate. Another of you whines, "Not again? Remember last time in Widdlesheim? Collecting the pieces was so messy!" $ChosenOneName begins to advance ominously. <br><p>
+    众人怒目而视，纷纷举起武器。$ChosenOneName嘴角一撇，你则轻松地单手旋转着你的 $NamedOneName。你们中一人嘶声道：“我要他的靴子。”<br><p>
+    听到这阴森的回应，卫兵们犹豫不决。你们中又一人哀嚎道：“又来了？还记得上次在维德尔斯海姆吗？收拾那些残骸可真麻烦！”$ChosenOneName开始阴沉地逼近。<br><p>
     The guards, cowed, retreat in confusion. Their sergeant blurts out apologies. They stumble back around a corner and, when they think you can no longer see them, break into a run. You laugh and move along.{" "}
 msg-chall00-8 = 
     你郑重向守备队长说明其误判，称汝等并非其所寻之人。你指出汝等与通缉罪犯之间诸多明显差异。无奈，他全然不信。<br><p>
@@ -41,5 +41,5 @@ msg-chall00-16 =
 msg-chall00-17 = 
     清亮而有力，$ChosenOneName的声音响起，你恳求$NamedOneName助你一臂之力。天穹裂开，光芒自云层后射出，直贯冲来的卫兵胸膛。他们一时惊疑，随即微笑，放下武器，示意你平安离去。你欣然照办。
 msg-chall00-18 = 
-    Saint Reinold's name is invoked by $ChosenOneName and he responds with power. The windowless height of a nearby building suddenly gleams with light. $ChosenOneName leads you to the building. Lightly you step from the ground onto the masonry. Defying gravity, each of you walks up the wall, your body parallel to the ground beneath. <br><p>
+    圣莱诺德之名被$ChosenOneName唤起，他以神力回应。附近一幢无窗的高楼陡然光芒大盛。$ChosenOneName引领你们前往那座建筑。你们轻盈地自地面跃上石墙。无视重力，你们皆沿墙面而行，身体与下方地面平行。<br><p>
     Dumbfounded, the guards grovel below, too amazed for words. They keep staring after you long after you have disappeared from view and climbed down the building's other side.{" "}

@@ -23,12 +23,12 @@ msg-consi00-5 =
     “今时$PlaceName市民皆支持我等。鲜有显贵附和敌方。出手之时，正在此刻，莫待变故骤生，使任务更难！”<br><p>
     众人齐声欢呼，纷纷起立表示赞同。终于，你的领袖站了起来。
 msg-consi00-6 = 
-    Slowly $ChosenOneName rises to speak. <br><p>
+    慢慢地，$ChosenOneName站起身来发言。<br><p>
     “$PlaceName的民众犹疑不定，被相互矛盾的传单与使团搅得心乱如麻。无人知所信何物。”<br><p>
     “是时候让他们明白该信什么了。此刻行动，便能终结一切混乱与拖延。现在正是出手之时！”<br><p>
     你见众人纷纷点头赞同。终于，桌尾的首领高声说道：“我同意”，随即站起身来。
 msg-consi00-7 = 
-    Quickly, $ChosenOneName rises to speak. <br><p>
+    迅速地，$ChosenOneName起身发言。<br><p>
     “$PlaceName的民众被敌方的谎言所蒙蔽。我们必须以雷霆之举唤醒市民，以免对方趁势而起。我们当先发制人，莫让其反戈一击！”<br><p>
     $NamedOneName，首领点头同意，站起身来。“$ChosenOneName说的是实话。这可能是我们的最后机会，在他们对我们下手之前。我们的任务或许艰难，但我们绝不能像羔羊般任人宰割。我们必须掌握自己的命运！”<br><p>
     经过一阵喝彩，$NamedOneName继续说道……

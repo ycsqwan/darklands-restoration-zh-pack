@@ -5,7 +5,7 @@ msg-meetf00-0 =
     “我想前方藏有某人或某物，”你低声道。你信重你的感知，于是决定……<br><p><p><opt>...<indent>不顾警告，继续前进。<br><p><opt>...<indent>凭魅力与辩才，虚与委蛇，避开伏兵。<br><p><opt-items>...<indent>试图用药剂驱散埋伏。<br><p><opt-saints>...<indent>祈求圣徒助你安然度过。<br><p><opt>...<indent>大声喊出你们愿意俯首乞怜。<br><p><opt>...<indent>静静绕过他们，避免任何冲突。<br><opt>6<br><p><opt>...<indent>悄悄上前，看看他们是谁。
 msg-meetf00-1 = 
     突然，一群士兵从伏击处跃起，高呼私战之凶名——“Fehde！”<br><p>
-    你遂采取……<br><p><opt><br><p><opt>...<indent>凭藉魅力与口才，力图脱身。<br><p><opt-items><br><p><opt-saints>...<indent>praying that a saint can stop their assault and let you pass peacefully. <br><p><opt>...<indent>投下武器，高呼愿乞其怜。<br><p><opt><br><p><opt-battle>...<indent>抽出武器，战斗。
+    你遂采取……<br><p><opt><br><p><opt>...<indent>凭藉魅力与口才，力图脱身。<br><p><opt-items><br><p><opt-saints>...<indent>祈愿圣徒止其侵袭，使汝平安无事。<br><p><opt>...<indent>投下武器，高呼愿乞其怜。<br><p><opt><br><p><opt-battle>...<indent>抽出武器，战斗。
 msg-meetf00-2 = 
     随着一声巨吼，$ChosenOneName高喊道：“这里发生了何事？”随后，你以无与伦比的威严震慑全场，令那些匪兵无不胆战心惊，只求能侥幸离去，以免遭受你施加的难以想象之酷刑。<br><p>
     “嗯，他们果然信了我，”$ChosenOneName仅此一句，便道出你的惊人之举。
@@ -23,7 +23,7 @@ msg-meetf00-6 =
     “诸友，恐吾祷告未蒙垂听，”你言道。
 msg-meetf00-7 = 
     当$ChosenOneName结束你的祈祷时，一股奇异的宁静似乎弥漫于四周。士兵们起身走来，友好地示意你向前。<br><p>
-    "We fight our feud against others, not honest travellers such as you," explains their leader. <br><p>
+    “吾辈争斗，只为宿怨，非针对汝等正直旅人。”首领解释道。<br><p>
     你欣喜地走过，与人寒暄致意。通常而言，在私人战争中，人们会认为非盟友者皆为敌！<br><p>
     “和平之奇迹，”$ChosenOneName低语道。众人皆点头称是。
 msg-meetf00-8 = 

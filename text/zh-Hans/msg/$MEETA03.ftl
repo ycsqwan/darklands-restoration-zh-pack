@@ -1,10 +1,10 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-meeta03-0 = 
-    默然间，$ChosenOneName 令众人止步。你 指向山坡上的灌木丛。你细察之下，终见隐于其间的士兵，正监视前方要道。你...<br><p><p><opt>...<indent>忽视他们，继续前行。<br><p><opt>...<indent>向他们致意，再劝说他们放你通行。<br><p><opt-items>...<indent>试图以药剂吓退他们。<br><p><opt-saints>...<indent>pray for a saint to help you pass peacefully. <br><p><opt>...<indent>向他们投降。<br><p><opt>...<indent>巧妙避过，不与交战。<br><p><opt-battle>...<indent>在他们攻击你之前先发制人！<br><p><opt>...<indent>悄近细察，再作决断。
+    默然间，$ChosenOneName 令众人止步。你 指向山坡上的灌木丛。你细察之下，终见隐于其间的士兵，正监视前方要道。你...<br><p><p><opt>...<indent>忽视他们，继续前行。<br><p><opt>...<indent>向他们致意，再劝说他们放你通行。<br><p><opt-items>...<indent>试图以药剂吓退他们。<br><p><opt-saints>...<indent>祈求圣徒助你安然渡过。<br><p><opt>...<indent>向他们投降。<br><p><opt>...<indent>巧妙避过，不与交战。<br><p><opt-battle>...<indent>在他们攻击你之前先发制人！<br><p><opt>...<indent>悄近细察，再作决断。
 msg-meeta03-1 = 
     突然，士兵从伏击处跃起，高喊：“投降，否则死！”<br><p>
-    你遂采取……<br><p><opt>...<indent>0<br><p><opt>...<indent>凭气势压服，脱身于此。<br><p><opt-items>...<indent>2<br><p><opt-saints>...<indent>praying for a saint who can stop this and let you pass peacefully. <br><p><opt>...<indent>向彼等投降。<br><p><opt>...<indent>5<br><p><opt-battle>...<indent>抽出武器，迎击来犯。
+    你遂采取……<br><p><opt>...<indent>0<br><p><opt>...<indent>凭气势压服，脱身于此。<br><p><opt-items>...<indent>2<br><p><opt-saints>...<indent>祈求能止此难、令汝安然通过之圣徒。<br><p><opt>...<indent>向彼等投降。<br><p><opt>...<indent>5<br><p><opt-battle>...<indent>抽出武器，迎击来犯。
 msg-meeta03-2 = 
     随着一声威严的怒吼，$ChosenOneName 喝道：“这里发生了何事！” 你 成功说服士兵们你确为己方，并问得通往主营的方向。你 引你朝此方向行去，直至士兵身影尽没。随后，你们便重回原路！<br><p>
     "It's all in how you do it," explains $ChosenOneName, chuckling.{" "}
@@ -42,9 +42,9 @@ msg-meeta03-13 =
     你在沟壑中醒来，身无寸铁、甲胄尽失，显贵之物亦被夺。然士兵未能搜出几件细小之物。汝以碎布包扎重伤之处。<br><p>
     “然则，今当如何？”$ChosenOneName问。众人皆思对策。
 msg-meeta03-14 = 
-    你居高俯瞰，见其不动。乃哨兵，护卫着尚未露面的大军侧翼。你...<br><p><p><opt>...<indent>只是径直冲向他们，仿佛他们并不存在一般。<br><p><opt>...<indent>走过去，硬着头皮闯过他们。<br><p><opt-items>...<indent>试图以药剂吓退他们。<br><p><opt-saints>...<indent>pray for a saint to help you pass peacefully. <br><p><opt>...<indent>向彼等投降。<br><p><opt>...<indent>绕过他们，避而不战。<br><p><opt-battle>...<indent>进攻彼辈！
+    你居高俯瞰，见其不动。乃哨兵，护卫着尚未露面的大军侧翼。你...<br><p><p><opt>...<indent>只是径直冲向他们，仿佛他们并不存在一般。<br><p><opt>...<indent>走过去，硬着头皮闯过他们。<br><p><opt-items>...<indent>试图以药剂吓退他们。<br><p><opt-saints>...<indent>祈求圣徒助你安然渡过。<br><p><opt>...<indent>向彼等投降。<br><p><opt>...<indent>绕过他们，避而不战。<br><p><opt-battle>...<indent>进攻彼辈！
 msg-meeta03-15 = 
-    士兵们置之不理，高呼“投降或死！”向前猛冲。你现在可以选择……<br><opt>1<br><p><opt>...<indent>向他们致意，再劝说他们放你通行。<br><p><opt-items>...<indent>试图以药剂吓退他们。<br><p><opt-saints>...<indent>pray for a saint to help you pass peacefully. <br><p><opt>...<indent>向他们投降。<br><opt>5<br><p><opt-battle>...<indent>站立迎战。<br><opt>7<br><p><opt>...<indent>跑开躲藏。
+    士兵们置之不理，高呼“投降或死！”向前猛冲。你现在可以选择……<br><opt>1<br><p><opt>...<indent>向他们致意，再劝说他们放你通行。<br><p><opt-items>...<indent>试图以药剂吓退他们。<br><p><opt-saints>...<indent>祈求圣徒助你安然渡过。<br><p><opt>...<indent>向他们投降。<br><opt>5<br><p><opt-battle>...<indent>站立迎战。<br><opt>7<br><p><opt>...<indent>跑开躲藏。
 msg-meeta03-16 = 
     你试图逃脱，但士兵行动迅速，轻易便发现了你的藏身之处。很快，你被迫转身迎战。
 msg-meeta03-17 = 

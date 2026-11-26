@@ -32,5 +32,5 @@ msg-villa02-13 =
     这似乎意义非凡，你便记住了它。随后环顾四周，见不远处有一座小丘，顶上环绕着一圈石阵。显然，此处乃某种邪教祭祀之地。你徒步登临其上。
 msg-villa02-14 = 
     当你指责他的族人施行巫术与妖法时，他面色骤变，并命你离开村庄。他的愤怒显然出于正义，令你深感愧疚。你明白自己因这虚假的指控而犯下了罪过。<br><p>
-    You wonder how you ever could have thought that this village was satanic. Innocent babies cry, peasants laugh at their work, and life is everywhere. Everything seems normal, healthy, and happy. Your suspicions were clearly unfounded. <br><p>
+    你不禁疑惑，何以曾疑此村为邪祟之所？婴孩啼哭，农夫劳作欢笑，生机盎然。一切如常，健康而喜乐。你的疑虑显然无据。<br><p>
     你离去数小时，让舒尔茨一家的怒火稍息。或许你根本不该再回。

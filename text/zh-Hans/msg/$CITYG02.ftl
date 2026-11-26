@@ -1,14 +1,14 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-cityg02-0 = 
-    Scowling guards carefully inspect everyone entering $PlaceName. Casual visitors and wayfarers are turned away, while wagons bringing supplies are eagerly waved through. <br><p>
-    你决定去...<br><p><opt>...<indent>从容穿门而入，如主人般自在。<br><p><opt>...<indent>凭机智与风度，结交守卫。<br><p><opt>...<indent>支付农夫$Money1，使其容你匿于草垛之中。<br><p><opt-items>...<indent>use an alchemical distraction to allow you to slip inside. <br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt-battle>...<indent>draw weapons and attack the guards! <br><p><opt>...<indent>退后一步，重新权衡对策。<br>
+    面色阴沉的守卫仔细检查每一位进入$PlaceName的人。闲杂访客与过路行人皆被拒之门外，而运送物资的马车则被热情地放行。<br><p>
+    你决定去...<br><p><opt>...<indent>从容穿门而入，如主人般自在。<br><p><opt>...<indent>凭机智与风度，结交守卫。<br><p><opt>...<indent>支付农夫$Money1，使其容你匿于草垛之中。<br><p><opt-items>...<indent>利用炼金之障，悄然潜入。<br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt-battle>...<indent>拔剑袭击守卫！<br><p><opt>...<indent>退后一步，重新权衡对策。<br>
 msg-cityg02-1 = 
     The sergeant of the guard suddenly recognizes you and unexpectedly grins. "Guten tag, friends! I and my men welcome you to fair $PlaceName." he shouts, and eagerly beckons you into the city.{" "}
 msg-cityg02-2 = 
     你漫不经心地踱步至城门前，而守卫们正忙着查验一车吱吱作响的猪只。不幸的是，一名守卫在关键时刻抬头望来。弩箭齐射，刀剑出鞘。军曹低吼道：“站住！”你尴尬地停下脚步。“$PlaceName已陷于战乱，”他嘶声道，“我们无需再添无用之口。滚开！”
 msg-cityg02-3 = 
-    The guards scowl at you and painstakingly question you for what seems like forever. In the end, unable to find any reason to exclude you, they grudgingly let you inside. <br>
+    卫兵阴沉地质问汝等，反复盘查，久而未果，终勉强放行。<br>
 msg-cityg02-4 = 
     一位友善却吝啬的农夫同意以报酬将你偷运进$PlaceName……他把你藏在干草堆下，你便随车进城。守卫奉命允许物资入城，仅作粗略检查便挥手放行。进城后，你从干草中钻出，滚落到街道上。你已潜入城内！
 msg-cityg02-5 = 

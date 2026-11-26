@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-countx2-0 = 
-    $PlaceName的塔楼在月色下巍然矗立。窗间偶有微光透出。你权衡是否出击，以及如何出手....<br><opt-battle>...<indent>用 $Money1 贿赂一名守卫，让他放你进去。<br><opt>...<indent>让$ChosenOneName悄然攀上城墙，然后抛下绳索，让其余众人跟随。<br><opt>...<indent>让众人凭借自身天赋攀上城墙。<br><opt-saints>...<indent>Pray for saintly aid to surmount the walls. <br><opt-items>...<indent>使用炼金药水强行闯入。<br><opt>5<br><opt>6<br><opt>...<indent>离开，前往他处。<br>
+    $PlaceName的塔楼在月色下巍然矗立。窗间偶有微光透出。你权衡是否出击，以及如何出手....<br><opt-battle>...<indent>用 $Money1 贿赂一名守卫，让他放你进去。<br><opt>...<indent>让$ChosenOneName悄然攀上城墙，然后抛下绳索，让其余众人跟随。<br><opt>...<indent>让众人凭借自身天赋攀上城墙。<br><opt-saints>...<indent>祈求圣徒庇佑，以逾越城墙。<br><opt-items>...<indent>使用炼金药水强行闯入。<br><opt>5<br><opt>6<br><opt>...<indent>离开，前往他处。<br>
 msg-countx2-1 = 
     笑着，守卫收下了你的银币，这几乎相当于他半年的薪水。他迅速消失在农舍后的黑暗中，随后朝森林走去。你悄悄潜入屋内。
 msg-countx2-2 = 
@@ -15,7 +15,7 @@ msg-countx2-4 =
 msg-countx2-5 = 
     不幸的是，$ChosenOneName 走错一步，从岩壁上坠落至下方的坚硬地面。你小心翼翼地将 你 抬至附近的林间。此后，无人再敢尝试攀爬！
 msg-countx2-6 = 
-    In the shadow of the wall, $ChosenOneName utters a quiet prayer to Saint Reinold. <br><p>
+    在城墙阴影下，$ChosenOneName低声向圣莱诺德祈祷。<br><p>
     突然，攀爬城墙变得轻而易举。粗糙石壁宛如简易梯阶。你迅速越过外墙，沿塔楼侧壁而上。至一处高台，众人拔剑，踏入其中。
 msg-countx2-7 = 
     在城墙阴影下，$ChosenOneName低声向圣齐塔祈祷。<br><p>
@@ -43,10 +43,10 @@ msg-countx2-13 =
     “内贼！”他们喊着拔出武器。
 msg-countx2-14 = 
     突然，城堡主君手持利剑、十字架，迎面而来，喝道：“旅人啊，为何侵扰于我？汝与我无仇，我亦与汝无怨。以圣戈弗雷之名，收起兵刃！”<br><p>
-    You cannot resist his suggestion. You sheathe your blades and stand there, feeling sheepish. <br><p>
+    你无法违抗其劝。刀剑入鞘，伫立其间，羞愧难当。<br><p>
     “军曹，押送此迷途之魂至边境，”领主 command。如被魇术，汝顺从军曹。终悟：领主祈圣戈弗雷，竟成此奇效。
 msg-countx2-15 = 
-    The dread lord of the castle lies dead, his brutal men either killed or fled. As the sun rises, the grateful peasants hail you as their savior, and set fire to the castle as revenge upon those who persecuted them. <br><p>
+    城堡之主已死，其悍卒或亡或遁。旭日东升，感恩之农夫称尔为救星，并纵火焚堡，以报昔日迫害之仇。<br><p>
     你短暂沐浴于荣誉与正义之名下的盛誉之中。随后祝贫苦农夫好运，继续前行。
 msg-countx2-16 = 
     因你的袭击而怒不可遏，领主将你所有财物尽数剥夺。<br><p>

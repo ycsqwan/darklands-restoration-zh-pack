@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-minet14-0 = 
-    一道门挡住了去路。门上绘有四个呈方形排列的面具，旁边写着一个问题，如下：<br><p>    KROTT --- DWARF<br>          l                         l<br>    KOBOLD -- DWARF<br><p>
+    一道门挡住了去路。门上绘有四个呈方形排列的面具，旁边写着一个问题，如下：<br><p>    克罗特——矮人<br>          l                         l<br>    地精——矮人<br><p>
     克罗特的面具说道：“欲通行，须答我乃矮人、地精，抑或无名之物。”<br>
     面具狞笑着道：“若位于地精面具右侧之面具恰与我左侧面具下方之面具相同，则我即我下方面具右侧之面具。否则，我乃矮人。”<br><p>
     你回答说，克罗特是一个……<br><opt>...<indent>矮人。<br><opt>...<indent>地精。<br><opt>...<indent>精灵。<br><opt>...<indent>默然离去。

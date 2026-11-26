@@ -25,7 +25,7 @@ msg-mcguf10-5 =
 msg-mcguf10-6 = 
     敌首怒令将$ChosenOneName缚住，又剥去你所有兵甲与珍宝。<br><p>
     “吾等以此酬劳。”她冷笑道，“并留汝些许纪念！”其手下随即痛殴不止。<br><p>
-    终醒——遍体瘀伤，血流不止，犹存一线生机。汝缚创口，决意……<br><opt>0<br><opt>1<br><opt>2<br><p><opt>...<indent>avoid further encounters with these foes, knowing that this choice consigns $ChosenOneName to $his fate. <br><p><opt>...<indent>双倍返回，设法追踪绑匪，尽管你身负伤痛，损失惨重。<br>
+    终醒——遍体瘀伤，血流不止，犹存一线生机。汝缚创口，决意……<br><opt>0<br><opt>1<br><opt>2<br><p><opt>...<indent>避免与此敌再起冲突，明知此选择将$ChosenOneName置于你的命运之中。<br><p><opt>...<indent>双倍返回，设法追踪绑匪，尽管你身负伤痛，损失惨重。<br>
 msg-mcguf10-7 = 
     你稍后恢复意识。绑匪已劫走 $ChosenOneName，将余下之人弃之不顾。显然 你 极为贵重，他们竟未搜刮你的财物，仅掠去钱袋中的钱财！
 msg-mcguf10-8 = 

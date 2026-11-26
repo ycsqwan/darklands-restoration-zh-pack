@@ -16,5 +16,5 @@ msg-revol16-3 =
     叛军人群，包括汝等与$NamedOneName，隔$citySquare围攻$councilHall。一日紧张对峙。忽有信使自城门传来消息。<br><p>
     “诸君！乡间骑士来替防，救$CityLordName。奈何？”$NamedOneName望汝，汝遂……<br><p><p><opt>...<indent>自愿尝试闯入其中。<br><p><opt>...<indent>劝众人弃此义举，归家去。<br><opt>2<br><opt>3<br><opt>4
 msg-revol16-4 = 
-    The rebel crowd besieges the $councilHall from across the $citySquare. $NamedOneName leads one storming attempt with his mercenaries, but heavy crossbow fire wounds him and kills many of his men. <br><p>
+    叛军人群隔$citySquare围攻$councilHall。$NamedOneName率其雇佣兵发起一次强攻，却遭重型弩箭重创，部下亦多有伤亡。<br><p>
     一日过去。随后，一名信使自城门处传来消息：“诸位大人！乡间一支骑士队伍前来解围，并营救$CityLordName。吾等当如何应对？”你……<br><p><p><opt>...<indent>决定再做一次尝试，进入其中。<br><p><opt>...<indent>劝众人弃围，即刻归家。<br><opt>2<br><opt>3<br><opt>4

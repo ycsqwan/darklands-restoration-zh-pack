@@ -3,7 +3,7 @@
 msg-situa00-0 = 
     你决定花些时间去探寻……<br><p><opt>...<indent>更多关于各政治派系的支持者信息。<br><p><opt>...<indent>各派系的相对权势与重要性。<br><p><opt>...<indent>最新关于丑闻与恶行的传闻。<br><opt>...<indent>3<br><opt>...<indent>4<br><opt>...<indent>5<br><opt>...<indent>6<br><opt>...<indent>7<br><opt>...<indent>8<br><p><opt>...<indent>别无他事，你将目光移向别处。<br>
 msg-situa00-1 = 
-    You discover that $PlaceName is full of discontent. Some people critize the city council and talk about forcing free elections. Others support the council, saying the critics are hostile infiltrators trying to take control of the city. <br><p><p>
+    你察觉$PlaceName民心不满。有人抨击市政议会，欲强行推行自由选举；亦有人力挺议会，斥责反对者为敌对渗透者，意夺城权。<br><p><p>
     审视城中民情后，你估测此番起义成功几率为$Text1 $Number1 $Text2。
 msg-situa00-2 = 
     你发现$PlaceName内满是不满。许多人指责$CityLordName，即$CityLordTitle的决策。他们谈论着进军$Fortress，建立新政府。另一些人则高声支持$CityLordName，声称所有叛乱者都是外国特务的傀儡，意图扶植暴君。<br><p><p>
@@ -27,10 +27,10 @@ msg-situa00-6 =
     各公会皆具相当影响力，任意两公会联合之力，往往胜过任何其他单一群体。<br><p><p>
     外国商人地位不及商会，亦逊于各类银行与贸易机构，如汉萨同盟、富格尔银行与美第奇银行。
 msg-situa00-7 = 
-    There are rumors about $VarString2. Some people whisper that there is an uncontrolled love affair with some paramour, who has a dread disease. Any proof of this would, of course, case instant ruin. <br><p><p>
+    关于$VarString2，传言四起。有人窃语，他与某情妇私通，而彼女身染恶疾。若有确证，自当招致灭顶之灾。<br><p><p>
     你沉思此事，意识到威胁揭露此秘可能大有用途。
 msg-situa00-8 = 
-    There are rumors about $VarString2. Some people whisper that this leader sells guild products which are anything but guild work. Unsuspecting customers may have ended up with shoddy, cheap, second-rate items. <br><p><p>
+    关于$VarString2，传言四起。有人窃语，此领袖兜售的公会产品并非公会之作。无知顾客或已购得粗劣廉价之品。<br><p><p>
     果然，证据反会害了此人。思及于此，你觉威胁揭密或许大有用处！
 msg-situa00-9 = 
     有关于$VarString2的传言。有人窃窃私语，说此人的前任并非死于意外，而是遭人毒害。若能揭露其谋杀上位的铁证，自会引发轩然大波，领袖必将垮台。<br>
@@ -49,6 +49,6 @@ msg-situa00-13 =
     各公会皆颇具影响力，任意两公会联合之力，胜过任何其他单一群体。<br><p><p>
     较为次要的是诸般金融与商贸势力，如汉萨同盟、富格尔银行及美第奇银行。
 msg-situa00-14 = 
-    此危急关头，$NamedOneName，城卫队长，实为$PlaceName无可争议之领袖。<br><p><p> Lesser but important voices include $NamedTwoName, spokesman of the burghers, and the $CityLordTitle, $CityLordName. The various local merchants of $PlaceName also have a voice.<br><p><p>
+    此危急关头，$NamedOneName，城卫队长，实为$PlaceName无可争议之领袖。<br><p><p> 较小但重要的声音包括$NamedTwoName，市民的代言人，以及$CityLordTitle，$CityLordName。$PlaceName的各路本地商人亦有发言权。<br><p><p>
     各公会皆具相当影响力。三公会联合之力，远胜队长；两公会亦胜过他人。<br><p><p>
     较为次要的是诸般金融与商贸势力，如汉萨同盟、富格尔银行及美第奇银行。

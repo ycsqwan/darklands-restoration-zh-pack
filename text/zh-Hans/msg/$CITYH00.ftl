@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-cityh00-0 = 
-    Now you arrive at the city hospice, in the daytime. Here nuns, physicians, and lay healers tend the sick and afflicted. <br><p>
+    如今你于白日抵达城中施疗所。此处修女、医师与俗世医者照料病患与受苦之人。<br><p>
     你...<br><p><p><opt>...<indent>捐$Money1以襄助济贫院善举。<br><p><opt>...<indent>自愿协助济贫院工役。<br><p><opt>...<indent>支付$Money2，疗愈伤痛。<br><p><opt>...<indent>争取免费疗伤。<br><p><opt>...<indent>离开济贫院，往他处去。<br>
 msg-cityh00-1 = 
     负责的女修道院长对你慷慨的贡献致以诚挚的谢意，说道：“你的善举必将得到回报。天主与圣徒皆能洞察一切。”

@@ -4,7 +4,7 @@ msg-party00-0 =
     围坐桌旁，你思忖着退隐与招募之事。退隐者必欲分得一份财富，然若你重返此地，或可再邀其归队。离去的追随者恐再难寻觅。你...<br><p><opt>...<indent>寻一人加入队伍。<br><p><opt>...<indent>让$ChosenOneName退隐。<br><opt>...<indent>让$ChosenTwoName退隐。<br><opt>...<indent>让$ChosenThreeName退隐。<br><opt>...<indent>让$ChosenFourName退隐。<br><p><opt>...<indent>请$ChosenTwoName离开。<br><opt>...<indent>请$ChosenThreeName离开。<br><opt>...<indent>请$ChosenFourName离开。<br><opt>...<indent>请$ChosenFiveName离开。<br><p><opt>...<indent>完成此任务。
 msg-party00-1 = 
     对于你在关乎你要事上的拖延，$ChosenOneName怒不可遏，并警告说你加入你的队伍是有特定目的的。<br>
-    "If you can't do more to promote our mutual aims," $he says, "I will consider myself released from our arrangement and go elsewhere." <br>
+    “若汝不能更促吾等共业，”你 言，“吾将视为解除约定，另觅他途。”<br>
 msg-party00-2 = 
     因你在要务上耽搁过久，$ChosenOneName 警告你务必改进，否则 你 将不久离去。<br><p>
     “吾随汝同行，”你言，“因吾等皆怀共同之忧。迄今，汝之举未如吾所期。行动胜于言语。吾盼汝速行——速速行之！”<br>

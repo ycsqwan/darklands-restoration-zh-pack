@@ -3,7 +3,7 @@
 msg-execu01-0 = 
     寂静之中，赤膊黑袍刽子手稳立市集木台之上，手执沉重斩首刀。围观者云集，静候行刑。<br><p>
     你列队于其前，被卫兵紧紧挟持。刽子手以庄重之声正式询问执刑官：“今当斩何人？”<br><p>
-    你 ...<br><p><p><opt>...<indent>bravely refuse to struggle. <br><p><opt>...<indent>极力挣断束缚你的绳索。<br><p><opt-saints>...<indent>祈求解脱。
+    你 ...<br><p><p><opt>...<indent>勇敢拒绝挣扎。<br><p><opt>...<indent>极力挣断束缚你的绳索。<br><p><opt-saints>...<indent>祈求解脱。
 msg-execu01-1 = 
     庄严地，$ChosenOneName 被押赴刑场。你 宣誓复仇，并在最后的抗争中朝刽子手啐了一口。数秒后，你 已死。
 msg-execu01-2 = 
@@ -18,7 +18,7 @@ msg-execu01-6 =
     肌肉在重压下隆起，$ChosenOneName拼尽全力挣脱束缚。而你成功了！就在你被押赴刑场之际，$ChosenOneName击退了惊愕的你的名守卫，抄起一把小刀。转瞬之间，你已重获自由。然而守卫们已从震惊中回过神来，随即发动攻势。
 msg-execu01-7 = 
     正当$ChosenOneName被押赴你的刑场之际，城主的华服秘书气喘吁吁奔入广场。“停止执行！”他高呼，挥舞着印有封印与丝带的羊皮纸。<br><p>
-    He stands forth and begins reading the document. You sit back, shaking with relief. The gist of the message is that the city ruler has pardoned you unconditionally. You are free to go. The guards shrug, and untie you. <br>
+    他站起身，开始宣读文书。你靠坐一旁，如释重负。文书要点在于，城主已无条件赦免你。你可自由离去。卫兵耸肩解绳。<br>
 msg-execu01-8 = 
     当$ChosenOneName正将你的颈项置于铡刀之下时，一名衣着考究的教士匆匆上前。“尊贵的修道院院长裁定：此等人不受世俗法律管辖，归圣教会统辖。命即刻交予其照管。”执事虽心怀不满，却不敢违抗院长之令，你得以获释。<br><p>
     你被带至城中教堂，方得释放。“汝等宗教信仰如此深厚之人，不应受此严惩。”教士如是评。汝感激不尽。

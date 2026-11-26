@@ -16,7 +16,7 @@ msg-drago14-4 =
 msg-drago14-5 = 
     你的祷告虽急切，却未得回应，巨龙喷出一道火舌，将你们尽数吞没。你们焦黑倒地，滚落坡底。惊魂未定，你审视自身处境。
 msg-drago14-6 = 
-    Luckily, you are all agile enough to make it to the bottom of the slope before $NamedTwoName can breath forth its gouts of flame. You are all singed, but avoid the vast injuries you might have suffered. Above you, some half-melted rocks drip down the cliff's face. <br>
+    幸运的是，你们皆身手敏捷，在$NamedTwoName喷出火焰之前已抵达坡底。虽被灼伤，却免于本可能遭受的重伤。头顶之上，半融化的岩块正沿着崖壁滴落。<br>
 msg-drago14-7 = 
     龙怒吼着，$NamedTwoName喷出阵阵火焰，将你们尽数吞没。衣衫燃尽，你们翻滚着坠至坡底。一时昏厥，所幸坠落扑灭了火焰。
 msg-drago14-8 = 

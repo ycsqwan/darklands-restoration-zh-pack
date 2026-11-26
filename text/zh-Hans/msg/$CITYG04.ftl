@@ -1,21 +1,21 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-cityg04-0 = 
-    Scowling guards carefully inspect everyone entering $PlaceName. Casual visitors and wayfarers are turned away, while wagons bringing supplies are eagerly waved through. <br><p>
-    你决定去...<br><p><p><opt>...<indent>堂而皇之地穿过大门，仿佛你本属此地。<br><p><opt>...<indent>凭机智与风度，结交守卫。<br><p><opt>...<indent>支付农夫$Money1，使其容你匿于草垛之中。<br><p><opt-items>...<indent>use an alchemical distraction to allow you to slip inside. <br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt-battle>...<indent>draw weapons and attack the guards! <br><p><opt>...<indent>退后一步，重新权衡对策。<br>
+    面色阴沉的守卫仔细检查每一位进入$PlaceName的人。闲杂访客与过路行人皆被拒之门外，而运送物资的马车则被热情地放行。<br><p>
+    你决定去...<br><p><p><opt>...<indent>堂而皇之地穿过大门，仿佛你本属此地。<br><p><opt>...<indent>凭机智与风度，结交守卫。<br><p><opt>...<indent>支付农夫$Money1，使其容你匿于草垛之中。<br><p><opt-items>...<indent>利用炼金之障，悄然潜入。<br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt-battle>...<indent>拔剑袭击守卫！<br><p><opt>...<indent>退后一步，重新权衡对策。<br>
 msg-cityg04-1 = 
     The sergeant of the guard suddenly recognizes you and unexpectedly grins. "Guten tag, friends! My men and I welcome you to fair $PlaceName." You are ushered into the city.{" "}
 msg-cityg04-2 = 
     你漫不经心地踱步至城门，而守卫们正忙着查验一车吱吱作响的猪只。不幸的是，一名守卫在不合时宜之际抬头望来。霎时间，他的同伴们警觉起来，弩箭上弦，刀剑出鞘。<br><p>
     军士低吼道：“站住！”你羞愧地停下脚步。“$PlaceName正处战时，”他嘶声道，“我们无需养活无用之口。滚开！”
 msg-cityg04-3 = 
-    The guards scowl and painstakingly question you for what seems like forever. In the end, unable to find a reason to exclude you, they grudgingly let you inside. <br>
+    卫兵阴沉地质问汝等，反复盘查，久而未果，终勉强放行。<br>
 msg-cityg04-4 = 
     A friendly but parsimonious farmer agrees to smuggle you into $PlaceName ... for a fee. He conceals you under his load of hay, and you ride into town. The guards wave the farmer through with only a cursory inspection. Once into the city, you wriggle out of the hay and roll off the wagon into the street.{" "}
 msg-cityg04-5 = 
     Initially hostile, the guards soon warm to your friendly approach. The sergeant confides, "We've all been edgy the last few days. Everyone's been on constant alert." As he lets you through the gate, you ask about the toll. "No toll is being exacted now, since only essential traffic is supposed to be given passage." He winks at you, "I think we can agree that you are 'essential' enough to be allowed inside."{" "}{" "}
 msg-cityg04-6 = 
-    An unbearable stench billows forth. The guards choke and sprawl onto the ground. Holding your breath, you rush past the incapacitated guards. <br><p>
+    一股难忍的恶臭扑面而来。守卫们呛得倒在地上。你屏住呼吸，冲过那些失去行动力的守卫。<br><p>
     就在他倒下之前，军曹喘息着说道：“魔法师……间谍……快鸣警！”但为时已晚。你们已然入城。
 msg-cityg04-7 = 
     瓶子裂开，你的药瓶如闪电般闪耀，而你们则掩面躲避。<br><p>
@@ -23,7 +23,7 @@ msg-cityg04-7 =
 msg-cityg04-8 = 
     刺鼻的浓烟滚滚穿过城门。马匹嘶鸣，牛群惊慌地低吼，人们互相呼喊，徒劳地摸索着。你轻松地越过那些瘫痪的守卫。身后传来一声呼喊：“备战！恶魔！”
 msg-cityg04-9 = 
-    Guards curse, wagons smash together, and dogs howl when your potion explodes. Pushing with all your might, you try to shove a path through the crowd, but are not quite agile enough to make it before the potion wears off and the guards are once again alert. <br><p>
+    守卫咒骂，马车相撞，犬吠声四起，当你的药剂爆炸时。你用尽全力试图在人群中挤出一条路，却不够敏捷，在药剂效力消退、守卫重新警觉之前未能成功。<br><p>
     门卫咆哮：“小子们，盯紧点！那干坏事的可能还会再来。”
 msg-cityg04-10 = 
     简短吟唱，$ChosenOneName 引发 $NamedOneName 的伟力。一道光晕将你们笼罩，随即你们被托起，越过城门。远处隐约传来如天使合唱般的歌声。当你们降落在城内时，无人敢加害于你。
@@ -43,5 +43,5 @@ msg-cityg04-16 =
 msg-cityg04-17 = 
     你凑近卫兵，试图与其攀谈。无奈对方毫不理会。他们怒目而视，紧握武器，喝令你离开。“滚开，贱民！”一名卫兵低吼道，“我们还有正事要做。”
 msg-cityg04-18 = 
-    Even at night, the wagons roll in and out of $PlaceName and guards maintain  vigil. It is clear that the city burghers are frantically preparing for the upcoming war. <br><p>
-    你决定去...<br><p><opt>...<indent>堂而皇之地穿过大门，仿佛你本属此地。<br><p><opt>...<indent>凭机智与风度，结交守卫。<br><p><opt>...<indent>支付农夫$Money1，使其容你匿于草垛之中。<br><p><opt-items>...<indent>use an alchemical distraction to allow you to slip inside. <br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt-battle>...<indent>draw weapons and attack the guards! <br><p><opt>...<indent>退后一步，重新权衡对策。<br>
+    即使在夜间，马车仍进出$PlaceName，守卫亦严加戒备。显然，城中市民正为即将到来的战争紧锣密鼓地筹备。<br><p>
+    你决定去...<br><p><opt>...<indent>堂而皇之地穿过大门，仿佛你本属此地。<br><p><opt>...<indent>凭机智与风度，结交守卫。<br><p><opt>...<indent>支付农夫$Money1，使其容你匿于草垛之中。<br><p><opt-items>...<indent>利用炼金之障，悄然潜入。<br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt-battle>...<indent>拔剑袭击守卫！<br><p><opt>...<indent>退后一步，重新权衡对策。<br>

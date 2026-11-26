@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-mcguf05-0 = 
-    你刚欲向矮人靠近，他便跃起，尖声嘶叫：<br><p>          "Traitors faithless,<br>           get reward, this!"<br><p>
+    你刚欲向矮人靠近，他便跃起，尖声嘶叫：<br><p>          “叛徒无信，<br>           领取奖励，此！”<br><p>
     矮人顿足，戴上一顶红帽，随即消失。顷刻间，绿色雾气自屋顶、墙壁与地面滚滚涌出。你双眼与喉部灼痛——这是毒气！你迅速……<br><p><p><opt>...<indent>攀崖而下。<br><p><opt>...<indent>沿峭壁侧身攀爬，朝那个方向逃脱。<br><p><opt>...<indent>无视迷雾，寻找此室的另一出口。<br><opt>3<br><p><opt-saints>...<indent>向圣徒祈求救赎。
 msg-mcguf05-1 = 
     你惊慌失措地向下攀爬，然而那绿色雾气如瀑布般倾泻而下，将整个洞室吞没，四面八方皆是。你窒息难耐，逐一倒下，坠入下方的林木与乱石之间。<br><p>

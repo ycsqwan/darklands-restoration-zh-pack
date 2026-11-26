@@ -14,4 +14,4 @@ msg-docks01-4 =
     经过漫长一夜的划桨，唯有朽木为伴，$ChosenOneName终于将你自己拖至一片宁静的岸边。<br><p>
     虽然冷得发抖，你 仍欣喜能置身于 $PlaceName 的城墙之外。
 msg-docks01-5 = 
-    Quietly, $ChosenTwoName follows $ChosenOneName through the dark water, and finally up onto dry land again. In the cool air, they silently exchange looks of satisfaction, then glance back at $PlaceName. Then they begin checking their possessions, to see what was lost to the river! <br>
+    静静地，$ChosenTwoName 跟随 $ChosenOneName 穿过幽暗的水面，终于再次踏上陆地。在清凉的空气中，他们默默交换着满意的目光，又回首望向 $PlaceName。随后，他们开始清点随身之物，查看哪些已为河流所夺！<br>

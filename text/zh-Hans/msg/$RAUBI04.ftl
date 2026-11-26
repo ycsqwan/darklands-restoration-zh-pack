@@ -3,10 +3,10 @@
 msg-raubi04-0 = 
     悄悄穿过$NamedOneName堡垒的黑暗走廊，前方传来人声。你决定……<br><p><p><opt>...<indent>找到劫匪骑士，劝其投降。<br><p><opt>...<indent>纵火焚烧城堡，随后自低窗潜出。<br><p><opt-battle>...<indent>抽出武器，闯过城堡。<br><p><opt>...<indent>悄然自低窗攀出，逃出生天。
 msg-raubi04-1 = 
-    Working quickly, $ChosenOneName lays tinder against a wooden interior wall. Using flint and steel, $he starts a fire. Then you let yourselves out of a window with all haste. <br><p>
+    工作迅速，$ChosenOneName于木墙内侧铺上引火物。以燧石与钢片点火，你燃起火焰。尔后，你们急匆匆自窗而出。<br><p>
     当你在外窥视，城堡一窗骤燃灯火。火势愈炽，终致整座城堡烈焰滔天！沙哑惨呼迭起，忽见城门大开，$NamedOneName亲率数人咳嗽踉跄而出。见汝，怒喝：“汝毁吾家业，然地狱先迎汝！”即刻扑杀。
 msg-raubi04-2 = 
-    Painstakingly setting tinder against a wooden interior wall, $ChosenOneName starts it burning with $his flint and steel. Then you let yourselves out of a window with all haste. <br><p>
+    费力地将引火物贴在木制内墙上，$ChosenOneName用你的燧石与钢片将其点燃。随后你们急忙从窗户逃出。<br><p>
     当你观望，城堡一窗火光乍现。室内人声鼎沸，似在奋力灭火。或可再添几把火，助其延烧，抑或趁乱再度入塔。
 msg-raubi04-3 = 
     你 尽快行动，$ChosenOneName 在木制内墙上点燃一小堆火。随后你从窗户逃出。你等待再等待，但堡垒内并无异状。要么有人发现了你的火，要么火在点燃墙壁之前就熄灭了。
@@ -15,7 +15,7 @@ msg-raubi04-4 =
     “剖腹之，儿郎们！”为首者狞笑，众人遂扑上。<br>
 msg-raubi04-5 = 
     悄然潜入塔楼，你寻得$NamedOneName的居室，推门而入。那名强盗骑士与其副手惊愕抬头。$ChosenOneName上前一步，刀锋抵住老贼咽喉。<br><p>
-    "We have come for you." says $ChosenOneName. The robber knight blusters briefly, then tries wheedling, "I have much silver. Take it all, just give me an hour's head start." <br><p>
+    “我们特来取汝性命。”$ChosenOneName道。盗骑士强作镇定，旋即转而乞怜：“我有大量白银，尽可相赠，只求宽限一小时。”<br><p>
     中尉对其主人怒吼道：“什么？你要弃我们而去，只为保全你那卑贱的性命？去死吧，畜生！”中尉跃向$NamedOneName，将主人刺穿，随即闪身逃入侧门，高声示警。
 msg-raubi04-6 = 
     悄然潜入塔楼，你找到了$NamedOneName的房间并走了进去。那名强盗骑士猛然跃起，随即后退，拔出了武器。<br>

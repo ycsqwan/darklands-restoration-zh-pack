@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-minet16-0 = 
-    The path is blocked by a heavy door. Carved over it is the legend: <br><p>
+    小径为一道厚重之门所阻。门楣镌刻着如下铭文：<br><p>
     哦，他见天上四星齐唱哈利路亚。<br><p>
     要通行，按下那不合之物<br><p>
     字母刻在凸起的钮头上。该按哪个字母？按下错误之键，恐触发机关！你沉思片刻，然后按下……<br><p><opt>...<indent>O<br><opt>...<indent>他<br><opt>...<indent>看见<br><opt>...<indent>四<br><opt>...<indent>星辰<br><opt>...<indent>在<br><opt>...<indent>天堂<br><opt>...<indent>歌唱<br><opt>...<indent>阿勒路亚<br><opt>...<indent>无言——转身离去。<br>

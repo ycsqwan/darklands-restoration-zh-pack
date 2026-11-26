@@ -2,7 +2,7 @@
 
 msg-drago12-0 = 
     当你注视，村民显然欲任少女被龙吞噬！<br><p>
-    你决定去 ...<br><p><p><opt>...以雄辩劝说村民放弃其卑劣计划。<br><p><opt>...<indent>拔剑强攻，救出少女。<br><p><opt>...<indent>让你们之中最擅潜行的$ChosenOneName潜至少女身旁，将其救出。<br><p><opt>...<indent>have $ChosenTwoName, the fastest among you, race past the villagers and try to cut the girl loose, trusting to agility and brashness. <br><p><opt-items>...<indent>以药剂分心村民，救出少女。<br><p><opt>...<indent>不予干涉。
+    你决定去 ...<br><p><p><opt>...以雄辩劝说村民放弃其卑劣计划。<br><p><opt>...<indent>拔剑强攻，救出少女。<br><p><opt>...<indent>让你们之中最擅潜行的$ChosenOneName潜至少女身旁，将其救出。<br><p><opt>...<indent>让你们之中最快的$ChosenTwoName疾驰掠过村民，凭敏捷与胆勇设法解救少女。<br><p><opt-items>...<indent>以药剂分心村民，救出少女。<br><p><opt>...<indent>不予干涉。
 msg-drago12-1 = 
     $ChosenOneName 善辩雄辞，唤村民忆龙来之前之岁月，并念及亲眷。<br><p>
     农民们羞愧难当。有人哭道：“你说得对！宁舍家园田亩，莫为恶龙帮凶！”亦有人执迷不悟，谓：“不可！宁杀彼女，勿失一切。”<br><p>

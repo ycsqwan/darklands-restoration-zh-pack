@@ -5,7 +5,7 @@ msg-hanse00-0 =
 msg-hanse00-1 = 
     在汉萨同盟富丽堂皇的木饰办公室里，一位傲慢的低级职员刻意无视你逾一小时。但最终你……<br><p><p><opt>...<indent>微笑询问汉萨商会所需之特殊服务。<br><p><opt>...<indent>大胆宣称自己的声名与为汉萨同盟建功立业之能。<br><p><opt>...<indent>礼貌请求与联盟首领会面，商讨你的奖赏。<br><p><opt>...<indent>要求立即见主人，商议酬劳！<br><p><opt>...<indent>请求拜见联盟之主，商议政事。<br><opt>5<br><opt>6<br><p><opt>...<indent>与职员闲聊。<br><p><opt>...<indent>从侧门离去。<br><p><opt>...<indent>从正门离去。<br>
 msg-hanse00-2 = 
-    You step through the doorway into the sumptuous paneled anteroom of the Hanseatic League, the most powerful mercantile combine in Northern Europe. <br><p>
+    你穿过大门，步入汉萨同盟那富丽堂皇、镶板环绕的前厅——北欧最强大的商团。<br><p>
     你留意到一队全副武装的城防军正在执勤。“糟糕，”你暗自嘀咕，恰有一人朝你转过身来……<br>
 msg-hanse00-3 = 
     汉萨同盟大厅华美的镶板映入眼帘，却被一群卫兵挡住了去路，他们立刻将你擒住。<br><p>

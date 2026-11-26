@@ -1,14 +1,14 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-raubi02-0 = 
-    You see a grim cairn and realize you are now in the territory of the robber knight (raubritter) $NamedOneName. Within his domain, your lives aren't worth a wooden pfennig! <br><p>
-    You stop and consider various options. <br><p>
+    你望见一座阴森的石冢，这才意识到自己已踏入劫匪骑士$NamedOneName的领地。在其治下，你等性命不过值一枚木制芬尼！<br><p>
+    你停下脚步，思索对策。<br><p>
     首先，你可以大胆直奔$NamedOneName的城堡。<br><p>
     其次，你可在路边设伏，袭击那名劫匪骑士的部下。<br><p>
-    Alternately, you could pretend to be ordinary wayfarers and wander through the area, hoping to draw the attention of the raubritter's men. <br><p>
+    或者，你也可以假装成普通的旅人，漫步于这片区域，希望能引起劫匪手下们的注意。<br><p>
     终于，你可以无视raubritter，径直前行。<br>
 msg-raubi02-1 = 
-    As you sit by the roadside, you hear voices approaching. Using $his wood lore, $ChosenOneName quickly orders you into the best concealment the terrain offers. <br><p>
+    当你坐在路旁，听见有脚步声逼近。凭借你的木之术，$ChosenOneName迅速命你藏入地形所允的最佳隐蔽处。<br><p>
     片刻之后，持械之人映入眼帘。他们显然效命于$NamedOneName，那位劫匪骑士。他们尚未发现你。你选择……<br><p><p><opt>...<indent>从伏击中袭击他们。<br><p><opt>...<indent>宣告你的到来，并勒令他们投降。<br><p><opt>...<indent>步出并与他们友好致意。<br><p><opt>...<indent>让她们走过，不加阻拦。<br><opt>
 msg-raubi02-2 = 
     当你路旁歇息，忽有持械之人自弯角现身。双方拔枪相向，汝方知乃为$NamedOneName效力的劫骑士匪党。<br><p>
@@ -27,8 +27,8 @@ msg-raubi02-6 =
 msg-raubi02-7 = 
     当你遁入林间，劫骑士的手下并未追击。他们亦已厌战。
 msg-raubi02-8 = 
-    Despite your manifest courage, you are their prisoners. The raubritter's men gloat as they strip you of nearly every possession. <br><p>
-    The smallest one says, "Now we shall slit all their throats." <br><p>
+    尽管你勇气卓著，却仍沦为他们的阶下囚。劫匪骑士的部下得意洋洋，剥去了你几乎所有的财物。<br><p>
+    最小的一个说：“如今我们要割断他们所有的喉咙。”<br><p>
     然而首领喝道：“不可！留其性命。待其再积财货，吾等自会从容取之。此乃 $NamedOneName 处理畜群之道。”<br><p><p>
     你被遗弃于荒野之中。
 msg-raubi02-9 = 

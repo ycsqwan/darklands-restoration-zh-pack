@@ -10,7 +10,7 @@ msg-sanct00-2 =
 msg-sanct00-3 = 
     严厉的话语出自$NamedOneName，卫队长。“畜生！休想从我们这里得到怜悯。”
 msg-sanct00-4 = 
-    You have sought sanctuary within the sacred precincts. Watchful guards pace outside. <br><p>
+    你已遁入圣地庇护。警戒的守卫在外巡弋。<br><p>
     暂时安全，你...<br><p><p><opt>...<indent>休憩至夜深，再作打算。<br><p><opt>...<indent>休憩至天明，再作打算。<br><p><opt>...<indent>向官府自首。<br><p><opt>...<indent>寻访城卫队长。<br><p><opt>...<indent>试图悄然潜出。
 msg-sanct00-5 = 
     牧师把$ChosenName唤至一旁，低声说道：“我们既无长久留客之资，亦不愿冒犯城中诸公。尔已定下何时离此乎？”

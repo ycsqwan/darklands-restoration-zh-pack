@@ -4,7 +4,7 @@ msg-drago13-0 =
     山坡上一道灼痕累累的大洞，硫磺烟气滚滚而出。你攀入其中，只见巨龙囤积的金银珠宝堆积如山。宝藏中央矗立一座鎏金大十字——由$NamedThreeName安设，以汲取魔窟之秘力。忽而，$NamedThreeName本人现身。“邪恶之徒，速退！吾将粉碎汝等！”他厉声喝道。<br><p>
     惊愕之余，你...<br><p><p><opt>...<indent>拔出武器，发动攻击。<br><p><opt>...<indent>道歉后离去。<br><p><opt>...<indent>自愿成为癫狂祭司的侍从，以换取他移走龙穴之十字架。
 msg-drago13-1 = 
-    Glaring at you, the priest shrieks, "You dare?! See the powers I have at my disposal! You shall tremble before the strength of heaven." <br><p>
+    怒目而视，那祭司尖声道：“你竟敢？！看我手中有何等法力！尔等当惧天威！”<br><p>
     他挥袖一指，地底喷出阵阵恶臭之气，渐渐凝聚成形。这便是他所夸耀的“天威”吗？看来他是在召魔作祟！
 msg-drago13-2 = 
     老人猝然泪涌：“莫非？历经多年，今日方得认可？终于。阁下可是教皇遣使？”<br>

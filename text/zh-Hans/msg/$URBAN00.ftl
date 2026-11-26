@@ -8,7 +8,7 @@ msg-urban00-2 =
     收好行装，饱餐一顿，随后享受八小时的应得睡眠。
 msg-urban00-3 = 
     店主战栗，恭敬行礼。<br><p>
-    "Sirs, most regrettably, I fear that we have no room." <br><p>
+    “诸君，遗憾至极，恐无容身之地。”<br><p>
     显然，你的恶名使你成为不受欢迎的客人。你决定……<br><p><opt>...<indent>坐而交谈，大胆逼其召来卫兵。<br><p><opt>...<indent>进食并休息八小时。<br><opt>...<indent>租室一日。<br><p><opt>...<indent>参观马厩，此处买卖马匹与骡子。<br><p><opt>...<indent>将物品寄存于旅店主。<br><opt>...<indent>取回存于此处的物品。<br><p><opt>...<indent>重新考量队伍构成。<br><p><opt>...<indent>从前门出，至主街。<br><opt>...<indent>悄悄溜出后门，至侧街。<br><br>
 msg-urban00-4 = 
     你靠在椅背上，饮尽杯中麦酒，细细思量这则消息。忽地，$Inn的门被猛地撞开。一队城卫兵跃入大厅！

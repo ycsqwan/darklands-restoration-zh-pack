@@ -2,7 +2,7 @@
 
 msg-cathe01-0 = 
     石像鬼在你接近时俯视着。你踏入中殿，脚步声回荡，唯有许愿蜡烛投下微光。殿内几乎与漆黑的夜色无异。<br><p>
-    你随后……<br><p><p><opt>...<indent>参加弥撒。<br><p><opt>...<indent>与牧师交谈。<br><p><opt>...<indent>donate one of your relics. <br><p><opt>...<indent>寻求庇护。<br><p><opt>...<indent>leave the cathedral and go elsewhere. <br><p><opt>...<indent>既已完成功绩，可受一遗物为赏。
+    你随后……<br><p><p><opt>...<indent>参加弥撒。<br><p><opt>...<indent>与牧师交谈。<br><p><opt>...<indent>捐献一件遗物。<br><p><opt>...<indent>寻求庇护。<br><p><opt>...<indent>离开大教堂，往他处去。<br><p><opt>...<indent>既已完成功绩，可受一遗物为赏。
 msg-cathe01-1 = 
     一位神父匆匆向你走来。“抱歉，”他歉然道，“但下一场弥撒要到$NamedOneName时才会举行。请届时再来。”
 msg-cathe01-2 = 

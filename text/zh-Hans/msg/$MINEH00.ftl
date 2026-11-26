@@ -1,42 +1,42 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-mineh00-0 = 
-    A dwarf drops from the ceiling above and says, <br><p>         Weepings and wailings, oh<br>          Human please pity us!<br>          We did not plan to take<br>          Over this mine.<br>          Monsters beneath us did<br>          Rise to devour. For<br>          Safety we looked, but could<br>          Never this find.<br><p>         So I admit that we<br>          Forced out the miners. We<br>          Fought them with vigor, brought<br>          War to the brink.<br>          But, you see, we were com-<br>          pelled in so acting. The<br>          Menace below gave us<br>          No time to think.
+    一名矮人从头顶的天花板上坠落，说道：<br><p>         泣诉与哀号，唉<br>          人啊，可怜吾等吧！<br>          我们本无意夺取<br>          于此矿脉之上。<br>          地底之魔物使吾等<br>          起而吞噬。只因<br>          寻求安身之所，却未能<br>          绝未获此发现。<br><p>         故而我承认我们<br>          被迫驱逐矿工。吾等<br>          拼力抗之，终得<br>          战争一触即发。<br>          然则，汝可知，吾等曾共-<br>          因此行事仓促。那<br>          地下之威胁予吾等<br>          无暇思索。
 msg-mineh00-1 = 
     <p>
-    汝问矮人：“汝所言何等祸患？”彼答曰：<br><p>         Deep in the heart of our<br>          World lurks great evil.<br>          Deep where the earth's secret<br>          Fire doth flow.<br>          These are the VULCANS, the<br>          Dread elementals of<br>          Fire implacable,<br>          Foe from below.<br><p>
+    汝问矮人：“汝所言何等祸患？”彼答曰：<br><p>         在我们深处的心脏里<br>          世间潜伏着巨大邪恶。<br>          在大地秘藏深处<br>          火焰奔涌。<br>          这些便是火神族，那<br>          可畏之元素<br>          不可熄灭之火，<br>          来自地下的敌人。<br><p>
     显然，这些“火神”已将矮人逐出家园。若能击败火神，矮人便可归来，矿工亦可重获其矿！
 msg-mineh00-2 = 
     <p>
-    汝问矮人：“汝所言何等祸患？”彼答曰：<br><p>         Deep in our delving, our<br>          Tunnel inaccurate,<br>          Opened a chamber of<br>          Chaos and gloom. <br>          Horrible catacombs, <br>          Full of live corpses, whose<br>          Ghosts proved excessively<br>          Full-wrought with doom.<br><p>
+    汝问矮人：“汝所言何等祸患？”彼答曰：<br><p>         在我们深入挖掘之时，我们的<br>          隧道偏差不小，<br>          开启一室<br>          混乱与阴霾。<br>          可怖之地下墓室，<br>          遍布活尸，其躯<br>          幽魂尤甚<br>          充满厄运。<br><p>
     可憎的不死者已将矮人们逐出家园！若能平息躁动的尸骸，矮人便可归来，矿工们亦可重获其矿井！
 msg-mineh00-3 = 
     <p>
-    汝问矮人：“汝所言何等祸患？”彼答曰：<br><p>         Know that below your feet<br>          Hell waits a-brooding and<br>          Sending its minions of<br>          Horror and woe.<br>          Demons horrendous have<br>          Entered our caverns, to<br>          Wreck all our homes and to<br>          Force us to go.<br><p>
+    汝问矮人：“汝所言何等祸患？”彼答曰：<br><p>         要知，在你脚下<br>          地狱阴森潜伏，<br>          派遣其爪牙，<br>          惊恐与灾厄齐至。<br>          可怖的恶魔已<br>          入侵我等洞窟，欲<br>          摧毁我们所有家园并至<br>          迫使我等离去。<br><p>
     恶魔已将矮人逐出家园！若能将恶鬼驱回地狱，矮人便可离去，矿工亦可重获其矿！
 msg-mineh00-4 = 
-    又是那位矮人。他对你说话。<br><p>         Proud of your deeds so far,<br>          We have great hopes for you.<br>          Please take this token now<br>          Of our esteem.<br><p>
+    又是那位矮人。他对你说话。<br><p>         为你迄今之功绩而自豪，<br>          我们对你寄予厚望。<br>          请即收下此信物，<br>          吾辈之敬意。<br><p>
     他将$ChosenOneName递给你一件矮人锻造的武器。它在火把光下熠熠生辉。当你挥动它时，你能感受到这是一件名副其实的利器。回头望去，那矮人已再次消失——想必是忌惮他的仇敌吧。
 msg-mineh00-5 = 
-    这又是你的一位矮人朋友。他一直在等你，随即飞快地报出了他的消息，<br><p>         Bells of Saint Toad's could not<br>          Ring out more clearly than<br>          My nose can smell that you're<br>          Wounded, in pain.<br><p>
+    这又是你的一位矮人朋友。他一直在等你，随即飞快地报出了他的消息，<br><p>         圣蟾蜍之钟无法<br>          响声远胜于<br>          吾鼻可嗅出汝身<br>          受伤，疼痛。<br><p>
     他递给你一只用铜丝缠绕的铁瓶。你启封嗅了嗅。他示意你的伤者饮下，你也照做，只觉一股热流涌起，驱散了所有的疲惫，也减轻了许多疼痛。你将瓶子还回，他再次隐匿身形。
 msg-mineh00-6 = 
-    这又是你的矮人朋友之一。他明确说道，<br><p>         You need no help from me,<br>          so, aid you I cannot.<br>          Please do remember my<br>          goodwill to thee.<br>          <br><p>
+    这又是你的矮人朋友之一。他明确说道，<br><p>         你无需我之援手，<br>          故，我亦无力相助。<br>          请切记吾之<br>          对你的善意。<br>          <br><p>
     他鞠躬离去。
 msg-mineh00-7 = 
     <p>
-    一个咧嘴笑的矮人出现了。他阴沉地说道，<br><p>         Further beyond this door,<br>          Enemies linger, to<br>          Guard with their lives holy<br>          Treasure they've stole.<br>          They hide a relic they've<br>          Pilfered unfeelingly.<br>          Try to regain it to<br>          Reach your great goal.<br><p>
+    一个咧嘴笑的矮人出现了。他阴沉地说道，<br><p>         再往这扇门的深处，<br>          敌人徘徊，欲<br>          以性命守护那被<br>          他们偷来的财宝。<br>          他们藏匿着一件遗物，那<br>          冷酷掠夺的圣物。<br>          努力将其夺回至<br>          达汝大志。<br><p>
     敌人竟持有圣物？难怪矮人们（素来畏怯基督教符号）无法取胜！然汝等坚毅之人，岂会被此所阻？前行吧！
 msg-mineh00-8 = 
     <p>
-    一个咧嘴笑的矮人出现了。他坚定地说道，<br><p>         You have already des-<br>          poiled their treasure, you've<br>          Taken their relic and left<br>          Them bereft.<br><p>
+    一个咧嘴笑的矮人出现了。他坚定地说道，<br><p>         你早已放-<br>          煮沸了他们的财宝，你已<br>          夺走其圣物后离去，<br>          让它们空无一物。<br><p>
     随后他离去。你恍然大悟，自己曾来过此处。
 msg-mineh00-9 = 
-    数名矮人自洞顶跃下，欢快嬉戏。其中一人跳至近前，结结巴巴地说道：<br><p>         Ho! For a joyful and<br>          Gay end to sorrows!<br>          Almost, you've come to your<br>          Ultimate goal.<br>          Penetrate deeper to<br>          Seek the foes' power!<br>          Fountains of lava will<br>          boil and roll.<br>          Soon you'll identify<br>          Vulcans' hot stronghold. Close<br>          Their vile fumarole --<br>          They'll go away!<br><p>
+    数名矮人自洞顶跃下，欢快嬉戏。其中一人跳至近前，结结巴巴地说道：<br><p>         哈！为了欢欣与<br>          欢愉之终！<br>          差点就到了你的<br>          终极目标。<br>          深入其中<br>          探寻敌人的力量！<br>          熔岩喷泉将<br>          沸腾翻滚。<br>          不久你便能辨明<br>          火神的炽热要塞。关闭<br>          他们那恶臭的喷气孔——<br>          他们会退去！<br><p>
     啊哈！你必须在前方的洞穴中寻找某种喷涌的熔岩锥。
 msg-mineh00-10 = 
-    数名矮人自洞顶跃下，欢快嬉戏。其中一人跳至近前，结结巴巴地说道：<br><p>         Ho! For a joyful and<br>          Gay end to sorrows!<br>          Almost, you've come to your<br>          Ultimate goal.<br>          Penetrate deeper to<br>          Seek the foes' power!<br>          Hideous tomb of Hell's<br>          Well, black as coal.<br>          Soon you'll identify<br>          Source of their evil, and<br>          Close their sarcophagus --<br>          They'll go away!<br><p>
+    数名矮人自洞顶跃下，欢快嬉戏。其中一人跳至近前，结结巴巴地说道：<br><p>         哈！为了欢欣与<br>          欢愉之终！<br>          差点就到了你的<br>          终极目标。<br>          深入其中<br>          探寻敌人的力量！<br>          地狱之狰狞坟冢<br>          哎呀，黑如煤炭。<br>          不久你便能辨明<br>          其恶之源，且<br>          关闭其石棺——<br>          他们会退去！<br><p>
     啊哈！你必须在前方的洞穴中寻觅某种墓穴。
 msg-mineh00-11 = 
-    数名矮人自洞顶跃下，欢快嬉戏。其中一人跳至近前，结结巴巴地说道：<br><p>         Ho! For a joyful and<br>          Gay end to sorrows!<br>          Almost, you've come to your<br>          Ultimate goal.<br>          Penetrate deeper to<br>          Seek the foes' power!<br>          Demons of underearth<br>          boil and roll.<br>          Soon you'll identify<br>          Satan's hot stronghold. Close<br>          Their vile entranceway --<br>          They'll go away!<br><p>
+    数名矮人自洞顶跃下，欢快嬉戏。其中一人跳至近前，结结巴巴地说道：<br><p>         哈！为了欢欣与<br>          欢愉之终！<br>          差点就到了你的<br>          终极目标。<br>          深入其中<br>          探寻敌人的力量！<br>          地底之魔，<br>          沸腾翻滚。<br>          不久你便能辨明<br>          萨旦炽热的巢穴。近<br>          他们那肮脏的入口处——<br>          他们会退去！<br><p>
     啊哈！你必须在前方的洞穴中寻觅某种地狱之门。

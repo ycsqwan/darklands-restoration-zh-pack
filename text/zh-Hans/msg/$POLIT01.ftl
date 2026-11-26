@@ -2,7 +2,7 @@
 
 msg-polit01-0 = 
     沿途，你又张贴了几张传单。突然，一伙恶徒从巷子里走出来。为首的撕下你贴的海报，瞥了一眼，便随手扔掉。<br><p>
-    "No more of that, you scum," he snarls, "in fact, we're gonna watch you EAT all of them right now. Or else." <br><p>
+    “休想再这样，你们这些渣滓，”他咆哮道，“现在就让你把它们全都吃下去。否则……”<br><p>
     你决定去...<br><p><p><opt>...<indent>哀求卑服，吞食传单。<br><p><opt>...<indent>凭借街头智慧劝退对方，使其放弃攻击。<br><p><opt>...<indent>用$Money1贿赂他们，让他们退去。<br><p><opt>...<indent>逃离。<br><p><opt-items>...<indent>使用炼金药剂助你逃脱。<br><p><opt-saints>...<indent>呼请圣者安抚他们。<br><p><opt-battle>...<indent>拔刃出击！<br><br><br><br>
 msg-polit01-1 = 
     恶徒既除，汝可继续行事。或许下次他们再行劫掠时，会三思而后行。<br>{" "}
@@ -28,12 +28,12 @@ msg-polit01-8 =
     首领收下你的钱，放声大笑。<br><p>
     “多谢，”他笑道，“剩下的归我了！”他率众挥刃冲上。
 msg-polit01-9 = 
-    Quickly you dash down a side alley, make five fast turns, leap a fence and a gate, then scramble over a low wall into yet another side street. As you pause to catch your breath, you hear the sounds of frustrated pursuit heading away in the wrong direction. <br><p>
+    你疾速奔入一条侧巷，连转五弯，跃过一道栅栏与一扇门扉，又攀越一堵矮墙，窜入另一条小街。稍作喘息，便听见追兵恼怒的呼喝声渐行渐远，朝错的方向而去。<br><p>
     此刻你已避过暴徒，然若你在$PlaceName政局动荡之际逗留，他们恐将再度寻到你。
 msg-polit01-10 = 
     你转身奔逃，却很快发现恶徒正逼近$ChosenOneName。不愿舍弃你，你毅然站定迎战。
 msg-polit01-11 = 
-    You dash around a corner down an alley, pouring the potion behind you. The first pursuer pounds after you, then falls flat when the gooey mess glues his feet to the cobblestones. <br><p>
+    你拐入巷尾，泼洒药剂于后。追兵紧逼，甫至便被黏液粘足，仆倒在地。<br><p>
     谨慎地，他的朋友们趟入黏稠的淤泥中将他救出。与此同时，你早已远去，遁入$PlaceName那错综复杂的后街小巷之中。<br>
 msg-polit01-12 = 
     以迅捷之势，$ChosenOneName 将粉末扬向歹徒的面庞。他们痛呼着，双手乱抓双眼；你则沿着侧街疾奔而去。

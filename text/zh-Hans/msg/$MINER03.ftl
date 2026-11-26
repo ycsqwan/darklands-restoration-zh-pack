@@ -3,13 +3,13 @@
 msg-miner03-0 = 
     穿过金门，但见汹涌地精挥舞工具与兵刃。未及反应，一群矮人撞翻汝，随即向地精齐射枪械。残存地精尖叫着扑向矮人。断肢飞舞，鲜血喷涌。濒死地精尖鸣刺破喧嚣。终告平息。幸存地精溃逃，矮人则围汝而立。
 msg-miner03-1 = 
-    One dwarf steps forward and stammers, <br><p>         Hop-skip-and-jumping. Hey!<br>          Now you are on our side<br>          Kobolds will never be<br>          Friendly to thee!<br>          Opening up their door<br>          And letting us inside<br>          Has made them hate you, so<br>          Listen to me.<br><p>
+    一名矮人向前一步，结结巴巴地说道，<br><p>         跳跃欢腾。嘿！<br>          如今汝已站吾等一侧<br>          地精永不会<br>          与汝友善！<br>          打开其门<br>          并令吾等入内<br>          使其憎汝，故<br>          聆听吾言。<br><p>
     矮人拙诗所言不虚。无论祸福，汝今惟盼矮人胜矣。<br>{" "}{" "}{" "}{" "}{" "}
 msg-miner03-2 = 
-    矮人继续吟唱，<br><p>         We need not help you for<br>          Now that the die is cast<br>          We can rely you'll bear<br>          Kobolds ill will.<br>          Look for their leader, he's<br>          Only a human, so<br>          We think that he shall prove<br>          Easy to kill.<br><p>
+    矮人继续吟唱，<br><p>         我们无需助你，因<br>          如今骰子已掷<br>          我们信你能承受<br>          地精之恶意。<br>          寻其首领，他在<br>          只是凡人，所以<br>          我们以为他必能证明<br>          易于击杀。<br><p>
     于是，你只得亲自动手。不仅如此，地精的首领竟然是人类？！矮人们慌忙逃入黑暗之中。
 msg-miner03-3 = 
     穿过金门，但见汹涌地精挥舞工具与兵刃。彼等咆哮着向汝冲来。
 msg-miner03-4 = 
-    穿过金门，但见群魔乱舞的地精挥舞工具与兵刃。汝欲致意，彼等却吱吱怪叫，<br><p>    We see that we were foolish folk<br>          to ever trust a human's word.<br>     Now you've betrayed, attacked us here<br>          We'll have to put you to the sword.<br><p>
+    穿过金门，但见群魔乱舞的地精挥舞工具与兵刃。汝欲致意，彼等却吱吱怪叫，<br><p>    吾等方悟，昔日愚昧至极。<br>          再也不敢轻信人言。<br>     如今你背叛，于此袭击我们<br>          我们只得将你置于刀剑之下。<br><p>
     不妙。显然，擅闯地精领地，激怒彼等。地精厉声呐喊，蜂拥而至，汝须奋战。

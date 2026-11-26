@@ -26,7 +26,7 @@ msg-drago07-6 =
 msg-drago07-7 = 
     村民见你狼狈不堪，哈哈大笑，将$ChosenOneName拖走。他们轻蔑地没收你的武器，你羞愧地走入荒野。然而，甫一远离视线，你便折返藏匿于附近，欲窥好友下场。
 msg-drago07-8 = 
-    Happily the villagers seem unoffended by your refusal to participate. They invite you to stay at least for the judging. You agree, unwilling to give further cause for offense. They bring you some wine to drink. <br><p>
+    村民们欣然对你拒绝参与并不介意。他们邀请你至少留下观看裁决。你答应了，不愿再招致不快。他们为你奉上美酒。<br><p>
     村长择一少女，几近晕厥，想必因荣耀所致。她被封为$NamedOneName女王，身着素白。似喜极而泣。然你忽觉——那非喜悦之泪，而是惊恐之泪！此乃恶毒之计！<br><p>
     你试图跃起，却觉天旋地转；头晕目眩；双腿发软。酒中下了药！舒尔茨缴了你的械。
 msg-drago07-9 = 

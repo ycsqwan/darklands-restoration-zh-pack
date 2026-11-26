@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-drago01-0 = 
-    Mud puddles stain the blasted landscape. Ahead, some tremendous force has carved a crater into the earth. Ominous stone slabs litter the rim. <br><p>
+    泥泞的水洼玷污了荒芜的大地。前方，一股巨力在地面上凿出了一道陨坑。不祥的石板散落在坑沿之上。<br><p>
     土壤中满是碎骨。某种恐怖之物破土而出，闯入墓地，以尸身为食！
 msg-drago01-1 = 
     远处可见地面似一大片疮疤。近观方知乃烧毁之林。脚深灰烬难行，呛人烟尘弥漫。历经一小时跋涉，方得穿越。
@@ -13,7 +13,7 @@ msg-drago01-4 =
     腐蚀的雾气灼痛你的眼与肺。咳嗽着，你终于逃出了这邪恶的迷雾。随即你发现，你的盔甲已严重受损；金属锈迹斑斑，皮革干裂龟裂。<br><p>
     土地之诅咒，连无生命之物亦难逃其害。
 msg-drago01-5 = 
-    A grass fire suddenly appears, too close to avoid. You hold wet cloth over your heads as the flame sweeps by, and suffer singed hair and scorched clothing. <br><p>
+    一场草火突然燃起，近得无法避开。你们用湿布捂住头脸，火焰呼啸而过，头发被烧焦，衣物也被灼伤。<br><p>
     That moment of enormous heat ruined some of your alchemical materials. The earth itself seems turned against you.{" "}
 msg-drago01-6 = 
     黑暗遮蔽了太阳。当你在迷雾中踉跄前行时，腐朽渗入你的骨髓。邪恶之感席卷而来。在邪念将你吞噬之前，太阳重现，你摆脱了这股污染，或几乎如此。<br><p>
@@ -28,7 +28,7 @@ msg-drago01-10 =
     突然，随着巨龙自天而降，空气中弥漫起一股炽热的腥臭。巨龙双翼掀起飓风，将你掀翻。其丑陋身躯之上，酸液与毒汁如雨般倾泻。<br><p>
     你 ...<br><p><p><opt>...<indent>躲藏，随后跟踪它回巢穴。<br><p><opt>...<indent>全速离去。<br><p><opt-items>...<indent>使用药剂。<br><p><opt-saints>...<indent>呼唤圣人。<br><p><opt>...<indent>拔出武器，迎战。
 msg-drago01-11 = 
-    The earth quakes and cracks. A dragon squirms its way up through the soil like a grotesque worm from Hell. It turns its fearsome snout toward you as the earth around it glows red hot. <br><p>
+    大地震颤裂开。一条巨龙如地狱中的怪虫般从泥土中蜿蜒而出。它狰狞的鼻口转向你，周遭大地炽红如火。<br><p>
     你 ...<br><p><p><opt>...<indent>躲藏，待裂缝冷却后，进入其巢穴。<br><p><opt>...<indent>全速离去。<br><p><opt-items>...<indent>使用药剂。<br><p><opt-saints>...<indent>呼唤圣人。<br><p><opt>...<indent>拔出武器，迎战。
 msg-drago01-12 = 
     从一块巨石后，一颗闪亮的龙首探出。它缓缓爬升，利爪紧握，尾巴猛烈摆动。<br><p>

@@ -13,11 +13,11 @@ msg-raubi05-2 =
 msg-raubi05-3 = 
     那盗匪骑士皱眉拒绝了你的请求。“这么快就走？这我可不能答应。请别再提此事了。”他眼中闪过一丝狐疑，你决定不再追问。
 msg-raubi05-4 = 
-    Once safely in your room, you wait until the tower quiets down, then go to the door and listen. You hear two guards talking. <br><p>
-    "Aren't we supposed to go in and kill them now?" one asks, referring to you. "Nay," says the other. "Lord $NamedOneName told us to wait for another hour, to make sure they are asleep before we cut their throats." You are not surprised -- raubritters are not famous for their hospitality. <br><p>
+    安抵房内，待塔楼寂静，遂至门侧倾听。闻两守卫低语。<br><p>
+    “我们不是该进去杀了他们吗？”其中一人指着你问道。“不可，”另一人答道，“$NamedOneName大人吩咐我们再等一小时，待他们熟睡后再割断他们的喉咙。”你并不意外——劫匪骑士素来以好客著称。<br><p>
     当两名守卫沿走廊下行时，你悄然离开房间。若此时被守卫发现，必成正面冲突。
 msg-raubi05-5 = 
-    Heaven does not respond to your pleas. The raubritter's men look on with interest as $ChosenOneName prays. One such loudly hopes that $ChosenOneName will fall into a fit. <br><p>
+    天堂不回应你的祈求。劫匪的部下饶有兴致地注视着$ChosenOneName祈祷。其中一人更是大声期盼$ChosenOneName会突然发病。<br><p>
     “我曾见癫疾发作，”彼曰，“实为趣事。”
 msg-raubi05-6 = 
     当你感受到圣人你的祈祷的回应时，$ChosenOneName倍感振奋。霎时间，$NamedOneName双目炯炯有神。他命麾下武士离席。<br><p>

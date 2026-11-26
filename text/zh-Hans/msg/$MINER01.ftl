@@ -1,19 +1,19 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-miner01-0 = 
-    Once more you see a short entity step up. But this time it is clearly no dwarf! Its sinewy form and gross tusks mark it as a kobold, one of the sinister mine goblins. It glibbers to you, <br><p>    We and dwarfs have come to blows so<br>          we would like you now to choose<br>     Which one of us you will support<br>          in our fine battle else we'll lose.<br><p>
+    又见一矮小身影上前。然此次绝非矮人！其筋骨毕露，獠牙粗壮，分明是矿坑妖精——地精之一。它对你喋喋，<br><p>    吾与矮人已兵戎相见。<br>          我们现请你抉择<br>     吾等之中，汝将支持何人？<br>          我们的良机尽失。<br><p>
     听着那生物的打油诗，你思索着他的话，答道你打算……<br><p><p><opt>...<indent>援助地精。<br><p><opt>...<indent>援助矮人。<br><p><opt>...<indent>对双方不分皂白地发动攻击。<br><p><opt>...<indent>离开。
 msg-miner01-1 = 
-    地精以怪异颤抖的吱声答道，<br><p>    Ah, ha! You seek to help us. Fine,<br>          now I shall say which door to take<br>     For should you take the wrongful door<br>          you then shall make a great mistake.<br>     A wooden door that's bound in black-<br>          ened iron leads to our domains.<br>     The metal door, gold filigreed,<br>          doth open into dwarf terrain.<br>     Thus to defeat the dwarfs so vile<br>          just utilize the golden door.<br>     Once through that door, old $NamedOneName<br>          lord of all dwarf slaves you'll meet for sure.
+    地精以怪异颤抖的吱声答道，<br><p>    哈哈！汝欲助我等。甚好。<br>          如今我将告知该走哪扇门<br>     若你误入错误之门<br>          否则你将铸成大错。<br>     一扇黑漆裹边的木门——<br>          锈铁通向我们的领地。<br>     金丝镶嵌的铁门，<br>          通向矮人领地。<br>     如此方能击溃那等卑劣矮人。<br>          只需利用那扇金门。<br>     一旦穿过那扇门，旧$NamedOneName<br>          你必将遇见那统领众矮奴之主。
 msg-miner01-2 = 
-    地精叽叽喳喳地说道：<br><p>    $NamedOneName is the only dwarf<br>          whose wrath the kobolds do respect,<br>     If you could slay or conquer him,<br>          then you the dwarvish plans would wreck.<br><p>
-    你问地精：“吾等如何辨识矮人奴隶主 $NamedOneName？”<br>     He retorts,<br><p>    Fear not, you'll know old $NamedOneName then<br>          perchance if he and thee should meet,<br>     He towers over other dwarfs<br>          by five or even seven feet!<br><p>
+    地精叽叽喳喳地说道：<br><p>    $NamedOneName乃唯一之矮人。<br>          其怒令地精敬畏，<br>     若你能杀或降服他，<br>          你便毁了矮人的谋划。<br><p>
+    你问地精：“吾等如何辨识矮人奴隶主 $NamedOneName？”<br>     他反驳道，<br><p>    不必惧怕，尔时自会识得老$NamedOneName。<br>          或许若他与你会面，<br>     其身比众矮人尤显高大，<br>          高出五尺，乃至七尺！<br><p>
     一个巨大的矮人？你惊得目瞪口呆。既然再也听不下去地精的诗，你便告辞，沿走廊而去。
 msg-miner01-3 = 
-    地精以怪异颤抖的吱声答道，<br><p>    I see. Another enemy<br>          for us poor kobolds to hold back.<br>     We'll wait for you, with swords of strife,<br>          behind the door of iron black.<br>     But if you e'er should change your minds,<br>          decide to fight the dwarfs most bold,<br>     Seek for the dwarfs behind the door<br>          that's bound in filigree of gold.<br>     There dwells old $NamedOneName, overlord<br>          and ruler over kobold slaves.<br>     Defeat the overlord to free<br>          us, and we'll honor you, most brave.
+    地精以怪异颤抖的吱声答道，<br><p>    明白了。又一位敌人。<br>          让我们这些可怜的地精心存戒备。<br>     我们将持战剑，静候君临。<br>          在铁黑色之门后。<br>     若你一旦改变心意，<br>          决意与最勇的矮人一战，<br>     寻那门后的矮人<br>          那是金丝缠绕的饰物。<br>     那里居住着老$NamedOneName，众王之王。<br>          并统治着地精奴隶。<br>     击败首领以解救<br>          我们，并将尊崇你这勇士。
 msg-miner01-4 = 
     离别前，你问地精：“若我们决定助汝而非矮人，当如何辨识$NamedOneName？”<br><p>
-    地精闷闷答道：<br><p>    Fear not, you'll know old $NamedOneName then<br>          perchance if he and thee should meet,<br>     He towers over other dwarfs<br>          by five or even seven feet!<br><p>
+    地精闷闷答道：<br><p>    不必惧怕，尔时自会识得老$NamedOneName。<br>          或许若他与你会面，<br>     其身比众矮人尤显高大，<br>          高出五尺，乃至七尺！<br><p>
     一个巨大的矮人？你简直难以置信。既然再也听不下去地精的诗篇，你便告辞，继续沿着走廊前行。
 msg-miner01-5 = 
-    地精以怪异颤抖的吱声答道，<br><p>    In truth you pose a headache now<br>          for kobolds in the mines below,<br>     Are you pro-dwarf? Until your deeds<br>          do clarify for us to know,<br>     If we should help or hinder. So,<br>          this information we'll give out,<br>     Each of the warring clans resides<br>          behind a door both thick and stout.<br>     A wooden door that's bound in black-<br>          ened iron leads to our domains.<br>     The metal door, gold filigreed,<br>          doth open into dwarf terrain.<br>
+    地精以怪异颤抖的吱声答道，<br><p>    诚然，汝如今实为心腹大患。<br>          地下矿中的地精，<br>     你是亲矮派吗？直到你的行迹<br>          请为我们明示，以便知晓，<br>     是助我们还是阻挠。因此，<br>          此信息我们将告知，<br>     每个交战的部族皆居于<br>          在一道厚重坚实的门前。<br>     一扇黑漆裹边的木门——<br>          锈铁通向我们的领地。<br>     金丝镶嵌的铁门，<br>          通向矮人领地。<br>

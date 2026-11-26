@@ -1,15 +1,15 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-drago06-0 = 
-    Looming over a minor crossroads is an immense slab of stone. A black cockerel lies dead in front of it, and smeared on the stone in the cockerel's blood are these words: <br><p><p>                   Hail Lord Destruction <br>                   Hail $NamedTwoName <br>                   Hail Dragon King<br><p><p>
+    一座巨大的石碑耸立在一处偏僻的十字路口。一只黑色公鸡死在碑前，用公鸡的血在石碑上涂抹着这样几个字：<br><p><p>                   敬颂毁灭之主<br>                   敬颂 $NamedTwoName<br>                   敬颂龙王<br><p><p>
     你思忖。巨龙或可解此地浩劫。然有人奉之乎？
 msg-drago06-1 = 
-    Beside an old cemetery, old hags cackle as they stuff carrion into a filthy leather sack. When the leader sees you, her eyes bulge with surprise. She cackles, "Methought all mortals had fled these parts." <br><p>
+    古墓之侧，老巫婆咯咯笑着，将腐肉塞进肮脏的皮囊。首领见你，惊得双眼凸出。她咯咯笑道：“我还道凡人皆已逃离此地。”<br><p>
     你有礼地答道：“我们前来终结这片土地的劫难。”<br><p>
     老妪口吐涎沫，尖声嘶叫：“撒旦所为，岂有人能解？尔等必死无疑！我召地狱之诅咒加诸汝身。受谴之魂，醒吧！”<br><p>
     墓园轰鸣，你不禁后退。只见可怖的形影自泥土中升起。活尸竟为施行女巫之咒而来！
 msg-drago06-2 = 
-    High-pitched chittering noises come from overhead. You look upward in fright to see tattered black creatures sailing through the wind. Strange lightning illumines the horrors' sickly features -- they are witches! Riding pigs, iron stoves, and even three-legged stools, they fly. <br><p>
+    尖锐的吱吱声自头顶传来。你惊恐地仰望，只见破烂不堪的黑色生物在风中翱翔。诡异的闪电映照出它们病态的面容——竟是女巫！她们骑着猪、铁炉，甚至三脚凳，凌空飞舞。<br><p>
     你逃离那场魔鬼般的侵袭，但他们已发现你踪迹。只见他们探入宽大的斗篷，掏出一把把带刺的硕大种子，朝你掷下。
 msg-drago06-3 = 
     巫女们借风暴播撒邪恶之种！凡种子落地之处，便有狰狞妖魔于烟焰中骤然现身。<br><p>
@@ -46,10 +46,10 @@ msg-drago06-15 =
     "汝之双臂是否被大能或强刃所加持？是否蒙圣邓斯坦、埃利吉乌斯、乔治、朗基努斯或莫里斯之祝福？汝是否受炼金术或圣力庇护，以御烈焰？"<br><p>
     妖妇们确信你无力反抗，便咯咯笑着离去，狂喜不已。
 msg-drago06-16 = 
-    Latin is the only language the witches will hear. $ChosenOneName addresses <br>
+    拉丁语乃女巫唯一所闻。$ChosenOneName致辞。<br>
     你虽善待他们，但那可憎的首领却狂怒嚎叫，扑向 你。片刻之后，其余人亦随之而上。你别无选择，唯有迎战。
 msg-drago06-17 = 
     在那些死去女巫的残骸之中，你发现了用陶土或石头制成的奇特小雕像。许多雕像已破碎。当你仔细端详时，才意识到它们竟是粗陋的飞龙形象！
 msg-drago06-18 = 
-    Latin is the only language the witches will hear. When $ChosenOneName addresses them, $he stumbles for words and misforms sentences. <br><p>
+    拉丁语乃女巫唯一所闻。$ChosenOneName致辞时，你语塞，句式错乱。<br><p>
     最丑陋之女巫嚎叫扑上，其余紧随其后。汝唯有奋起反击。

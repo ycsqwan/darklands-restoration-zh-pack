@@ -3,14 +3,14 @@
 msg-miner00-0 = 
     门后站着一名神情凶狠的矮人。他双眉倒竖，怒视着你。心中不安，你...<br><p><p><opt>...<indent>粗暴地越过他，深入矿井。<br><p><opt>...<indent>询问他为何矮人骚扰矿工。<br><p><opt>...<indent>立即向他发动攻击。<br><p><opt>...<indent>转身沿来路离去。
 msg-miner00-1 = 
-    龙套不屑地答道，<br><p>         Othniel Higgledy,<br>          Unwelcome trespassers,<br>          Never could you and we<br>          Ever be friends!<br>          Have you forgotten how<br>          You and the kobolds would<br>          Us like to overthrow?<br>          Our rule to end?<br><p>
+    龙套不屑地答道，<br><p>         奥斯尼尔·希格利迪，<br>          不速之客，<br>          你我永不能<br>          永不为友！<br>          你可曾忘却如何<br>          你与地精欲<br>          想要推翻吾等？<br>          结束吾等之统治？<br><p>
     他提及地精，意欲何为？尚未及细问，岩壁间涌出矮人，你遭袭击！
 msg-miner00-2 = 
-    矮人心怀不满地说道：<br><p>         Malachi fimblejig,<br>          Humans and kobolds have<br>          Acted in friendship, but<br>          We dwarfs have not.<br>          Now that the kobolds have<br>          Sought to rebel from our<br>          Mastery, we knew the<br>          Humans must stop.<br><p>
+    矮人心怀不满地说道：<br><p>         马拉基·芬布尔吉格，<br>          人类与地精已<br>          虽以友相待，然<br>          吾等矮人未曾。<br>          如今地精已<br>          试图反叛于吾等之<br>          掌控之权，吾等曾知<br>          人类须止步。<br><p>
     如今矿井中的纷争终于有了答案！矮人们担心地精会在叛乱中得到矿工的相助。若能设法平息叛乱，矿工的苦难便可终结。
 msg-miner00-3 = 
-    被你的妄想激怒，矮人大叫道：<br><p>         Samuel stumpleton,<br>          Fools and intruders will<br>          Lead to destruction of<br>          all they hold dear!<br>          Can you not comprehend<br>          You and the kobolds can<br>          Never defeat us while<br>          $NamedOneName you fear!<br><p>
+    被你的妄想激怒，矮人大叫道：<br><p>         塞缪尔·斯丹普尔顿，<br>          愚者与闯入者必将<br>          导致……的毁灭。<br>          他们所珍视的一切！<br>          难道汝竟不解乎？<br>          汝与地精可<br>          只要……，汝永难胜我。<br>          $NamedOneName，汝所惧也！<br><p>
     何以提及地精？汝耸肩进击，然更多矮人自洞壁涌出。汝须尽敌！
 msg-miner00-4 = 
-    矮人得意地朝你喊道：<br><p>         Abracadabra Ka,<br>          Cowardly humankind<br>          Meets with a force that they<br>          don't understand.<br>          You can't imagine with<br>          Verisimilitude<br>          You or the kobolds could<br>          Beat us, my man?<br><p>
+    矮人得意地朝你喊道：<br><p>         阿布拉卡达布拉 卡，<br>          懦弱之人<br>          面临一股彼等<br>          不解也。<br>          你或地精皆难想象之<br>          逼真度<br>          力量。<br>          击败吾辈乎，吾友？<br><p>
     何以谈地精？汝耸肩而去。

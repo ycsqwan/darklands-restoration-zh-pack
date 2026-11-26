@@ -8,25 +8,25 @@ msg-prove00-1 =
 msg-prove00-2 = 
     天空寂静无声。你的祈求未得回应。
 msg-prove00-3 = 
-    Grumpily, the high lord watches $ChosenOneName fall to $his knees and ask $NamedOneName for assistance. At first, the lord appears unimpressed, but just as he turns to his bailiff to order you out, he stops, thunderstruck. "Did you hear that?" he asks, urgently, but no one else in the room heard or saw anything. <br><p>
+    大领主悻悻然看着 $ChosenOneName 跪倒在 $NamedOneName 面前求援。起初，这领主似乎不以为意，但就在他转身吩咐法警将你们赶出去时，他猛然停住，如遭雷击。“你听到了吗？”他急切地问道，但房中其他人什么都没听到，也没看到。<br><p>
     领主沉默不语，却以敬意凝视着你，其中夹杂着些许迷信的畏惧。你不禁思索，$NamedOneName究竟对领主说了些什么，竟能引得他如此反应。
 msg-prove00-4 = 
-    Expounding for many minutes, $ChosenOneName speaks about the classics, philosophy, ancient lore, the nature of religion, and science. The lord is impressed in spite of himself. His own advisors debate with $ChosenOneName, who is the clear-cut victor. <br><p>
+    详述良久，$ChosenOneName 谈及经典、哲学、古之秘闻、宗教之本质与科学。领主虽不情愿，亦为之折服。其座下谋士与 $ChosenOneName 辩论，$ChosenOneName 毫无疑问地胜出。<br><p>
     领主终于说道：“你们果然是智者。”
 msg-prove00-5 = 
     凭借对古朴而遗忘的秘术的全部你的知识，$ChosenOneName竭力欲使领主印象深刻。然终无功。领主之哲人于多处驳倒你，而$ChosenOneName亦未能提出任何令领主称奇之趣闻。
 msg-prove00-6 = 
     命令取来兵器，领主迫不及待地筹备即将举行的比武。$ChosenOneName被赐予一柄上好的$NamedOneName，而$ChosenTwoName则被赐予一把$NamedTwoName。<br><p>
     吹着口哨，将$NamedOneName绕着你的头挥舞，$ChosenOneName展示了对此武器的高超技艺与精湛造诣。在实战中，你轻松击败了领主的两名侍卫。<br><p>
-    No slouch, $ChosenTwoName wields the $NamedTwoName with speed, versatility, and accuracy, striking the chosen target repeatedly. <br><p>
+    不愧是$ChosenTwoName，挥舞着$NamedTwoName，迅捷、多变且精准，屡屡击中选定之敌。<br><p>
     领主终于说道：“如此技艺，确实值得称道。吾甚为钦佩。”
 msg-prove00-7 = 
     为筹备展览，领主命人将$NamedOneName运至$ChosenOneName，并将$NamedTwoName运至$ChosenTwoName。<br><p>
     $ChosenOneName 最擅长用$NamedOneName展示你的本领。但你一不小心，把你的武器掉落了。实战中，领主的一名侍卫轻松击败了你。<br><p>
-    Unfortunately, $ChosenTwoName fails to wield the $NamedTwoName with $his normal skill, and misses the chosen target twice. <br><p>
+    不幸的是，$ChosenTwoName 无法以 你的 的正常技艺挥舞 $NamedTwoName，两次未能命中选定的目标。<br><p>
     领主终于说道：“显然，你的声名并非源于你的武艺。”
 msg-prove00-8 = 
-    First speaking softly and slowly, then warming to $his subject, $ChosenOneName regales the lord and his courtiers with the tales of your adventures. If at times $he needs to verbally sanitize your deeds, it does not seem to bother the enthralled audience. <br><p>
+    先是轻声慢语，继而渐入佳境，$ChosenOneName 以 你的 为题，向领主及其朝臣娓娓道来你的历险故事。若有时 你 需要对你的事迹略作修饰，亦不致令满座倾心的听众生疑。<br><p>
     当你讲毕，领主颇为赞赏。他拍手称好，并褒奖众人。
 msg-prove00-9 = 
     尽管$ChosenOneName竭力以辞藻铺陈，并故作高傲地否认你们这支小队的英勇，领主却公然打了个哈欠。“若这些人的历险仅止于此，”他道，“那我当初就不该接见他们。”

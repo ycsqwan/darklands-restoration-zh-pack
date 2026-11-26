@@ -6,7 +6,7 @@ msg-fugge00-1 =
     资深文吏引荐汝与$PlaceName之主账房$NamedOneName相见，彼热情相迎，友善如故。<br><p>
     “各位大人，你们的名声早已传扬四方，”$NamedOneName开口道，“我希望你们能帮我一件要事。”<br><p>
     $ChosenOneName礼貌颔首。<br><p>
-    "But first, let me show you this modest purse." A small strongbox is opened, displaying $Money1, a princely sum. <br><p>
+    “且慢，先观此小囊。”开一小箱，现$Money1，巨资也。<br><p>
     随后匣子合上并锁好。“如今，容我说明困境……”
 msg-fugge00-2 = 
     在德国最大的银行——富格尔家族的办公室里，卫兵紧握武器，仔细打量着你。不久，一名低级职员嗅了嗅鼻子，问你有何贵干，而你的来意是……<br><p><opt>...<indent>凭信用状兑换$Money1。你将获得真币，但需扣除银行手续费。<br><p><opt>...<indent>请求一张信用状，可将沉重的金币兑换成富格尔银行的票据。<br><opt>...<indent>禁止讨论。<br><opt>...<indent>要求见主人，商议酬劳。<br><p><opt>...<indent>讨论政治议题。<br><opt>...<indent>未使用。<br><p><opt>...<indent>返回集市。<br><p><opt>...<indent>从侧门溜入后巷。
@@ -24,7 +24,7 @@ msg-fugge00-5 =
     卫兵下士探身门外，嘶声道：“尔等贱民，岂配踏入此银库？速退！”<br>
 msg-fugge00-6 = 
     你注视着店员查验纸条，时间悄然流逝。终于，他将纸条递给另一名店员，后者更仔细地端详笔迹。又交予第三人，将其置于灯光下检视。随后，原店员消失于内室。时光再逝，他携一沉重的钱袋归来。坐定后，从钱袋中数出全额，$Money1。<br><p>
-    Then he deducts $Money2 from the pile. "This is the service charge," he explains. "Thank you for your patronage." <br>
+    随后他从钱堆中抽出$Money2。“这是服务费，”他解释道，“感谢惠顾。”<br>
 msg-fugge00-7 = 
     终被引入首席银行家之办公室。<br><p>
     “不错，确有铁证证明汝已完满履行使命。因此，吾义不容辞，当付此酬。”<br><p>
@@ -37,7 +37,7 @@ msg-fugge00-8 =
     “坦率地说，”他说道，“与此别离令我痛心。然而，若非尔等英勇，吾等境况更甚。”随即一笑，“吾当告知诸弗格商号，尔等信义无亏。彼等亦或有意延聘尔等。”
 msg-fugge00-9 = 
     银行主人自后堂而出，立于其账房与卫士之间。<br><p>
-    "My friends, there is no proof that you have fulfilled your commission. Don't bother me further until you have!" <br><p>
+    “诸位，尚无证据证明汝等已尽职。未完成前勿再烦扰我。”<br><p>
     主人随即隐入内室，卫士则匆匆将你驱出。
 msg-fugge00-10 = 
     书记官鼻哼一声，示意你出门。“抱歉，$NamedOneName今日无暇。实则整周皆忙。”<br><p>

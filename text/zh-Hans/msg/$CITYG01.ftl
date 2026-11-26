@@ -2,13 +2,13 @@
 
 msg-cityg01-0 = 
     于城门，排队入$PlaceName者络绎不绝。卫兵按人收费，汝一行总费用为$Money1。<br><p>
-    你决定去...<br><p><opt>...<indent>缴纳过路费后进入。<br><p><opt>...<indent>凭借你的魅力与口才，与守卫交好。<br><p><opt>...<indent>混入人群，凭借敏捷与街头智慧潜入。<br><p><opt-items>...<indent>use an alchemical distraction, then slip inside. <br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt-battle>...<indent>draw weapons and attack the guards! <br><p><opt>...<indent>退后一步，重新权衡对策。<br>
+    你决定去...<br><p><opt>...<indent>缴纳过路费后进入。<br><p><opt>...<indent>凭借你的魅力与口才，与守卫交好。<br><p><opt>...<indent>混入人群，凭借敏捷与街头智慧潜入。<br><p><opt-items>...<indent>制造炼金障眼法，随即潜入其中。<br><p><opt-saints>...<indent>呼唤圣人以求援助。<br><p><opt-battle>...<indent>拔剑袭击守卫！<br><p><opt>...<indent>退后一步，重新权衡对策。<br>
 msg-cityg01-1 = 
     你缴纳过路费。守卫甚至未留意你的面容——他正忙着查验你的钱币，并小心翼翼地将其收入钱箱。<br><p>
     你随人流而行，悄然入城。
 msg-cityg01-2 = 
     卫兵队长被你的魅力所折服。他邀请你进入门楼，倒了一杯水，“以洗去旅途的尘埃。”<br><p>
-    Soon he regards you as old companions. He escorts you through a small passage and opens the guardroom door to the city. Smiling, he says, "No tolls for you today." You give him a friendly slap, then stroll forth into $PlaceName. <br>
+    不久，他视汝如旧友。引汝穿小径，启城门。笑曰：“今日免汝通行费。”汝轻拍其肩，遂步入 $PlaceName。<br>
 msg-cityg01-3 = 
     卫兵轻蔑地挡驾：“汝等何人？”中士讥讽道，“交费则留，否则滚！”身后农夫不耐，抱怨无知外乡人阻塞通道。
 msg-cityg01-4 = 

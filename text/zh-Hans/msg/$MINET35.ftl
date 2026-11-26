@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-minet35-0 = 
-    一扇门挡住了前方的道路。门上刻着文字：<br><p>         hocus       NUMERALS ARE REPLACED BY<br>      + pocus       LETTERS. EACH DIFFERENT<br>       ------       LETTER STANDS FOR A <br>       presto       DIFFERENT NUMBER. <br><p>
+    一扇门挡住了前方的道路。门上刻着文字：<br><p>         hocus       数字被替换成<br>      + pocus       字母。每个字母都不同<br>       ------       字母代表一个<br>       presto       不同的数字。<br><p>
     字母“E”开启通途<br><p>
     一眼可知，“P”等于1，则“H”或为8或为9。余者如何？汝细思熟虑，遂选中标记为……之旋钮。<br><opt>...<indent>0<br><opt>...<indent>2<br><opt>...<indent>3<br><opt>...<indent>4<br><opt>...<indent>5<br><opt>...<indent>6<br><opt>...<indent>7<br><opt>...<indent>无事，你退后离去。
 msg-minet35-1 = 

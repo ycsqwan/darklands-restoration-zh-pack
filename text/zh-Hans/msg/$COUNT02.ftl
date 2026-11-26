@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-count02-0 = 
-    高塔在阴云下仅余窗间偶露的微光。与此同时，你决定……<br><opt>...<indent>用$Money1贿赂守卫，让他放你入内。<br><opt>...<indent>让$ChosenOneName攀墙，抛下绳索，余者随之而上。<br><opt>...<indent>让众人凭自身本领攀墙。<br><opt-saints>...<indent>pray for saintly aid to surmount the walls. <br><opt-items>...<indent>以炼金术强行开启入口。<br><opt>5<br><opt>6<br><opt>...<indent>离此，赴他方。<br>
+    高塔在阴云下仅余窗间偶露的微光。与此同时，你决定……<br><opt>...<indent>用$Money1贿赂守卫，让他放你入内。<br><opt>...<indent>让$ChosenOneName攀墙，抛下绳索，余者随之而上。<br><opt>...<indent>让众人凭自身本领攀墙。<br><opt-saints>...<indent>祈求圣徒相助，逾越城墙。<br><opt-items>...<indent>以炼金术强行开启入口。<br><opt>5<br><opt>6<br><opt>...<indent>离此，赴他方。<br>
 msg-count02-1 = 
     吼道：“自个儿玩去吧。”守卫抓起那枚银币（价值数月的薪水），飞快地奔向林中。你们悄然潜入其中。
 msg-count02-2 = 
@@ -14,7 +14,7 @@ msg-count02-4 =
 msg-count02-5 = 
     不幸的是，攀爬城墙比你预想的更加艰难。你坠落时的巨响惊动了守卫。警报在塔内响起，你一瘸一拐地消失在黑暗中。
 msg-count02-6 = 
-    In the shadow of the wall, $ChosenOneName utters a quiet prayer to St. Reinold. <br><p>
+    在城墙阴影下，$ChosenOneName低声向圣莱诺德祈祷。<br><p>
     突然，攀爬城墙变得轻而易举。粗糙石壁宛如简易梯阶。你迅速越过外墙，沿塔楼侧壁而上。至一处高台，众人拔剑，踏入其中。
 msg-count02-7 = 
     在城墙阴影下，$ChosenOneName低声向圣齐塔祈祷。<br><p>
@@ -42,7 +42,7 @@ msg-count02-13 =
     “内贼！”他们喊着准备兵器。
 msg-count02-14 = 
     突然，城堡主君手持利剑，质问：“旅人啊，为何侵扰于我？汝与我无仇，我亦与汝无怨。”他攥紧颈间十字架。“以圣热纳维耶夫之名，收起兵刃。”<br><p>
-    You cannot resist his orders. Blades are sheathed and you stand there, feeling sheepish. <br><p>
+    你无法违抗其命。刀剑入鞘，伫立其间，羞愧难当。<br><p>
     “军曹，押送此迷途之魂至边境，”领主 command。如被魇术，汝顺从军曹。终悟：领主祈圣热内维耶夫，竟成此奇效。
 msg-count02-15 = 
     城堡之主鲜血淋漓，命丧尔足下，其悍卒或亡或遁。旭日初升，感恩之农夫称尔为救星，并纵火焚堡，以报昔日迫害之仇。<br><p>
@@ -50,7 +50,7 @@ msg-count02-15 =
 msg-count02-16 = 
     因你的袭击而怒不可遏，领主将你所有财物尽数剥夺。<br><p>
     “先抽打他们，再把他们吊在城垛上，”他咆哮道，“不管活的还是死的，我都无所谓。”<br><p>
-    Painfully you swing there for hours, bleeding. Finally, a stablehand takes pity and cuts you down while the guard is off relieving himself. <br><p>
+    痛苦地在那儿悬挂了数小时，鲜血淋漓。终于，一名马厩侍从见状心生怜悯，在守卫去解手之际将你解下。<br><p>
     “你已经尽力了，”你的恩人低声说道，“我们为此敬重你。”你向他致谢后，踉跄着钻进了灌木丛。<br><br>
 msg-count02-17 = 
     气喘吁吁，你终于在抵达森林时停下脚步。追击的卫兵已在幽暗中迷失。你缓缓、静静地向林中深处行去，以求在黎明前获得安全。

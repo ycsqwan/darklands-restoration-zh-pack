@@ -4,25 +4,25 @@ msg-miner10-0 =
     你面前是$NamedOneName，矮人奴隶主——一个巨矮人！你已踏入矮人的内殿。若能击败$NamedOneName，便可使地精摆脱矮人控制，终结叛乱！感激的地精必将矿井归还人类主人，而你将获胜！<br><p>
     明悉此情，你决定……<br><p><p><opt>...<indent>即刻进攻。<br><p><opt>...<indent>与$NamedOneName议和。<br><p><opt>...<indent>立即离开。
 msg-miner10-1 = 
-    巨人$NamedOneName挥舞着他巨大的铁锤向你怒吼，低沉的咆哮声震耳欲聋，<br><p>         Humans perfidious,<br>          How have you come so far?<br>          Soon I'll your bones break,<br>          Here in the dark.<br><p>
+    巨人$NamedOneName挥舞着他巨大的铁锤向你怒吼，低沉的咆哮声震耳欲聋，<br><p>         人类背信弃义，<br>          你何以至此？<br>          待我即刻折汝骨，<br>          此处幽暗之中。<br><p>
     战斗已打响。
 msg-miner10-2 = 
-    强悍的$NamedOneName已然倒下，胜利属于你。重伤的巨矮单肘撑起，说道：<br><p>         All of the gold in the<br>          World cannot salvage the<br>          Dreadful defeat we have<br>          Suffered this day.<br>          Now with the kobolds we<br>          Toil as equals. No<br>          More are we masters of<br>          All we survey.
+    强悍的$NamedOneName已然倒下，胜利属于你。重伤的巨矮单肘撑起，说道：<br><p>         所有黄金之中<br>          天下亦难挽回这<br>          我们遭遇了惨败<br>          今日蒙受此辱。<br>          如今我们与地精为伴，<br>          必须平等地劳作，再<br>          也不是我们凌驾于<br>          所见一切之上的主人。
 msg-miner10-3 = 
-    你亮出兵器，威胁$NamedOneName，命其投降，将矿井归还矿工。他痛苦挣扎，终被恐惧压倒，喃喃道：<br><p>         Hag of the Ironwood,<br>          Hear mine oath sworn today!<br>          Gods of yore, hear me now,<br>          I acquiesce!<br><p>
-    说时迟那时快，地精蜂拥而入，以尖细之声向汝齐唱：<br><p>    Humans mighty, we give you<br>          wondrous works of alchemy.<br>     We offer them in gratitude,<br>          please take our gift now, we thank thee!
+    你亮出兵器，威胁$NamedOneName，命其投降，将矿井归还矿工。他痛苦挣扎，终被恐惧压倒，喃喃道：<br><p>         铁木之巫婆，<br>          听吾今日所誓！<br>          古之诸神，今聆吾声，<br>          吾应允矣！<br><p>
+    说时迟那时快，地精蜂拥而入，以尖细之声向汝齐唱：<br><p>    吾等人类威武，赐汝……<br>          奇妙的炼金之作。<br>     我们奉上以表谢意，<br>          请收下我们的礼物，谨致谢忱！
 msg-miner10-4 = 
     地精们搬运着一个个小匣子，内藏珍贵的炼金药剂。他们小心翼翼地将药剂置于你足下，随即悄然隐去，仍彼此叽叽喳喳地谈论着他们的伟大胜利。矮人亦已离去。你独处一隅。
 msg-miner10-5 = 
     你在矿井四处搜查，确认矮人确已离去，却未见半点踪迹。连他们的陷阱亦已被拆除。矿井可以重新开采！<br><p>
     汝重返矿营。矿工迎汝，满怀希冀。归于人间，倍感欣慰。
 msg-miner10-6 = 
-    强大的$NamedOneName及其爪牙终迫使你屈服。$NamedOneName重现，召回其魔物，欣喜若狂，在室中雀跃。他哭喊道，<br><p>         I heard you yield to me,<br>          Since you surrendered to<br>          Me, now my magic can<br>          Force you to leave! <br><p>
+    强大的$NamedOneName及其爪牙终迫使你屈服。$NamedOneName重现，召回其魔物，欣喜若狂，在室中雀跃。他哭喊道，<br><p>         我听闻你向我臣服，<br>          既然你已屈服于<br>          如今我的法术可<br>          强迫你离开！<br><p>
     你面面相觑，茫然若失。你的屈服竟使矮人掌控了你！不由自主，你悄然转身，步出矿井。及至外，欲再入，却不得其门。矮人法术果然灵验。
 msg-miner10-7 = 
     勇猛的$NamedOneName及其爪牙非你所能敌，你颓然倒下，昏厥过去。待你醒来时，已身在矿井之外。你懊恼不已；矮人们夺走了你所有的财物。
 msg-miner10-8 = 
-    巨大的$NamedOneName大步逼近，手中巨锤左右挥舞。他开口道：<br><p>         If you would prove to us<br>          That you would friendly be,<br>          Leave here and seek out the<br>          Kobolds' abode!<br>          They have a leader, and<br>          If you can conquer him,<br>          Once more shall kobolds groan<br>          Under our load!
+    巨大的$NamedOneName大步逼近，手中巨锤左右挥舞。他开口道：<br><p>         若你能向吾证明<br>          你竟愿与吾友善，<br>          离此寻那<br>          地精之居！<br>          彼有首领，且<br>          若你能征服之，<br>          再度令地精哀号<br>          在吾重压之下！
 msg-miner10-9 = 
-    $NamedOneName怒吼道：<br><p>         Long have I spake with you!<br>          If you had listened, you<br>          Would have precisely been<br>          Told what to do!<br>          You have had time enough<br>          To have made up your minds,<br>          Negotiation time <br>          Surely is through!<br><p>
+    $NamedOneName怒吼道：<br><p>         我与汝长谈已久！<br>          若你肯听从，你<br>          本应恰如其分<br>          告汝当行之事！<br>          你已有足够时日<br>          已决意如此，<br>          谈判之时<br>          自然已过！<br><p>
     他发动攻击。

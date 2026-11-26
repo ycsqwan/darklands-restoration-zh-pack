@@ -4,9 +4,9 @@ msg-miner11-0 =
     你面前挤满了地精。一名男子高高耸立于他们之上——这必定是矮人所言的首领！若你能击败他，地精叛乱将被镇压！感激的矮人们必将把矿井归还给人类主人，而你也将获胜！<br><p>
     明悉此情，你决定……<br><p><p><opt>...<indent>即刻进攻。<br><p><opt>...<indent>与那人议和。<br><p><opt>...<indent>立即离开。
 msg-miner11-1 = 
-    胜利归汝！地精首领已死，忽有矮人自后涌入大厅，掌控全局。其中一人转向汝曰：<br><p>         You have our gratitude<br>          For what it's worth, for you've<br>          Crushed the rebellion, and<br>          So we have won.<br>          Dead is their leader, their<br>          Hopes are all shattered. We'll<br>          Give you our thanks now for<br>          What you have done.
+    胜利归汝！地精首领已死，忽有矮人自后涌入大厅，掌控全局。其中一人转向汝曰：<br><p>         你有我们的感激<br>          值得一提的是，因为你<br>          已镇压叛乱，且<br>          于是我们已胜。<br>          其首领已死，其<br>          希望已尽碎。我们将<br>          现在向你致以我们的谢意<br>          你所为之。
 msg-miner11-2 = 
-    你对矮人道：“如今矿井归人类所有。我们助汝取胜，汝亦当助我。”矮人勉强答曰：<br><p>         Justice, you ask for? I<br>          Guess we'll provide it, for<br>          Evil ingratitude's<br>          Always a sin.<br>          Thus, we'll relinquish all<br>          Claims to the mine. All its<br>          Fruits can be yours, for we'll<br>          Gladly give in!<br><p>
+    你对矮人道：“如今矿井归人类所有。我们助汝取胜，汝亦当助我。”矮人勉强答曰：<br><p>         公正乎？汝问？<br>          估汝当予之，因<br>          邪恶忘恩之<br>          常为罪过。<br>          故吾等将舍弃一切<br>          对矿藏之索。其所有<br>          果实皆可归汝，因吾等将<br>          乐而相让！<br><p>
     他已同意！你赢了！矮人们离去，你独留于此。
 msg-miner11-3 = 
     你在矿井四处搜查，确认矮人确已离去，却未见半点踪迹。连他们的陷阱亦已被拆除。矿井可以重新开采！<br><p>

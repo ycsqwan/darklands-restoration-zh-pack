@@ -12,7 +12,7 @@ msg-cityg00-2 =
     失望地，你退入黑暗之中，重新思量……
 msg-cityg00-3 = 
     夜巡探身塔楼，以灯照汝。<br><p>
-    "Well now," he chuckles, "I recognize you. We've got a nice cozy dungeon cell waiting!" He immediately rings the alarm bell. As guards thunder along the walls toward the gate, you retreat into the darkness. Laughter follows your movements. <br><p>
+    “呵呵，”他笑道，“认得汝等。牢房早已备好，温暖舒适。”他当即鸣响警钟。守卫沿墙疾驰而来，你遁入黑暗。笑声随之远去。<br><p>
     “不许回来！”守卫喊道。
 msg-cityg00-4 = 
     Fortunately for you, the watchman isn't very bright. You manage to convince him that you have vital information, and that he'll be recognized as a hero for helping you. He opens a sally port. You congratulate him on his good judgement, then hurry off into the city.{" "}

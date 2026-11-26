@@ -3,7 +3,7 @@
 msg-wqsta04-0 = 
     你们被绑在桩上，取代了那位可怜的修士。你们意识到，在成为巴佛梅特的人祭之前，时间所剩无几！你...<br><p><p><opt>...<indent>勇敢承受命运。<br><p><opt>...<indent>以所有钱财收买他们。<br><p><opt>...<indent>以蛮力挣断绳索。<br><p><opt-items>...<indent>凭娴熟手法，悄然取出炼金药剂。<br><p><opt-saints>...<indent>呼唤圣人以求援助。<br>
 msg-wqsta04-1 = 
-    All too soon, the Templars light the faggots piled around your legs. Slowly the smoke and heat overcome you. <br><p>
+    不多时，圣殿骑士便点燃了堆于你双腿之侧的柴束。烟雾与灼热渐渐将你吞噬。<br><p>
     尽管你们的生命可能献祭于邪恶，但你们的灵魂仍归于天国。<br>
 msg-wqsta04-2 = 
     贪婪与贪欲战胜了圣殿骑士。他们解开了你的绳索，继而接受你隐藏的财富以换取你们的性命。留下你们的武器，他们将你们驱逐，并继续与那位不幸的修士进行原本的交易。你无能为力。

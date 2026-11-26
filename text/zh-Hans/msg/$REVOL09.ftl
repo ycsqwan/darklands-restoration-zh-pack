@@ -42,5 +42,5 @@ msg-revol09-15 =
 msg-revol09-16 = 
     幸运的是，$NamedOneName 忙得无暇留意你的离去。
 msg-revol09-17 = 
-    Praying quickly, $ChosenTwoName looks up to see a dramatic sight. The lieutenant of the guard halts his men and withdraws them to side streets. When you look closely, you can see someone in white robes beside the lieutenant. <br><p>
+    匆匆祈祷，$ChosenTwoName抬头望见一幕惊心动魄的景象。卫队长勒令部下止步，退至侧街。细看之下，只见卫队长身旁立着一位身披白袍之人。<br><p>
     你与$NamedOneName安抚惊慌的人群，开始平静地向$VarString1行进。卫兵目送你们离去。

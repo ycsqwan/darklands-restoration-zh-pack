@@ -15,7 +15,7 @@ msg-cityw00-3 =
 msg-cityw00-4 = 
     $ChosenOneName 试图迅速而悄然攀爬城墙，但石面过于光滑湿滑。伴随着一声令人作呕的重响，你 坠落于地。
 msg-cityw00-5 = 
-    When the guard looks away, a small bottle sails through the air and fragments on the battlement beside him. As he turns toward the sound, a yellowish-green vapor engulfs him and he slumps down. <br><p>
+    当守卫转眼之际，一小瓶飞越空中，在他身旁的垛口上碎裂。他闻声回首，只见黄绿色烟雾弥漫，随即瘫倒在地。<br><p>
     $ChosenOneName转向你们其余的人，问道：“好了，现在怎么办？”
 msg-cityw00-6 = 
     当守卫背过身去时，$ChosenOneName投下一小袋，越过垛口，轻落在守卫身旁。他弯腰捂喉，咳嗽不止。道路畅通……<br>

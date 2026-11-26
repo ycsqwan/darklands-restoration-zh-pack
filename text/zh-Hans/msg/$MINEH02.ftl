@@ -12,7 +12,7 @@ msg-mineh02-2 =
 msg-mineh02-3 = 
     费尽全力，你将岩石一层层堆砌在那邪恶之地之上，直至用巨大的石块将其完全掩埋。完工之后，你深感安心，确信任何邪恶之物都无法穿透你的石冢。
 msg-mineh02-4 = 
-    正如印证你的猜想一般，欢快的矮人骤然涌入厅堂，高歌欢庆。其中一人唱道：<br><p>         Multiple Gratitude<br>          All of our enemies<br>          Gone from our quarries and<br>          Tunnels forlorn.<br>          You have our thankfulness<br>          Humans of worthiness.<br>          Now we'll return to our<br>          Harbors re-born.<br><p>
+    正如印证你的猜想一般，欢快的矮人骤然涌入厅堂，高歌欢庆。其中一人唱道：<br><p>         多重感恩<br>          吾等诸敌<br>          已离吾等矿坑及<br>          隧道寂寥。<br>          吾等谢忱于汝<br>          有尊严的人。<br>          如今我们要回到<br>          我们重获新生的港湾。<br><p>
     说罢，矮人离去。汝细查矿井，确认矮人确已远去，终无所踪。矿井可重新开采！汝返矿工营地。矿工见汝凯旋，皆喜形于色。
 msg-mineh02-5 = 
     你扰动邪祟之力源，竟使其苏醒！震天怒吼，新邪蜂拥而出。你不得不战！

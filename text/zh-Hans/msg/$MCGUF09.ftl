@@ -20,7 +20,7 @@ msg-mcguf09-6 =
     药瓶于伏兵中爆炸。顷刻间，一骑铠甲鲜明之骑士率众直扑汝来！汝如今……<br><opt>0<br><opt>1<br><opt>2<br><opt>3<br><p><opt-battle>...<indent>拔刃自卫。<br><p><opt-saints>...<indent>祈祷圣徒能阻止他们阴险的袭击。<br><opt>6<br><p><opt>...<indent>回头逃跑。<br><p><opt-items>...<indent>使用药剂分散他们的注意力，趁机逃走。<br><opt>9<br>
 msg-mcguf09-7 = 
     当$ChosenOneName结束你的祈祷后，一道明光照彻全场。骑士及其部众踉跄后退，双手遮目。<br><p>
-    "I'm blind!" screams one attacker, staggering into a tree. Another moans in panic. <br><p>
+    “吾盲矣！”一袭击者踉跄撞树，哀嚎不已。另一惊恐呻吟。<br><p>
     你趁乱绕过敌手及其挥舞的兵刃。不久便将其甩在身后。众人皆默念感恩祷文。
 msg-mcguf09-8 = 
     药瓶于追兵前方爆炸。马匹惊慌失措，引发混乱。汝借此良机，从容逃脱。<br><p>

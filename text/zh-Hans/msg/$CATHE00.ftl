@@ -1,7 +1,7 @@
 # Chinese translation, generated from the project's translation table.
 
 msg-cathe00-0 = 
-    巨石怪在你接近那著名的$cathedral时俯视着。你的脚步声在雄伟的中殿内回响。阴森的雕像与熠熠生辉的彩绘玻璃影像高悬于头顶。你...<br><p><p><opt>...<indent>参加弥撒。<br><p><opt>...<indent>与牧师交谈。<br><p><opt>...<indent>积德捐出$Money1，以增神恩，亦有望提升德行。<br><p><opt>...<indent>ask about $NamedOneName, the $cathedral 's patron saint. <br><p><opt>...<indent>询问教士是否愿意割爱一件圣物。<br><p><opt>...<indent>积德献上圣物，以博青睐与褒扬。<br><p><opt>...<indent>寻求庇护。<br><p><opt>...<indent>leave the cathedral. <br><p><opt>...<indent>接受一件圣物，作为对你服务的酬谢。
+    巨石怪在你接近那著名的$cathedral时俯视着。你的脚步声在雄伟的中殿内回响。阴森的雕像与熠熠生辉的彩绘玻璃影像高悬于头顶。你...<br><p><p><opt>...<indent>参加弥撒。<br><p><opt>...<indent>与牧师交谈。<br><p><opt>...<indent>积德捐出$Money1，以增神恩，亦有望提升德行。<br><p><opt>...<indent>询问关于$NamedOneName的事，即$cathedral的守护圣人。<br><p><opt>...<indent>询问教士是否愿意割爱一件圣物。<br><p><opt>...<indent>积德献上圣物，以博青睐与褒扬。<br><p><opt>...<indent>寻求庇护。<br><p><opt>...<indent>离开大教堂。<br><p><opt>...<indent>接受一件圣物，作为对你服务的酬谢。
 msg-cathe00-1 = 
     一位神父匆匆向你走来。“抱歉，”他说，“下一场弥撒要到$NamedOneName时才会举行。请届时再来。”
 msg-cathe00-2 = 

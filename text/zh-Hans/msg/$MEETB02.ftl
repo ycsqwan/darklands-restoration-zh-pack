@@ -5,7 +5,7 @@ msg-meetb02-0 =
     “我想前方藏有某人或某物，”你低声道。你信重你的感知，于是决定……<br><p><p><opt>...<indent>不顾警告，继续前进。<br><p><opt>...<indent>凭魅力与辩才，虚与委蛇，蒙混过关。<br><p><opt-items>...<indent>试图用药剂驱散埋伏。<br><p><opt-saints>...<indent>祈求圣徒助你安然度过。<br><p><opt>...<indent>大声喊出你们愿意俯首乞怜。<br><p><opt>...<indent>静静绕过他们，避免任何冲突。<br><opt>6<br><p><opt>...<indent>悄悄上前，看看他们是谁。
 msg-meetb02-1 = 
     突然，一群满身污秽的匪徒士兵从伏击处跃起，高喊：“放下武器，否则死！”<br><p>
-    你迅速……<br><opt>0<br><p><opt>...<indent>凭魅力与辩才，脱身于此。<br><opt-items>2<br><p><opt-saints>...<indent>pray that a saint can stop their assault and let you pass peacefully. <br><p><opt>...<indent>投下兵刃，呼喊乞求他们的宽恕。<br><opt>5<br><p><opt-battle>...<indent>抽出自身武器，战斗。
+    你迅速……<br><opt>0<br><p><opt>...<indent>凭魅力与辩才，脱身于此。<br><opt-items>2<br><p><opt-saints>...<indent>祈祷圣者能阻止他们的袭击，让你平安通过。<br><p><opt>...<indent>投下兵刃，呼喊乞求他们的宽恕。<br><opt>5<br><p><opt-battle>...<indent>抽出自身武器，战斗。
 msg-meetb02-2 = 
     随着一声巨吼，$ChosenOneName 喝道：“这里发生了何事？”随即，你 以无与伦比的威严震慑群贼，令其惶恐不已，只求能侥幸离去，免遭你施加那难以想象之酷刑。<br><p>
     “嗯，他们果然信了我，”$ChosenOneName仅此一句，便道出你的惊人之举。

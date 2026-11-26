@@ -29,7 +29,7 @@ msg-drago05-6 =
     你回味他临别之言。
 msg-drago05-7 = 
     他颇为羞赧地述说：“自幼便听闻关于$NamedTwoName的传说，沉睡于蠕虫山下，注定在末日号角吹响之时苏醒，加入歌革与玛各的军阵。”<br><p>
-    "One day a priest, $NamedThreeName, came. He believed the old stories. He said 'twas Heaven's will that we unleash the dragon. Such proof of Satanic power would bring the people to repentance. <br><p>
+    “一日，一位神父，$NamedThreeName，来访。他笃信旧闻。谓天意使然，吾等当放龙出柙。此等撒旦之力之证，必令众民悔悟。”<br><p>
     “吾惟思屠龙之功名。为助狂僧，吾掘虫丘之隧。$NamedThreeName 入内，吾携弓手守候于外。”
 msg-drago05-8 = 
     $NamedOneName大人继续说道：“一声巨响，山顶被炸飞；那怪物腾空而起。我军的箭矢击打在其铁甲之上，叮当作响。”<br><p>
@@ -47,8 +47,8 @@ msg-drago05-11 =
 msg-drago05-12 = 
     被$NamedOneName爵士及其部下驱逐，你愤然逃窜。今日败北。事实上，你想到，若连龙都胜过骑士，你又岂能与之抗衡！
 msg-drago05-13 = 
-    Sir $NamedOneName's men take you captive. The arrogant knight curses. "Miscreants! You'll regret this day a long time." <br><p>
-    He turns to his men. "Take the prisoners away. The magistrate should deal with them, not us." <br><p>
+    $NamedOneName爵士的部下将你俘虏。那名傲慢的骑士咒骂道：“恶徒！你们会为今日后悔良久。”<br><p>
+    他转向手下。“把俘虏带走。该由地方官处置他们，而非我们。”<br><p>
     抢劫了你之后，那些士兵粗暴地把你押送到最近的城市，在那里你被毫不客气地扔进了地牢。
 msg-drago05-14 = 
     怒吼着，$NamedThreeName 以滔天的魔火将你逼退。他嘶哑地喊道：“凡人皆不能伤我，因我圣十字汲取龙穴之力！故而地狱之威反为天恩所用！”<br><p>

@@ -26,7 +26,7 @@ msg-mcguf08-8 =
     你打量周遭废墟。墓穴依旧阴森可怖。你匆匆携$NamedOneName攀出。外头灰云压城，天色渐黑。你尽快离去，以免生变。
 msg-mcguf08-9 = 
     正当$ChosenOneName结束你的祈祷时，大地开始震动。天花板上的石块纷纷坠落，将墓穴彻底封死。你迅速拾起$NamedOneName，攀爬而上。<br><p>
-    When the dust settles, the entrance to the crypt is closed once more. The rubble now has the unmistakable outline of an old church. <br>
+    尘埃落定，墓室入口复又紧闭。瓦砾间依稀可见旧教堂之轮廓。<br>
 msg-mcguf08-10 = 
     你脱险逃下丘陵，如蹈鬼域追索。
 msg-mcguf08-11 = 
@@ -42,7 +42,7 @@ msg-mcguf08-15 =
 msg-mcguf08-16 = 
     正当$ChosenOneName结束你的祈祷时，大地开始呻吟震颤。天花板上的石块纷纷坠落，将墓穴严实地封住。你迅速拾起$NamedOneName，攀爬着从入口返回。<br><p>
     一块滚落的巨石砸断了$ChosenTwoName的腿，但你还是将同伴拖至安全之地。<br><p>
-    When the dust settles, the entrance to the crypt is closed once more. The rubble now has the unmistakable outline of an old church. <br>
+    尘埃落定，墓室入口复又紧闭。瓦砾间依稀可见旧教堂之轮廓。<br>
 msg-mcguf08-17 = 
     你脱险逃下丘陵，如蹈鬼域追索。及至歇息，方念身后遗骸——竟无基督安葬！
 msg-mcguf08-18 = 

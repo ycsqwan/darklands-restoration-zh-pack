@@ -2,12 +2,12 @@
 
 msg-dunge00-0 = 
     沾满苔藓的流苏垂挂在墙上，空气中弥漫着尿臊味。铁栏虽锈迹斑斑，却仍保有昔日的坚固。一扇小窗为牢室带来微光。狱卒给你一碗隔夜的炖菜，并备着一桶满溢的污浊饮水。这便是牢中奢华的生活。<br><p>
-    永不绝望，你决定去……<br><p><p><opt>...<indent>开锁。<br><p><opt>...<indent>climb to the window. <br><p><opt>...<indent>用勺子挖出。<br><p><opt>...<indent>诱惑狱卒。<br><p><opt>...<indent>寻求神父。<br><p><opt>...<indent>祈祷。<br><p><opt-saints>...<indent>呼唤圣徒。<br><p><opt>...<indent>冷静等待法官的裁决。<br><p><opt-items>...<indent>对锁使用酸液。
+    永不绝望，你决定去……<br><p><p><opt>...<indent>开锁。<br><p><opt>...<indent>攀至窗前。<br><p><opt>...<indent>用勺子挖出。<br><p><opt>...<indent>诱惑狱卒。<br><p><opt>...<indent>寻求神父。<br><p><opt>...<indent>祈祷。<br><p><opt-saints>...<indent>呼唤圣徒。<br><p><opt>...<indent>冷静等待法官的裁决。<br><p><opt-items>...<indent>对锁使用酸液。
 msg-dunge00-1 = 
     在你的新牢房里，一片漆黑。每日，那位新来的残暴狱卒携一盏摇曳的烛火前来检查锁具，用长杆戳弄你，并抛掷几块霉烂的面包屑。饮水则须舔舐墙上的湿气。多数时候，你只是坐在黑暗中，伸手不见五指。<br><p>
     你乐观地决定去……<br><p><p><opt>...<indent>开锁。<br><opt> <br><p><opt>...<indent>用勺子挖出。<br><opt><br><p><opt>...<indent>寻求神父。<br><p><opt>...<indent>祈祷。<br><p><opt-saints>...<indent>呼唤圣徒。<br><p><opt>...<indent>冷静等待法官的裁决。<br><p><opt-items>...<indent>对锁使用酸液。
 msg-dunge00-2 = 
-    You are held incommunicado in an oubliette, a nitre-encrusted well too deep to climb or dig out. The only exit is a narrow hole at the top, blocked by a hinged metal plate. Occasionally the deformed turnkey remembers to toss an armful of garbage down, and you must fight for this "food" with rats and insects. <br><p>
+    你在隐牢中与世隔绝，那是一口硝垢斑驳、深不可攀的枯井。出口仅顶部一狭孔，覆以铰链铁板。偶有畸形狱卒记起投下一捧秽物，你须与鼠虫争食。<br><p>
     你黯然决定去……<br><opt><br><opt><br><opt><br><opt><br><opt><br><p><opt>...<indent>祈祷。<br><p><opt-saints>...<indent>呼唤圣徒。<br><p><opt>...<indent>冷静等待法官的裁决。
 msg-dunge00-3 = 
     圣露西听到了你的祈求。一道神圣的光芒射入黑暗的牢房，为你带来光明。当狱卒经过时，露西的光芒便消逝，因此他从未察觉它的存在。<br><p>
