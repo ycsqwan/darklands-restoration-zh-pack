@@ -312,3 +312,17 @@ Lucifuge Rofocale 诸资料（Grand Grimoire / Goetia 研究）。
 全部依据官方 *Darklands Clue Book*（1992，MicroProse）OCCUPATION QUALIFICATIONS 一节：
 `Schulz` 原文要求「须先为农民且历任军职/神职」，故取「村长」而非音译「舒尔茨」；
 `Oblate` 为「在修道院学习者」，取「见习修士」。
+
+### 人名（角色生成器的三张表，`exe:290E:1171..1D19`）
+
+- **男名（108）、女名（88）**：历史上真实存在的德语人名。有通行中译的用通行
+  （`Otto→奥托`、`Heinrich→海因里希`、`Friedrich→弗里德里希`、`Wolfgang→沃尔夫冈`、
+  `Katherine→凯瑟琳`、`Maria→玛利亚`），其余按统一音译。
+  北欧神话来源的名字沿用中文既有译法（`Freyja→芙蕾雅`、`Brünnhilde→布伦希尔德`、
+  `Siegfried→齐格弗里德`、`Gudrun→古德龙`）。
+- **姓氏（144）**：按《世界人名翻译大辞典》的音译规则处理；有通行中译的用通行
+  （`Goethe→歌德`、`Luther→路德`、`Kepler→开普勒`、`Müller→米勒`、`Schmidt→施密特`）。
+- **贵族氏号（42 条 `of X`）**：译作「X 的」，地名部分复用 `loc` 一节的地名译法。
+
+> 说明：这些人名在原数据里是随机生成器的素材，没有官方中文版本，因此本包只保证拼写统一、
+> 读音可还原，不宣称是唯一正确的译法。
