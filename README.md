@@ -288,12 +288,12 @@ Lucifuge Rofocale 诸资料（Grand Grimoire / Goetia 研究）。
 | Landgrave | 方伯 | 中文维基「方伯」（德国节：领地伯爵 Landgraf） |
 | Count Palatine | 行宫伯爵 | Pfalzgraf，中文维基作「行宮伯爵」，与藩侯、方伯同级 |
 | Prince-Bishop | **采邑主教** | 中文维基主条目名（或译王公主教、亲王主教） |
-| Prince-Abbot | **采邑隐修院院长** | 通行译名，德文 Fürstabt |
+| Prince-Abbot | **采邑修道院长** | 通行译名，德文 Fürstabt |
 | Archbishop / Bishop | 大主教 / 主教 | 通行译名 |
 | Swiss Confederation | 瑞士联邦 | 通行译名 |
 
 > 初版曾把 `Prince-Bishop` 译作「亲王主教」、`Prince-Abbot` 译作「亲王院长」，
-> 网络核查后按中文维基主条目改为「采邑主教」「采邑隐修院院长」。
+> 网络核查后按中文维基主条目改为「采邑主教」「采邑修道院长」。
 
 ### 地名（部分）
 
@@ -344,7 +344,7 @@ Lucifuge Rofocale 诸资料（Grand Grimoire / Goetia 研究）。
 | --- | --- | --- | --- |
 | loc-2-name | Vordingborg | 维堡 | 沃尔丁堡 |
 | snt-saint-94-desc | Medici | 梅迪奇 | 美第奇 |
-| dsc-79-desc | Prince-Abbot | 亲王院长 | 采邑隐修院院长 |
+| dsc-79-desc | Prince-Abbot | 亲王院长 | 采邑修道院长 |
 | $BALTI01 | Szczecin | 斯塞廷 | 什切青 |
 | $BALTI01 | Gdańsk | 格但斯克 | 但泽 |
 
