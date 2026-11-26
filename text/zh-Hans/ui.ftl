@@ -41,3 +41,36 @@ id-rw-unavailable-item-store =  The item store is not available here.
 id-rw-unavailable-loot =  Loot is not available here.
 id-rw-unavailable-party-info =  Party information is not available here.
 id-rw-unavailable-trading =  { $name }: trading is not available here.
+# ---- 1.1.4: the store's "no room" message and the game's pronouns ----
+id-rw-store-no-room = 店家已没有更多的空间了。
+
+var-he =
+    { $sex ->
+        [female] 她
+       *[male] 他
+    }
+var-He =
+    { $sex ->
+        [female] 她
+       *[male] 他
+    }
+var-him =
+    { $sex ->
+        [female] 她
+       *[male] 他
+    }
+var-his =
+    { $sex ->
+        [female] 她的
+       *[male] 他的
+    }
+var-His =
+    { $sex ->
+        [female] 她的
+       *[male] 他的
+    }
+var-himself =
+    { $sex ->
+        [female] 她自己
+       *[male] 他自己
+    }

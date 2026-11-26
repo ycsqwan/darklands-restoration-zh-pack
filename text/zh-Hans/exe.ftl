@@ -1211,3 +1211,15 @@ exe-ds-68e5 =  cave
 exe-ds-68ea =  shrine
 exe-ds-68f1 =  mound
 exe-ds-68f7 =  pagan altar
+# ---- 1.1.4: the character generator's word tables and the shop names ----
+exe-290e-07bd = 农夫
+exe-290e-07c5 = 猎人
+exe-290e-07cc = 匪徒
+exe-ds-073e = （领队）
+exe-ds-0744 = （全体）
+exe-ds-587d = 草药师
+exe-ds-5887 = 当铺
+exe-ds-5915 = 马厩主管
+exe-ds-5a8d = 大学
+exe-ds-5e47 = 反叛者
+exe-ds-5e4d = 保守派

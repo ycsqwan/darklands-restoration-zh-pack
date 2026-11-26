@@ -3173,3 +3173,7 @@ enm-type-78-name =  Bandit Sgt
 enm-type-79-name =  Castle Guard
 enm-type-80-name =  Castle Lord
 enm-type-81-name =  Acolyte
+# ---- 1.1.4: the map's messages ----
+map-0-text = 错误信息
+map-1-text = {" "} 你望见一座阴森的石冢，意识到自己已踏入一名劫匪骑士的领地。{"\u000A"}   你可以大胆直奔城堡，在路边伏击劫匪骑士的手下，或假扮普通旅人，引开他们的注意。
+map-2-text = 此处大异寻常。土地枯槁死寂，毒雾蜿蜒穿过沟壑。树木只剩无枝的焦黑残桩，残存的几缕草叶也已枯萎发灰。远处坐落着一座废墟村落，黑烬般的屋舍上青烟升腾。 {"\u000A"}究竟是何等力量造成了这场毁灭？
