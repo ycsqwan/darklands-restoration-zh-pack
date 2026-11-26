@@ -130,3 +130,92 @@ darklands-zh/
 - 翻译者指南：`docs/TRANSLATING.md`（在上游发布包的 `docs/` 里）
 - 语言包规范：`docs/LOCALISATION.md`
 - 编辑工具 Darklands Workshop：见上游 releases
+
+---
+
+## 实验性专名（experimental/proper-nouns 分支）
+
+本分支收录**尚无定译的专有名词**，供试玩与讨论；合并进 `main` 前会再校一遍。
+
+命名原则：
+
+1. **有通行中译的用通行译法**——如恶魔 `Rofocale` 作「罗弗寇」（中文百科既定条目）、`Bezaleel`
+   作「比撒列」（《出埃及记》造会幕者）；
+2. **有语源但无通行中译的，按语源意译并在此注明**——如 `Mantiphage`（希腊语 mantis+phagein）
+   作「食蝗者」、`Calefactor`（拉丁语「加热者」）、「避光者」对应 `Lucifuge`；
+3. **其余为音译**，拼写统一、可读即可，便于日后替换。
+
+### 龙名（16，`exe:290E:0873..091B`）
+
+| 英文 | 中文 | 出处 |
+| --- | --- | --- |
+| Enitharmon | 厄尼色芒 | 威廉·布莱克神话中的女性形象（Los 之配偶） |
+| Sarcopteryx | 肉翼龙 | 希腊语 sarx（肉）+ pteryx（翼） |
+| Gorgorex | 戈尔戈雷克斯 | 生造词，无文献出处 |
+| Rodomont | 罗多蒙特 | 阿里奥斯托《疯狂的罗兰》中的英雄 |
+| Calefactor | 加热者 | 拉丁语 calefactor |
+| Vendichisme | 旺迪希斯姆 | 生造词，无文献出处 |
+| Odonanga vexans | 奥多南加·威克桑斯 | 生造词，无文献出处 |
+| Lucifuge | 避光者 | 《大魔法书》(Grand Grimoire) 地狱宰相之名前半 |
+| Rofocale | 罗弗寇 | 《大魔法书》；通行中译见中文百科「罗弗寇」 |
+| Venifer | 维尼费 | 恶魔学 Venien/Venifer 系 |
+| Mantiphage | 食蝗者 | 希腊语 mantis（预言者）+ phagein（食） |
+| Luveh serpens | 卢维蛇 | 拉丁化生造，serpens＝蛇 |
+| Sator monitor | 萨托尔监视者 | Sator 方阵（古罗马） |
+| Bezaleel | 比撒列 | 《出埃及记》31:2，造会幕的工匠 |
+| Eru damnosum | 被咒之厄鲁 | 拉丁语 damnosum＝被诅咒者 |
+| Baruch ophidious | 巴鲁克蛇族 | Baruch（耶利米的书记）+ ophidia（蛇类） |
+
+来源：https://en.wikipedia.org/wiki/List_of_dragons_in_mythology_and_folklore ；
+Lucifuge Rofocale 诸资料（Grand Grimoire / Goetia 研究）。
+
+### 矮人名（38，`exe:290E:092C..0A25`）
+
+均出自《女巫预言》（Völuspá）的 Dvergatal（矮人名录）或《散文埃达》，个别为 MicroProse 自拟。
+
+| 英文 | 中文 | 出处 |
+| --- | --- | --- |
+| Alveig | 阿尔薇格 | 埃达系女性名 Alvǫr |
+| Angerboda | 安格尔波达 | Angrboða，芬里尔与海拉之母 |
+| Asmund | 阿斯蒙德 | Ásmundr |
+| Bikke | 比克 | — |
+| Brok | 布洛克 | Brokkr，与辛德里同为铁匠 |
+| Dromi | 德罗米 | — |
+| Dvalin | 德瓦林 | Dvalinn，矮人首领（「沉睡者」） |
+| Egil | 埃吉尔 | Egill |
+| Egther | 埃格瑟 | — |
+| Fyalar | 菲亚拉 | Fjalar |
+| Gelgya | 盖尔吉亚 | — |
+| Grep | 格雷普 | Grer/Grep |
+| Groa | 格罗亚 | Gróa，女先知 |
+| Gudhorm | 古德霍姆 | — |
+| Gulveig | 古尔薇格 | Gullveig |
+| Gymer | 吉梅尔 | — |
+| Gyoll | 焦尔 | — |
+| Hadding | 哈丁 | — |
+| Hardgrep | 哈德格雷普 | — |
+| Honer | 霍纳尔 | Hœnir |
+| Hother | 霍特尔 | Hǫðr |
+| Leding | 莱丁 | — |
+| Managarm | 玛纳加尔姆 | Mánagarmr，逐月之犬 |
+| Mimer | 密米尔 | Mímir，智慧之泉守护者 |
+| Mimingus | 米明古斯 | Mimingr，海姆达尔之号角 |
+| Morn | 莫尔恩 | — |
+| Narve | 纳尔维 | — |
+| Nidhad | 尼德哈德 | Niði／Níðhöggr 一系 |
+| Ope | 奥佩 | — |
+| Orvandel | 奥尔万德尔 | — |
+| Sindre | 辛德里 | Sindri，与布洛克同为铁匠 |
+| Skade | 丝卡蒂 | Skaði |
+| Suttung | 苏图恩 | Suttungr，诗蜜酒守护者 |
+| Thyasse | 蒂亚瑟 | Þjazi |
+| Thviti | 斯维提 | — |
+| Tope | 托佩 | — |
+| Ull | 乌尔 | Ullr |
+| Volund | 沃尔隆德 | Vǫlundr，即「铁匠韦兰」 |
+
+来源：Dvergatal 原文 https://glaemscrafu.jrrvf.com/english/dvergatal.html ；
+名录 https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology
+
+> 注：这些名字里的一部分（如 Alveig、Gudhorm、Thviti 等）在中文出版物中没有固定译法，
+> 本表按统一音译规则处理；一旦出现更通用的中译，直接替换即可。
